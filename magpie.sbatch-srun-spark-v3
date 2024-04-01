@@ -264,11 +264,11 @@ export MAGPIE_JOB_TYPE="spark"
 # If you have a more complex situation, see README.hostname for more
 # advanced options.
 #
-export MAGPIE_HOSTNAME_CMD="hostname"
+export MAGPIE_HOSTNAME_CMD="hostname -s"
 
-export MAGPIE_HOSTNAME_CMD_MAP="${MAGPIE_SCRIPTS_HOME}/scripts/hostname-map-scripts/my-script"
-#
-export MAGPIE_HOSTNAME_SCHEDULER_MAP="${MAGPIE_SCRIPTS_HOME}/scripts/hostname-map-scripts/my-script"
+# export MAGPIE_HOSTNAME_CMD_MAP="${MAGPIE_SCRIPTS_HOME}/scripts/hostname-map-scripts/magpie-hostname-map.sh"
+
+# export MAGPIE_HOSTNAME_SCHEDULER_MAP="${MAGPIE_SCRIPTS_HOME}/scripts/hostname-map-scripts/magpie-hostname-map.sh"
 
 
 # Remote Shell
@@ -606,7 +606,7 @@ export SPARK_JOB="sparkpi"
 # Please set HADOOP_LOCALSTORE to inform Yarn to set a local SSD for
 # Yarn to use for local scratch.
 #
-export SPARK_LOCAL_SCRATCH_DIR="/lustre/${USER}/sparkscratch/"
+export SPARK_LOCAL_SCRATCH_DIR="$CLUSTER_SCRATCH/sparkscratch"
 
 # SPARK_LOCAL_SCRATCH_DIR_CLEAR
 #
