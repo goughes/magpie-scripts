@@ -12,8 +12,7 @@ export HADOOP_CONF_DIR="/tmp/wwtung/hadoop/magpietest/15961698/hadoop/conf"
 `export HADOOP_LIBS=$HADOOP_HOME/etc/hadoop:$HADOOP_HOME/share/hadoop/common/lib/:$HADOOP_HOME/share/hadoop/common/:$HADOOP_HOME/share/hadoop/hdfs:$HADOOP_HOME/share/hadoop/hdfs/lib/:$HADOOP_HOME/share/hadoop/hdfs/:$HADOOP_HOME/share/hadoop/yarn/lib/:$HADOOP_HOME/share/hadoop/yarn/:$HADOOP_HOME/share/hadoop/mapreduce/lib/:$HADOOP_HOME/share/hadoop/mapreduce/:$HADOOP_HOME/contrib/capacity-scheduler/`
 4. Get this (just once):
 ```
-[goughes@wceres-fe00 ~ ]$ ls -l /tmp/Rhipe_0.78.0_hadoop-2.tar.gz 
--rw-r--r-- 1 goughes research 2915835 Apr 12 15:57 /tmp/Rhipe_0.78.0_hadoop-2.tar.gz
+/depot/gdsp/data/CPMA/MAGPIE_Run/Rhipe_0.78.0_hadoop-2.tar.gz 
 ```
 5. In a006 run
 ```
