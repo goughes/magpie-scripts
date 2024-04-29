@@ -23,9 +23,13 @@ export LD_LIBRARY_PATH=/depot/itap/goughes/protobuf-2.5.0/lib:$LD_LIBRARY_PATH
 export LIBRARY_PATH=/depot/itap/goughes/protobuf-2.5.0/include:$LIBRARY_PATH
 export PKG_CONFIG_PATH=/depot/itap/goughes/protobuf-2.5.0/lib/pkgconfig:$PKG_CONFIG_PATH
 ```
-6. Then start R and followed basically 10.b and beyond in https://github.com/ClimateLearning/Rhipe_Installation/tree/master/wceres.rcac to install the new Rhipe without errors.
+6. Then start R and followed basically 10.b and beyond in https://github.com/ClimateLearning/Rhipe_Installation/tree/master/wceres.rcac to install the new Rhipe (just once).
 7. CPMA script
 ```
 cd /depot/gdsp/data/CPMA/MAGPIE_Run
 Rscript performance.R
+```
+8. Next time use magpie-hadoop-lustre-hdfs again, might need to remove the in_use lock file.
+```
+rm /scratch/negishi/wwtung/hdfsoverlustre//magpie.hdfs_in_use
 ```
