@@ -1,6 +1,0 @@
-2024-01-12 13:38:03,300 INFO  [main][org.apache.hadoop.yarn.client.api.impl.TimelineClientImpl] Timeline service address: http://wceres-adm.rcac.purdue.edu:8188/ws/v1/timeline/
-2024-01-12 13:38:03,394 INFO  [main][org.apache.hadoop.yarn.client.RMProxy] Connecting to ResourceManager at wceres-adm.rcac.purdue.edu/172.18.13.13:8032
-2024-01-12 13:38:03,499 INFO  [main][org.apache.hadoop.yarn.client.AHSProxy] Connecting to Application History server at wceres-adm.rcac.purdue.edu/172.18.13.13:10200
-2024-01-12 13:38:20,580 INFO  [main][org.apache.hadoop.yarn.client.api.impl.TimelineClientImpl] Timeline service address: http://wceres-adm.rcac.purdue.edu:8188/ws/v1/timeline/
-2024-01-12 13:38:20,580 INFO  [main][org.apache.hadoop.yarn.client.RMProxy] Connecting to ResourceManager at wceres-adm.rcac.purdue.edu/172.18.13.13:8032
-2024-01-12 13:38:20,581 INFO  [main][org.apache.hadoop.yarn.client.AHSProxy] Connecting to Application History server at wceres-adm.rcac.purdue.edu/172.18.13.13:10200
