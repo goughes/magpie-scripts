@@ -1,0 +1,4 @@
+2024-01-12 14:53:27,591 INFO  [main][org.apache.hadoop.yarn.client.api.impl.TimelineClientImpl] Timeline service address: http://wceres-adm.rcac.purdue.edu:8188/ws/v1/timeline/
+2024-01-12 14:53:27,689 INFO  [main][org.apache.hadoop.yarn.client.RMProxy] Connecting to ResourceManager at wceres-adm.rcac.purdue.edu/172.18.13.13:8032
+2024-01-12 14:53:27,806 INFO  [main][org.apache.hadoop.yarn.client.AHSProxy] Connecting to Application History server at wceres-adm.rcac.purdue.edu/172.18.13.13:10200
+2024-01-12 14:53:28,487 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] fs.default.name is deprecated. Instead, use fs.defaultFS

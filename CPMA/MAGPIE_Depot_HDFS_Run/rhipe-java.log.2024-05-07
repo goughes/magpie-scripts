@@ -1,0 +1,32 @@
+2024-05-07 23:14:31,655 WARN  [main][org.apache.hadoop.util.NativeCodeLoader] Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2024-05-07 23:14:31,751 INFO  [main][org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider] Connecting to ResourceManager at a278/172.18.105.62:8032
+2024-05-07 23:14:32,435 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] fs.default.name is deprecated. Instead, use fs.defaultFS
+2024-05-07 23:14:32,879 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] mapred.compress.map.output is deprecated. Instead, use mapreduce.map.output.compress
+2024-05-07 23:14:32,879 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] mapred.map.tasks is deprecated. Instead, use mapreduce.job.maps
+2024-05-07 23:14:32,881 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] mapred.job.reuse.jvm.num.tasks is deprecated. Instead, use mapreduce.job.jvm.numtasks
+2024-05-07 23:14:32,881 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] mapred.output.compress is deprecated. Instead, use mapreduce.output.fileoutputformat.compress
+2024-05-07 23:14:32,882 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache file:/tmp/rhipe-temp-params-b5169abf7dfa2638426fddd1a4168d10#rhipe-temp-params-b5169abf7dfa2638426fddd1a4168d10
+2024-05-07 23:14:32,882 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache archive:/user/wwtung/bin/R.Pkg.tar.gz#R.Pkg
+2024-05-07 23:14:32,883 DEBUG [main][org.godhuli.rhipe.RHMR] /user/wwtung/results/m5
+2024-05-07 23:14:32,905 INFO  [main][org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider] Connecting to ResourceManager at a278/172.18.105.62:8032
+2024-05-07 23:14:33,025 INFO  [main][org.apache.hadoop.mapreduce.JobResourceUploader] Disabling Erasure Coding for path: /tmp/wwtung/hadoop/magpietest/16407512/hadoop/scratch/yarn/wwtung/.staging/job_1715136170212_0001
+2024-05-07 23:14:33,208 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Cleaning up the staging area /tmp/wwtung/hadoop/magpietest/16407512/hadoop/scratch/yarn/wwtung/.staging/job_1715136170212_0001
+2024-05-07 23:21:24,389 WARN  [main][org.apache.hadoop.util.NativeCodeLoader] Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2024-05-07 23:21:24,482 INFO  [main][org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider] Connecting to ResourceManager at a278/172.18.105.62:8032
+2024-05-07 23:21:25,150 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] fs.default.name is deprecated. Instead, use fs.defaultFS
+2024-05-07 23:21:25,545 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] mapred.compress.map.output is deprecated. Instead, use mapreduce.map.output.compress
+2024-05-07 23:21:25,545 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] mapred.map.tasks is deprecated. Instead, use mapreduce.job.maps
+2024-05-07 23:21:25,547 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] mapred.job.reuse.jvm.num.tasks is deprecated. Instead, use mapreduce.job.jvm.numtasks
+2024-05-07 23:21:25,547 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] mapred.output.compress is deprecated. Instead, use mapreduce.output.fileoutputformat.compress
+2024-05-07 23:21:25,548 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache file:/tmp/rhipe-temp-params-f72e6beb44f462eb73b343fd48f4460e#rhipe-temp-params-f72e6beb44f462eb73b343fd48f4460e
+2024-05-07 23:21:25,548 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache archive:/user/wwtung/bin/R.Pkg.tar.gz#R.Pkg
+2024-05-07 23:21:25,549 DEBUG [main][org.godhuli.rhipe.RHMR] /user/wwtung/results/m5
+2024-05-07 23:21:25,566 INFO  [main][org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider] Connecting to ResourceManager at a278/172.18.105.62:8032
+2024-05-07 23:21:25,646 INFO  [main][org.apache.hadoop.mapreduce.JobResourceUploader] Disabling Erasure Coding for path: /tmp/wwtung/hadoop/magpietest/16407512/hadoop/scratch/yarn/wwtung/.staging/job_1715136170212_0002
+2024-05-07 23:21:25,970 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] number of splits:2
+2024-05-07 23:21:26,137 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Submitting tokens for job: job_1715136170212_0002
+2024-05-07 23:21:26,137 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Executing with tokens: []
+2024-05-07 23:21:26,269 INFO  [main][org.apache.hadoop.conf.Configuration] resource-types.xml not found
+2024-05-07 23:21:26,270 INFO  [main][org.apache.hadoop.yarn.util.resource.ResourceUtils] Unable to find 'resource-types.xml'.
+2024-05-07 23:21:26,618 INFO  [main][org.apache.hadoop.yarn.client.api.impl.YarnClientImpl] Submitted application application_1715136170212_0002
+2024-05-07 23:21:26,648 INFO  [main][org.apache.hadoop.mapreduce.Job] The url to track the job: http://a278:8088/proxy/application_1715136170212_0002/

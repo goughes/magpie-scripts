@@ -1,0 +1,3133 @@
+2024-05-07 23:14:31,655 WARN  [main][org.apache.hadoop.util.NativeCodeLoader] Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2024-05-07 23:14:31,751 INFO  [main][org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider] Connecting to ResourceManager at a278/172.18.105.62:8032
+2024-05-07 23:14:32,435 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] fs.default.name is deprecated. Instead, use fs.defaultFS
+2024-05-07 23:14:32,879 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] mapred.compress.map.output is deprecated. Instead, use mapreduce.map.output.compress
+2024-05-07 23:14:32,879 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] mapred.map.tasks is deprecated. Instead, use mapreduce.job.maps
+2024-05-07 23:14:32,881 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] mapred.job.reuse.jvm.num.tasks is deprecated. Instead, use mapreduce.job.jvm.numtasks
+2024-05-07 23:14:32,881 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] mapred.output.compress is deprecated. Instead, use mapreduce.output.fileoutputformat.compress
+2024-05-07 23:14:32,882 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache file:/tmp/rhipe-temp-params-b5169abf7dfa2638426fddd1a4168d10#rhipe-temp-params-b5169abf7dfa2638426fddd1a4168d10
+2024-05-07 23:14:32,882 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache archive:/user/wwtung/bin/R.Pkg.tar.gz#R.Pkg
+2024-05-07 23:14:32,883 DEBUG [main][org.godhuli.rhipe.RHMR] /user/wwtung/results/m5
+2024-05-07 23:14:32,905 INFO  [main][org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider] Connecting to ResourceManager at a278/172.18.105.62:8032
+2024-05-07 23:14:33,025 INFO  [main][org.apache.hadoop.mapreduce.JobResourceUploader] Disabling Erasure Coding for path: /tmp/wwtung/hadoop/magpietest/16407512/hadoop/scratch/yarn/wwtung/.staging/job_1715136170212_0001
+2024-05-07 23:14:33,208 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Cleaning up the staging area /tmp/wwtung/hadoop/magpietest/16407512/hadoop/scratch/yarn/wwtung/.staging/job_1715136170212_0001
+2024-05-07 23:21:24,389 WARN  [main][org.apache.hadoop.util.NativeCodeLoader] Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2024-05-07 23:21:24,482 INFO  [main][org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider] Connecting to ResourceManager at a278/172.18.105.62:8032
+2024-05-07 23:21:25,150 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] fs.default.name is deprecated. Instead, use fs.defaultFS
+2024-05-07 23:21:25,545 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] mapred.compress.map.output is deprecated. Instead, use mapreduce.map.output.compress
+2024-05-07 23:21:25,545 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] mapred.map.tasks is deprecated. Instead, use mapreduce.job.maps
+2024-05-07 23:21:25,547 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] mapred.job.reuse.jvm.num.tasks is deprecated. Instead, use mapreduce.job.jvm.numtasks
+2024-05-07 23:21:25,547 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] mapred.output.compress is deprecated. Instead, use mapreduce.output.fileoutputformat.compress
+2024-05-07 23:21:25,548 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache file:/tmp/rhipe-temp-params-f72e6beb44f462eb73b343fd48f4460e#rhipe-temp-params-f72e6beb44f462eb73b343fd48f4460e
+2024-05-07 23:21:25,548 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache archive:/user/wwtung/bin/R.Pkg.tar.gz#R.Pkg
+2024-05-07 23:21:25,549 DEBUG [main][org.godhuli.rhipe.RHMR] /user/wwtung/results/m5
+2024-05-07 23:21:25,566 INFO  [main][org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider] Connecting to ResourceManager at a278/172.18.105.62:8032
+2024-05-07 23:21:25,646 INFO  [main][org.apache.hadoop.mapreduce.JobResourceUploader] Disabling Erasure Coding for path: /tmp/wwtung/hadoop/magpietest/16407512/hadoop/scratch/yarn/wwtung/.staging/job_1715136170212_0002
+2024-05-07 23:21:25,970 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] number of splits:2
+2024-05-07 23:21:26,137 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Submitting tokens for job: job_1715136170212_0002
+2024-05-07 23:21:26,137 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Executing with tokens: []
+2024-05-07 23:21:26,269 INFO  [main][org.apache.hadoop.conf.Configuration] resource-types.xml not found
+2024-05-07 23:21:26,270 INFO  [main][org.apache.hadoop.yarn.util.resource.ResourceUtils] Unable to find 'resource-types.xml'.
+2024-05-07 23:21:26,618 INFO  [main][org.apache.hadoop.yarn.client.api.impl.YarnClientImpl] Submitted application application_1715136170212_0002
+2024-05-07 23:21:26,648 INFO  [main][org.apache.hadoop.mapreduce.Job] The url to track the job: http://a278:8088/proxy/application_1715136170212_0002/
+2024-05-08 02:19:58,468 WARN  [main][org.apache.hadoop.util.NativeCodeLoader] Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2024-05-08 02:19:58,568 INFO  [main][org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider] Connecting to ResourceManager at a206/172.18.104.246:8032
+2024-05-08 02:19:59,253 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] fs.default.name is deprecated. Instead, use fs.defaultFS
+2024-05-08 02:19:59,626 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] mapred.compress.map.output is deprecated. Instead, use mapreduce.map.output.compress
+2024-05-08 02:19:59,626 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] mapred.map.tasks is deprecated. Instead, use mapreduce.job.maps
+2024-05-08 02:19:59,628 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] mapred.job.reuse.jvm.num.tasks is deprecated. Instead, use mapreduce.job.jvm.numtasks
+2024-05-08 02:19:59,628 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] mapred.output.compress is deprecated. Instead, use mapreduce.output.fileoutputformat.compress
+2024-05-08 02:19:59,629 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache file:/tmp/rhipe-temp-params-32e880fb48fa9bffa89a2f16f1e2bd43#rhipe-temp-params-32e880fb48fa9bffa89a2f16f1e2bd43
+2024-05-08 02:19:59,629 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache archive:/user/wwtung/bin/R.Pkg.tar.gz#R.Pkg
+2024-05-08 02:19:59,631 DEBUG [main][org.godhuli.rhipe.RHMR] /user/wwtung/results/m5
+2024-05-08 02:19:59,653 INFO  [main][org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider] Connecting to ResourceManager at a206/172.18.104.246:8032
+2024-05-08 02:19:59,750 INFO  [main][org.apache.hadoop.mapreduce.JobResourceUploader] Disabling Erasure Coding for path: /tmp/wwtung/hadoop/magpietest/16411833/hadoop/scratch/yarn/wwtung/.staging/job_1715148647425_0001
+2024-05-08 02:19:59,838 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] number of splits:2
+2024-05-08 02:19:59,927 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Submitting tokens for job: job_1715148647425_0001
+2024-05-08 02:19:59,927 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Executing with tokens: []
+2024-05-08 02:20:00,055 INFO  [main][org.apache.hadoop.conf.Configuration] resource-types.xml not found
+2024-05-08 02:20:00,056 INFO  [main][org.apache.hadoop.yarn.util.resource.ResourceUtils] Unable to find 'resource-types.xml'.
+2024-05-08 02:20:00,402 INFO  [main][org.apache.hadoop.yarn.client.api.impl.YarnClientImpl] Submitted application application_1715148647425_0001
+2024-05-08 02:20:00,428 INFO  [main][org.apache.hadoop.mapreduce.Job] The url to track the job: http://a206:8088/proxy/application_1715148647425_0001/
+2024-05-08 02:20:31,139 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] fs.default.name is deprecated. Instead, use fs.defaultFS
+2024-05-08 02:20:31,263 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache file:/tmp/rhipe-temp-params-80fb84886c8ca676dac3e7cb193bd687#rhipe-temp-params-80fb84886c8ca676dac3e7cb193bd687
+2024-05-08 02:20:31,263 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache archive:/user/wwtung/bin/R.Pkg.tar.gz#R.Pkg
+2024-05-08 02:20:31,263 DEBUG [main][org.godhuli.rhipe.RHMR] /user/wwtung/results/m4
+2024-05-08 02:20:31,274 INFO  [main][org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider] Connecting to ResourceManager at a206/172.18.104.246:8032
+2024-05-08 02:20:31,280 INFO  [main][org.apache.hadoop.mapreduce.JobResourceUploader] Disabling Erasure Coding for path: /tmp/wwtung/hadoop/magpietest/16411833/hadoop/scratch/yarn/wwtung/.staging/job_1715148647425_0002
+2024-05-08 02:20:31,334 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] number of splits:2
+2024-05-08 02:20:31,365 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Submitting tokens for job: job_1715148647425_0002
+2024-05-08 02:20:31,365 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Executing with tokens: []
+2024-05-08 02:20:31,580 INFO  [main][org.apache.hadoop.yarn.client.api.impl.YarnClientImpl] Submitted application application_1715148647425_0002
+2024-05-08 02:20:31,582 INFO  [main][org.apache.hadoop.mapreduce.Job] The url to track the job: http://a206:8088/proxy/application_1715148647425_0002/
+2024-05-08 02:20:51,962 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] fs.default.name is deprecated. Instead, use fs.defaultFS
+2024-05-08 02:20:52,129 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] mapred.reduce.tasks is deprecated. Instead, use mapreduce.job.reduces
+2024-05-08 02:20:52,130 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache file:/tmp/rhipe-temp-params-94df3593e46ff486eee0e37d4867dca3#rhipe-temp-params-94df3593e46ff486eee0e37d4867dca3
+2024-05-08 02:20:52,130 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache archive:/user/wwtung/bin/R.Pkg.tar.gz#R.Pkg
+2024-05-08 02:20:52,134 DEBUG [main][org.godhuli.rhipe.RHMR] /user/wwtung/Otime/m5
+2024-05-08 02:20:52,144 INFO  [main][org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider] Connecting to ResourceManager at a206/172.18.104.246:8032
+2024-05-08 02:20:52,149 INFO  [main][org.apache.hadoop.mapreduce.JobResourceUploader] Disabling Erasure Coding for path: /tmp/wwtung/hadoop/magpietest/16411833/hadoop/scratch/yarn/wwtung/.staging/job_1715148647425_0003
+2024-05-08 02:20:52,173 INFO  [main][org.apache.hadoop.mapreduce.lib.input.FileInputFormat] Total input files to process : 2
+2024-05-08 02:20:52,201 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] number of splits:2
+2024-05-08 02:20:52,217 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Submitting tokens for job: job_1715148647425_0003
+2024-05-08 02:20:52,217 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Executing with tokens: []
+2024-05-08 02:20:52,229 INFO  [main][org.apache.hadoop.yarn.client.api.impl.YarnClientImpl] Submitted application application_1715148647425_0003
+2024-05-08 02:20:52,232 INFO  [main][org.apache.hadoop.mapreduce.Job] The url to track the job: http://a206:8088/proxy/application_1715148647425_0003/
+2024-05-08 02:20:52,232 INFO  [main][org.godhuli.rhipe.RHMR] Tracking URL ----> http://a206:8088/proxy/application_1715148647425_0003/
+2024-05-08 02:20:52,232 INFO  [main][org.apache.hadoop.mapreduce.Job] Running job: job_1715148647425_0003
+2024-05-08 02:20:57,272 INFO  [main][org.apache.hadoop.mapreduce.Job] Job job_1715148647425_0003 running in uber mode : false
+2024-05-08 02:20:57,318 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 0% reduce 0%
+2024-05-08 02:21:01,334 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 100% reduce 0%
+2024-05-08 02:21:06,348 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 100% reduce 100%
+2024-05-08 02:21:06,351 INFO  [main][org.apache.hadoop.mapreduce.Job] Job job_1715148647425_0003 completed successfully
+2024-05-08 02:21:06,408 INFO  [main][org.apache.hadoop.mapreduce.Job] Counters: 56
+	File System Counters
+		FILE: Number of bytes read=18
+		FILE: Number of bytes written=1449635
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+		HDFS: Number of bytes read=1530
+		HDFS: Number of bytes written=282
+		HDFS: Number of read operations=23
+		HDFS: Number of large read operations=0
+		HDFS: Number of write operations=6
+		HDFS: Number of bytes read erasure-coded=0
+	Job Counters 
+		Launched map tasks=2
+		Launched reduce tasks=3
+		Data-local map tasks=2
+		Total time spent by all maps in occupied slots (ms)=8700
+		Total time spent by all reduces in occupied slots (ms)=18783
+		Total time spent by all map tasks (ms)=4350
+		Total time spent by all reduce tasks (ms)=6261
+		Total vcore-milliseconds taken by all map tasks=4350
+		Total vcore-milliseconds taken by all reduce tasks=6261
+		Total megabyte-milliseconds taken by all map tasks=8908800
+		Total megabyte-milliseconds taken by all reduce tasks=19233792
+	Map-Reduce Framework
+		Map input records=2
+		Map output records=0
+		Map output bytes=0
+		Map output materialized bytes=36
+		Input split bytes=234
+		Combine input records=0
+		Combine output records=0
+		Reduce input groups=0
+		Reduce shuffle bytes=36
+		Reduce input records=0
+		Reduce output records=0
+		Spilled Records=0
+		Shuffled Maps =6
+		Failed Shuffles=0
+		Merged Map outputs=6
+		GC time elapsed (ms)=70
+		CPU time spent (ms)=6990
+		Physical memory (bytes) snapshot=1947729920
+		Virtual memory (bytes) snapshot=21725167616
+		Total committed heap usage (bytes)=8589934592
+		Peak Map Physical memory (bytes)=434798592
+		Peak Map Virtual memory (bytes)=3651063808
+		Peak Reduce Physical memory (bytes)=362835968
+		Peak Reduce Virtual memory (bytes)=4811886592
+	Shuffle Errors
+		BAD_ID=0
+		CONNECTION=0
+		IO_ERROR=0
+		WRONG_LENGTH=0
+		WRONG_MAP=0
+		WRONG_REDUCE=0
+	File Input Format Counters 
+		Bytes Read=1296
+	File Output Format Counters 
+		Bytes Written=282
+	rhipeInternal
+		partialFlush=2
+	rhipe_timing
+		overall_mapper_ms=626
+2024-05-08 02:21:07,488 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] fs.default.name is deprecated. Instead, use fs.defaultFS
+2024-05-08 02:21:07,630 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache file:/tmp/rhipe-temp-params-b2c906e3836dea2abc23d7222a3ea7ff#rhipe-temp-params-b2c906e3836dea2abc23d7222a3ea7ff
+2024-05-08 02:21:07,630 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache archive:/user/wwtung/bin/R.Pkg.tar.gz#R.Pkg
+2024-05-08 02:21:07,630 DEBUG [main][org.godhuli.rhipe.RHMR] /user/wwtung/Otime/m4
+2024-05-08 02:21:07,640 INFO  [main][org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider] Connecting to ResourceManager at a206/172.18.104.246:8032
+2024-05-08 02:21:07,646 INFO  [main][org.apache.hadoop.mapreduce.JobResourceUploader] Disabling Erasure Coding for path: /tmp/wwtung/hadoop/magpietest/16411833/hadoop/scratch/yarn/wwtung/.staging/job_1715148647425_0004
+2024-05-08 02:21:07,663 INFO  [main][org.apache.hadoop.mapreduce.lib.input.FileInputFormat] Total input files to process : 2
+2024-05-08 02:21:07,681 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] number of splits:2
+2024-05-08 02:21:07,694 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Submitting tokens for job: job_1715148647425_0004
+2024-05-08 02:21:07,694 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Executing with tokens: []
+2024-05-08 02:21:07,707 INFO  [main][org.apache.hadoop.yarn.client.api.impl.YarnClientImpl] Submitted application application_1715148647425_0004
+2024-05-08 02:21:07,710 INFO  [main][org.apache.hadoop.mapreduce.Job] The url to track the job: http://a206:8088/proxy/application_1715148647425_0004/
+2024-05-08 02:21:07,710 INFO  [main][org.godhuli.rhipe.RHMR] Tracking URL ----> http://a206:8088/proxy/application_1715148647425_0004/
+2024-05-08 02:21:07,710 INFO  [main][org.apache.hadoop.mapreduce.Job] Running job: job_1715148647425_0004
+2024-05-08 02:21:12,750 INFO  [main][org.apache.hadoop.mapreduce.Job] Job job_1715148647425_0004 running in uber mode : false
+2024-05-08 02:21:12,750 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 0% reduce 0%
+2024-05-08 02:21:16,763 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 100% reduce 0%
+2024-05-08 02:21:21,776 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 100% reduce 100%
+2024-05-08 02:21:21,779 INFO  [main][org.apache.hadoop.mapreduce.Job] Job job_1715148647425_0004 completed successfully
+2024-05-08 02:21:21,797 INFO  [main][org.apache.hadoop.mapreduce.Job] Counters: 56
+	File System Counters
+		FILE: Number of bytes read=18
+		FILE: Number of bytes written=1449635
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+		HDFS: Number of bytes read=1614
+		HDFS: Number of bytes written=282
+		HDFS: Number of read operations=23
+		HDFS: Number of large read operations=0
+		HDFS: Number of write operations=6
+		HDFS: Number of bytes read erasure-coded=0
+	Job Counters 
+		Launched map tasks=2
+		Launched reduce tasks=3
+		Data-local map tasks=2
+		Total time spent by all maps in occupied slots (ms)=9136
+		Total time spent by all reduces in occupied slots (ms)=17952
+		Total time spent by all map tasks (ms)=4568
+		Total time spent by all reduce tasks (ms)=5984
+		Total vcore-milliseconds taken by all map tasks=4568
+		Total vcore-milliseconds taken by all reduce tasks=5984
+		Total megabyte-milliseconds taken by all map tasks=9355264
+		Total megabyte-milliseconds taken by all reduce tasks=18382848
+	Map-Reduce Framework
+		Map input records=4
+		Map output records=0
+		Map output bytes=0
+		Map output materialized bytes=36
+		Input split bytes=234
+		Combine input records=0
+		Combine output records=0
+		Reduce input groups=0
+		Reduce shuffle bytes=36
+		Reduce input records=0
+		Reduce output records=0
+		Spilled Records=0
+		Shuffled Maps =6
+		Failed Shuffles=0
+		Merged Map outputs=6
+		GC time elapsed (ms)=65
+		CPU time spent (ms)=7090
+		Physical memory (bytes) snapshot=1937575936
+		Virtual memory (bytes) snapshot=21729419264
+		Total committed heap usage (bytes)=8589934592
+		Peak Map Physical memory (bytes)=440094720
+		Peak Map Virtual memory (bytes)=3652366336
+		Peak Reduce Physical memory (bytes)=356904960
+		Peak Reduce Virtual memory (bytes)=4812218368
+	Shuffle Errors
+		BAD_ID=0
+		CONNECTION=0
+		IO_ERROR=0
+		WRONG_LENGTH=0
+		WRONG_MAP=0
+		WRONG_REDUCE=0
+	File Input Format Counters 
+		Bytes Read=1380
+	File Output Format Counters 
+		Bytes Written=282
+	rhipeInternal
+		partialFlush=2
+	rhipe_timing
+		overall_mapper_ms=605
+2024-05-08 02:21:22,878 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] fs.default.name is deprecated. Instead, use fs.defaultFS
+2024-05-08 02:21:23,017 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache file:/tmp/rhipe-temp-params-b2c906e3836dea2abc23d7222a3ea7ff#rhipe-temp-params-b2c906e3836dea2abc23d7222a3ea7ff
+2024-05-08 02:21:23,017 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache archive:/user/wwtung/bin/R.Pkg.tar.gz#R.Pkg
+2024-05-08 02:21:23,017 DEBUG [main][org.godhuli.rhipe.RHMR] /user/wwtung/Otime/m4
+2024-05-08 02:21:23,027 INFO  [main][org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider] Connecting to ResourceManager at a206/172.18.104.246:8032
+2024-05-08 02:21:23,032 INFO  [main][org.apache.hadoop.mapreduce.JobResourceUploader] Disabling Erasure Coding for path: /tmp/wwtung/hadoop/magpietest/16411833/hadoop/scratch/yarn/wwtung/.staging/job_1715148647425_0005
+2024-05-08 02:21:23,048 INFO  [main][org.apache.hadoop.mapreduce.lib.input.FileInputFormat] Total input files to process : 2
+2024-05-08 02:21:23,064 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] number of splits:2
+2024-05-08 02:21:23,082 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Submitting tokens for job: job_1715148647425_0005
+2024-05-08 02:21:23,082 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Executing with tokens: []
+2024-05-08 02:21:23,294 INFO  [main][org.apache.hadoop.yarn.client.api.impl.YarnClientImpl] Submitted application application_1715148647425_0005
+2024-05-08 02:21:23,296 INFO  [main][org.apache.hadoop.mapreduce.Job] The url to track the job: http://a206:8088/proxy/application_1715148647425_0005/
+2024-05-08 02:21:23,296 INFO  [main][org.godhuli.rhipe.RHMR] Tracking URL ----> http://a206:8088/proxy/application_1715148647425_0005/
+2024-05-08 02:21:23,296 INFO  [main][org.apache.hadoop.mapreduce.Job] Running job: job_1715148647425_0005
+2024-05-08 02:21:27,358 INFO  [main][org.apache.hadoop.mapreduce.Job] Job job_1715148647425_0005 running in uber mode : false
+2024-05-08 02:21:27,358 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 0% reduce 0%
+2024-05-08 02:21:32,374 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 100% reduce 0%
+2024-05-08 02:21:36,384 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 100% reduce 100%
+2024-05-08 02:21:37,390 INFO  [main][org.apache.hadoop.mapreduce.Job] Job job_1715148647425_0005 completed successfully
+2024-05-08 02:21:37,409 INFO  [main][org.apache.hadoop.mapreduce.Job] Counters: 56
+	File System Counters
+		FILE: Number of bytes read=18
+		FILE: Number of bytes written=1449635
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+		HDFS: Number of bytes read=1614
+		HDFS: Number of bytes written=282
+		HDFS: Number of read operations=23
+		HDFS: Number of large read operations=0
+		HDFS: Number of write operations=6
+		HDFS: Number of bytes read erasure-coded=0
+	Job Counters 
+		Launched map tasks=2
+		Launched reduce tasks=3
+		Data-local map tasks=2
+		Total time spent by all maps in occupied slots (ms)=8674
+		Total time spent by all reduces in occupied slots (ms)=18003
+		Total time spent by all map tasks (ms)=4337
+		Total time spent by all reduce tasks (ms)=6001
+		Total vcore-milliseconds taken by all map tasks=4337
+		Total vcore-milliseconds taken by all reduce tasks=6001
+		Total megabyte-milliseconds taken by all map tasks=8882176
+		Total megabyte-milliseconds taken by all reduce tasks=18435072
+	Map-Reduce Framework
+		Map input records=4
+		Map output records=0
+		Map output bytes=0
+		Map output materialized bytes=36
+		Input split bytes=234
+		Combine input records=0
+		Combine output records=0
+		Reduce input groups=0
+		Reduce shuffle bytes=36
+		Reduce input records=0
+		Reduce output records=0
+		Spilled Records=0
+		Shuffled Maps =6
+		Failed Shuffles=0
+		Merged Map outputs=6
+		GC time elapsed (ms)=57
+		CPU time spent (ms)=7160
+		Physical memory (bytes) snapshot=1952395264
+		Virtual memory (bytes) snapshot=21729558528
+		Total committed heap usage (bytes)=8589934592
+		Peak Map Physical memory (bytes)=440655872
+		Peak Map Virtual memory (bytes)=3651862528
+		Peak Reduce Physical memory (bytes)=361046016
+		Peak Reduce Virtual memory (bytes)=4812726272
+	Shuffle Errors
+		BAD_ID=0
+		CONNECTION=0
+		IO_ERROR=0
+		WRONG_LENGTH=0
+		WRONG_MAP=0
+		WRONG_REDUCE=0
+	File Input Format Counters 
+		Bytes Read=1380
+	File Output Format Counters 
+		Bytes Written=282
+	rhipeInternal
+		partialFlush=2
+	rhipe_timing
+		overall_mapper_ms=604
+2024-05-08 02:21:37,499 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] fs.default.name is deprecated. Instead, use fs.defaultFS
+2024-05-08 02:21:37,642 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache file:/tmp/rhipe-temp-params-b2c906e3836dea2abc23d7222a3ea7ff#rhipe-temp-params-b2c906e3836dea2abc23d7222a3ea7ff
+2024-05-08 02:21:37,642 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache archive:/user/wwtung/bin/R.Pkg.tar.gz#R.Pkg
+2024-05-08 02:21:37,643 DEBUG [main][org.godhuli.rhipe.RHMR] /user/wwtung/Otime/m4
+2024-05-08 02:21:37,653 INFO  [main][org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider] Connecting to ResourceManager at a206/172.18.104.246:8032
+2024-05-08 02:21:37,658 INFO  [main][org.apache.hadoop.mapreduce.JobResourceUploader] Disabling Erasure Coding for path: /tmp/wwtung/hadoop/magpietest/16411833/hadoop/scratch/yarn/wwtung/.staging/job_1715148647425_0006
+2024-05-08 02:21:37,675 INFO  [main][org.apache.hadoop.mapreduce.lib.input.FileInputFormat] Total input files to process : 2
+2024-05-08 02:21:37,693 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] number of splits:2
+2024-05-08 02:21:37,705 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Submitting tokens for job: job_1715148647425_0006
+2024-05-08 02:21:37,705 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Executing with tokens: []
+2024-05-08 02:21:37,918 INFO  [main][org.apache.hadoop.yarn.client.api.impl.YarnClientImpl] Submitted application application_1715148647425_0006
+2024-05-08 02:21:37,920 INFO  [main][org.apache.hadoop.mapreduce.Job] The url to track the job: http://a206:8088/proxy/application_1715148647425_0006/
+2024-05-08 02:21:37,920 INFO  [main][org.godhuli.rhipe.RHMR] Tracking URL ----> http://a206:8088/proxy/application_1715148647425_0006/
+2024-05-08 02:21:37,920 INFO  [main][org.apache.hadoop.mapreduce.Job] Running job: job_1715148647425_0006
+2024-05-08 02:21:42,973 INFO  [main][org.apache.hadoop.mapreduce.Job] Job job_1715148647425_0006 running in uber mode : false
+2024-05-08 02:21:42,973 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 0% reduce 0%
+2024-05-08 02:21:46,988 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 100% reduce 0%
+2024-05-08 02:21:52,000 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 100% reduce 100%
+2024-05-08 02:21:52,003 INFO  [main][org.apache.hadoop.mapreduce.Job] Job job_1715148647425_0006 completed successfully
+2024-05-08 02:21:52,022 INFO  [main][org.apache.hadoop.mapreduce.Job] Counters: 56
+	File System Counters
+		FILE: Number of bytes read=18
+		FILE: Number of bytes written=1449635
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+		HDFS: Number of bytes read=1614
+		HDFS: Number of bytes written=282
+		HDFS: Number of read operations=23
+		HDFS: Number of large read operations=0
+		HDFS: Number of write operations=6
+		HDFS: Number of bytes read erasure-coded=0
+	Job Counters 
+		Launched map tasks=2
+		Launched reduce tasks=3
+		Data-local map tasks=2
+		Total time spent by all maps in occupied slots (ms)=8726
+		Total time spent by all reduces in occupied slots (ms)=18177
+		Total time spent by all map tasks (ms)=4363
+		Total time spent by all reduce tasks (ms)=6059
+		Total vcore-milliseconds taken by all map tasks=4363
+		Total vcore-milliseconds taken by all reduce tasks=6059
+		Total megabyte-milliseconds taken by all map tasks=8935424
+		Total megabyte-milliseconds taken by all reduce tasks=18613248
+	Map-Reduce Framework
+		Map input records=4
+		Map output records=0
+		Map output bytes=0
+		Map output materialized bytes=36
+		Input split bytes=234
+		Combine input records=0
+		Combine output records=0
+		Reduce input groups=0
+		Reduce shuffle bytes=36
+		Reduce input records=0
+		Reduce output records=0
+		Spilled Records=0
+		Shuffled Maps =6
+		Failed Shuffles=0
+		Merged Map outputs=6
+		GC time elapsed (ms)=59
+		CPU time spent (ms)=6710
+		Physical memory (bytes) snapshot=1958445056
+		Virtual memory (bytes) snapshot=21731700736
+		Total committed heap usage (bytes)=8589934592
+		Peak Map Physical memory (bytes)=447242240
+		Peak Map Virtual memory (bytes)=3654291456
+		Peak Reduce Physical memory (bytes)=361787392
+		Peak Reduce Virtual memory (bytes)=4811821056
+	Shuffle Errors
+		BAD_ID=0
+		CONNECTION=0
+		IO_ERROR=0
+		WRONG_LENGTH=0
+		WRONG_MAP=0
+		WRONG_REDUCE=0
+	File Input Format Counters 
+		Bytes Read=1380
+	File Output Format Counters 
+		Bytes Written=282
+	rhipeInternal
+		partialFlush=2
+	rhipe_timing
+		overall_mapper_ms=637
+2024-05-08 02:21:52,097 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] fs.default.name is deprecated. Instead, use fs.defaultFS
+2024-05-08 02:21:52,232 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache file:/tmp/rhipe-temp-params-967ec89b4748fd2d8ab9bc84ba3eabf5#rhipe-temp-params-967ec89b4748fd2d8ab9bc84ba3eabf5
+2024-05-08 02:21:52,232 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache archive:/user/wwtung/bin/R.Pkg.tar.gz#R.Pkg
+2024-05-08 02:21:52,233 DEBUG [main][org.godhuli.rhipe.RHMR] /user/wwtung/Otime/m5
+2024-05-08 02:21:52,242 INFO  [main][org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider] Connecting to ResourceManager at a206/172.18.104.246:8032
+2024-05-08 02:21:52,246 INFO  [main][org.apache.hadoop.mapreduce.JobResourceUploader] Disabling Erasure Coding for path: /tmp/wwtung/hadoop/magpietest/16411833/hadoop/scratch/yarn/wwtung/.staging/job_1715148647425_0007
+2024-05-08 02:21:52,263 INFO  [main][org.apache.hadoop.mapreduce.lib.input.FileInputFormat] Total input files to process : 2
+2024-05-08 02:21:52,280 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] number of splits:2
+2024-05-08 02:21:52,294 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Submitting tokens for job: job_1715148647425_0007
+2024-05-08 02:21:52,294 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Executing with tokens: []
+2024-05-08 02:21:52,505 INFO  [main][org.apache.hadoop.yarn.client.api.impl.YarnClientImpl] Submitted application application_1715148647425_0007
+2024-05-08 02:21:52,506 INFO  [main][org.apache.hadoop.mapreduce.Job] The url to track the job: http://a206:8088/proxy/application_1715148647425_0007/
+2024-05-08 02:21:52,506 INFO  [main][org.godhuli.rhipe.RHMR] Tracking URL ----> http://a206:8088/proxy/application_1715148647425_0007/
+2024-05-08 02:21:52,506 INFO  [main][org.apache.hadoop.mapreduce.Job] Running job: job_1715148647425_0007
+2024-05-08 02:21:56,544 INFO  [main][org.apache.hadoop.mapreduce.Job] Job job_1715148647425_0007 running in uber mode : false
+2024-05-08 02:21:56,544 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 0% reduce 0%
+2024-05-08 02:22:01,560 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 100% reduce 0%
+2024-05-08 02:22:05,569 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 100% reduce 100%
+2024-05-08 02:22:06,574 INFO  [main][org.apache.hadoop.mapreduce.Job] Job job_1715148647425_0007 completed successfully
+2024-05-08 02:22:06,593 INFO  [main][org.apache.hadoop.mapreduce.Job] Counters: 56
+	File System Counters
+		FILE: Number of bytes read=18
+		FILE: Number of bytes written=1449635
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+		HDFS: Number of bytes read=1530
+		HDFS: Number of bytes written=282
+		HDFS: Number of read operations=23
+		HDFS: Number of large read operations=0
+		HDFS: Number of write operations=6
+		HDFS: Number of bytes read erasure-coded=0
+	Job Counters 
+		Launched map tasks=2
+		Launched reduce tasks=3
+		Data-local map tasks=2
+		Total time spent by all maps in occupied slots (ms)=8644
+		Total time spent by all reduces in occupied slots (ms)=17733
+		Total time spent by all map tasks (ms)=4322
+		Total time spent by all reduce tasks (ms)=5911
+		Total vcore-milliseconds taken by all map tasks=4322
+		Total vcore-milliseconds taken by all reduce tasks=5911
+		Total megabyte-milliseconds taken by all map tasks=8851456
+		Total megabyte-milliseconds taken by all reduce tasks=18158592
+	Map-Reduce Framework
+		Map input records=2
+		Map output records=0
+		Map output bytes=0
+		Map output materialized bytes=36
+		Input split bytes=234
+		Combine input records=0
+		Combine output records=0
+		Reduce input groups=0
+		Reduce shuffle bytes=36
+		Reduce input records=0
+		Reduce output records=0
+		Spilled Records=0
+		Shuffled Maps =6
+		Failed Shuffles=0
+		Merged Map outputs=6
+		GC time elapsed (ms)=61
+		CPU time spent (ms)=6880
+		Physical memory (bytes) snapshot=1956442112
+		Virtual memory (bytes) snapshot=21731307520
+		Total committed heap usage (bytes)=8589934592
+		Peak Map Physical memory (bytes)=445976576
+		Peak Map Virtual memory (bytes)=3654594560
+		Peak Reduce Physical memory (bytes)=360493056
+		Peak Reduce Virtual memory (bytes)=4810391552
+	Shuffle Errors
+		BAD_ID=0
+		CONNECTION=0
+		IO_ERROR=0
+		WRONG_LENGTH=0
+		WRONG_MAP=0
+		WRONG_REDUCE=0
+	File Input Format Counters 
+		Bytes Read=1296
+	File Output Format Counters 
+		Bytes Written=282
+	rhipeInternal
+		partialFlush=2
+	rhipe_timing
+		overall_mapper_ms=577
+2024-05-08 02:22:07,668 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] fs.default.name is deprecated. Instead, use fs.defaultFS
+2024-05-08 02:22:07,806 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache file:/tmp/rhipe-temp-params-91f137cf0921a0e1fb34adbb4a4d7665#rhipe-temp-params-91f137cf0921a0e1fb34adbb4a4d7665
+2024-05-08 02:22:07,806 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache archive:/user/wwtung/bin/R.Pkg.tar.gz#R.Pkg
+2024-05-08 02:22:07,807 DEBUG [main][org.godhuli.rhipe.RHMR] /user/wwtung/Otime/m4
+2024-05-08 02:22:07,817 INFO  [main][org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider] Connecting to ResourceManager at a206/172.18.104.246:8032
+2024-05-08 02:22:07,821 INFO  [main][org.apache.hadoop.mapreduce.JobResourceUploader] Disabling Erasure Coding for path: /tmp/wwtung/hadoop/magpietest/16411833/hadoop/scratch/yarn/wwtung/.staging/job_1715148647425_0008
+2024-05-08 02:22:07,835 INFO  [main][org.apache.hadoop.mapreduce.lib.input.FileInputFormat] Total input files to process : 2
+2024-05-08 02:22:07,852 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] number of splits:2
+2024-05-08 02:22:07,862 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Submitting tokens for job: job_1715148647425_0008
+2024-05-08 02:22:07,862 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Executing with tokens: []
+2024-05-08 02:22:08,073 INFO  [main][org.apache.hadoop.yarn.client.api.impl.YarnClientImpl] Submitted application application_1715148647425_0008
+2024-05-08 02:22:08,075 INFO  [main][org.apache.hadoop.mapreduce.Job] The url to track the job: http://a206:8088/proxy/application_1715148647425_0008/
+2024-05-08 02:22:08,075 INFO  [main][org.godhuli.rhipe.RHMR] Tracking URL ----> http://a206:8088/proxy/application_1715148647425_0008/
+2024-05-08 02:22:08,075 INFO  [main][org.apache.hadoop.mapreduce.Job] Running job: job_1715148647425_0008
+2024-05-08 02:22:13,130 INFO  [main][org.apache.hadoop.mapreduce.Job] Job job_1715148647425_0008 running in uber mode : false
+2024-05-08 02:22:13,130 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 0% reduce 0%
+2024-05-08 02:22:17,145 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 100% reduce 0%
+2024-05-08 02:22:22,156 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 100% reduce 100%
+2024-05-08 02:22:22,159 INFO  [main][org.apache.hadoop.mapreduce.Job] Job job_1715148647425_0008 completed successfully
+2024-05-08 02:22:22,179 INFO  [main][org.apache.hadoop.mapreduce.Job] Counters: 56
+	File System Counters
+		FILE: Number of bytes read=18
+		FILE: Number of bytes written=1449635
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+		HDFS: Number of bytes read=1614
+		HDFS: Number of bytes written=282
+		HDFS: Number of read operations=23
+		HDFS: Number of large read operations=0
+		HDFS: Number of write operations=6
+		HDFS: Number of bytes read erasure-coded=0
+	Job Counters 
+		Launched map tasks=2
+		Launched reduce tasks=3
+		Data-local map tasks=2
+		Total time spent by all maps in occupied slots (ms)=8654
+		Total time spent by all reduces in occupied slots (ms)=17622
+		Total time spent by all map tasks (ms)=4327
+		Total time spent by all reduce tasks (ms)=5874
+		Total vcore-milliseconds taken by all map tasks=4327
+		Total vcore-milliseconds taken by all reduce tasks=5874
+		Total megabyte-milliseconds taken by all map tasks=8861696
+		Total megabyte-milliseconds taken by all reduce tasks=18044928
+	Map-Reduce Framework
+		Map input records=4
+		Map output records=0
+		Map output bytes=0
+		Map output materialized bytes=36
+		Input split bytes=234
+		Combine input records=0
+		Combine output records=0
+		Reduce input groups=0
+		Reduce shuffle bytes=36
+		Reduce input records=0
+		Reduce output records=0
+		Spilled Records=0
+		Shuffled Maps =6
+		Failed Shuffles=0
+		Merged Map outputs=6
+		GC time elapsed (ms)=68
+		CPU time spent (ms)=6940
+		Physical memory (bytes) snapshot=1946406912
+		Virtual memory (bytes) snapshot=21725155328
+		Total committed heap usage (bytes)=8589934592
+		Peak Map Physical memory (bytes)=436600832
+		Peak Map Virtual memory (bytes)=3653844992
+		Peak Reduce Physical memory (bytes)=359677952
+		Peak Reduce Virtual memory (bytes)=4810469376
+	Shuffle Errors
+		BAD_ID=0
+		CONNECTION=0
+		IO_ERROR=0
+		WRONG_LENGTH=0
+		WRONG_MAP=0
+		WRONG_REDUCE=0
+	File Input Format Counters 
+		Bytes Read=1380
+	File Output Format Counters 
+		Bytes Written=282
+	rhipeInternal
+		partialFlush=2
+	rhipe_timing
+		overall_mapper_ms=609
+2024-05-08 02:22:23,262 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] fs.default.name is deprecated. Instead, use fs.defaultFS
+2024-05-08 02:22:23,404 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache file:/tmp/rhipe-temp-params-91f137cf0921a0e1fb34adbb4a4d7665#rhipe-temp-params-91f137cf0921a0e1fb34adbb4a4d7665
+2024-05-08 02:22:23,404 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache archive:/user/wwtung/bin/R.Pkg.tar.gz#R.Pkg
+2024-05-08 02:22:23,404 DEBUG [main][org.godhuli.rhipe.RHMR] /user/wwtung/Otime/m4
+2024-05-08 02:22:23,414 INFO  [main][org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider] Connecting to ResourceManager at a206/172.18.104.246:8032
+2024-05-08 02:22:23,418 INFO  [main][org.apache.hadoop.mapreduce.JobResourceUploader] Disabling Erasure Coding for path: /tmp/wwtung/hadoop/magpietest/16411833/hadoop/scratch/yarn/wwtung/.staging/job_1715148647425_0009
+2024-05-08 02:22:23,435 INFO  [main][org.apache.hadoop.mapreduce.lib.input.FileInputFormat] Total input files to process : 2
+2024-05-08 02:22:23,451 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] number of splits:2
+2024-05-08 02:22:23,461 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Submitting tokens for job: job_1715148647425_0009
+2024-05-08 02:22:23,461 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Executing with tokens: []
+2024-05-08 02:22:23,472 INFO  [main][org.apache.hadoop.yarn.client.api.impl.YarnClientImpl] Submitted application application_1715148647425_0009
+2024-05-08 02:22:23,475 INFO  [main][org.apache.hadoop.mapreduce.Job] The url to track the job: http://a206:8088/proxy/application_1715148647425_0009/
+2024-05-08 02:22:23,475 INFO  [main][org.godhuli.rhipe.RHMR] Tracking URL ----> http://a206:8088/proxy/application_1715148647425_0009/
+2024-05-08 02:22:23,475 INFO  [main][org.apache.hadoop.mapreduce.Job] Running job: job_1715148647425_0009
+2024-05-08 02:22:27,549 INFO  [main][org.apache.hadoop.mapreduce.Job] Job job_1715148647425_0009 running in uber mode : false
+2024-05-08 02:22:27,549 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 0% reduce 0%
+2024-05-08 02:22:32,603 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 100% reduce 0%
+2024-05-08 02:22:36,614 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 100% reduce 100%
+2024-05-08 02:22:37,619 INFO  [main][org.apache.hadoop.mapreduce.Job] Job job_1715148647425_0009 completed successfully
+2024-05-08 02:22:37,638 INFO  [main][org.apache.hadoop.mapreduce.Job] Counters: 56
+	File System Counters
+		FILE: Number of bytes read=18
+		FILE: Number of bytes written=1449635
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+		HDFS: Number of bytes read=1614
+		HDFS: Number of bytes written=282
+		HDFS: Number of read operations=23
+		HDFS: Number of large read operations=0
+		HDFS: Number of write operations=6
+		HDFS: Number of bytes read erasure-coded=0
+	Job Counters 
+		Launched map tasks=2
+		Launched reduce tasks=3
+		Data-local map tasks=2
+		Total time spent by all maps in occupied slots (ms)=8766
+		Total time spent by all reduces in occupied slots (ms)=17694
+		Total time spent by all map tasks (ms)=4383
+		Total time spent by all reduce tasks (ms)=5898
+		Total vcore-milliseconds taken by all map tasks=4383
+		Total vcore-milliseconds taken by all reduce tasks=5898
+		Total megabyte-milliseconds taken by all map tasks=8976384
+		Total megabyte-milliseconds taken by all reduce tasks=18118656
+	Map-Reduce Framework
+		Map input records=4
+		Map output records=0
+		Map output bytes=0
+		Map output materialized bytes=36
+		Input split bytes=234
+		Combine input records=0
+		Combine output records=0
+		Reduce input groups=0
+		Reduce shuffle bytes=36
+		Reduce input records=0
+		Reduce output records=0
+		Spilled Records=0
+		Shuffled Maps =6
+		Failed Shuffles=0
+		Merged Map outputs=6
+		GC time elapsed (ms)=56
+		CPU time spent (ms)=6880
+		Physical memory (bytes) snapshot=1951694848
+		Virtual memory (bytes) snapshot=21726896128
+		Total committed heap usage (bytes)=8589934592
+		Peak Map Physical memory (bytes)=442957824
+		Peak Map Virtual memory (bytes)=3656142848
+		Peak Reduce Physical memory (bytes)=360361984
+		Peak Reduce Virtual memory (bytes)=4811223040
+	Shuffle Errors
+		BAD_ID=0
+		CONNECTION=0
+		IO_ERROR=0
+		WRONG_LENGTH=0
+		WRONG_MAP=0
+		WRONG_REDUCE=0
+	File Input Format Counters 
+		Bytes Read=1380
+	File Output Format Counters 
+		Bytes Written=282
+	rhipeInternal
+		partialFlush=2
+	rhipe_timing
+		overall_mapper_ms=647
+2024-05-08 02:22:37,716 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] fs.default.name is deprecated. Instead, use fs.defaultFS
+2024-05-08 02:22:37,856 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache file:/tmp/rhipe-temp-params-91f137cf0921a0e1fb34adbb4a4d7665#rhipe-temp-params-91f137cf0921a0e1fb34adbb4a4d7665
+2024-05-08 02:22:37,856 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache archive:/user/wwtung/bin/R.Pkg.tar.gz#R.Pkg
+2024-05-08 02:22:37,857 DEBUG [main][org.godhuli.rhipe.RHMR] /user/wwtung/Otime/m4
+2024-05-08 02:22:37,867 INFO  [main][org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider] Connecting to ResourceManager at a206/172.18.104.246:8032
+2024-05-08 02:22:37,871 INFO  [main][org.apache.hadoop.mapreduce.JobResourceUploader] Disabling Erasure Coding for path: /tmp/wwtung/hadoop/magpietest/16411833/hadoop/scratch/yarn/wwtung/.staging/job_1715148647425_0010
+2024-05-08 02:22:37,888 INFO  [main][org.apache.hadoop.mapreduce.lib.input.FileInputFormat] Total input files to process : 2
+2024-05-08 02:22:37,911 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] number of splits:2
+2024-05-08 02:22:37,929 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Submitting tokens for job: job_1715148647425_0010
+2024-05-08 02:22:37,930 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Executing with tokens: []
+2024-05-08 02:22:38,149 INFO  [main][org.apache.hadoop.yarn.client.api.impl.YarnClientImpl] Submitted application application_1715148647425_0010
+2024-05-08 02:22:38,151 INFO  [main][org.apache.hadoop.mapreduce.Job] The url to track the job: http://a206:8088/proxy/application_1715148647425_0010/
+2024-05-08 02:22:38,151 INFO  [main][org.godhuli.rhipe.RHMR] Tracking URL ----> http://a206:8088/proxy/application_1715148647425_0010/
+2024-05-08 02:22:38,151 INFO  [main][org.apache.hadoop.mapreduce.Job] Running job: job_1715148647425_0010
+2024-05-08 02:22:43,190 INFO  [main][org.apache.hadoop.mapreduce.Job] Job job_1715148647425_0010 running in uber mode : false
+2024-05-08 02:22:43,190 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 0% reduce 0%
+2024-05-08 02:22:47,203 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 100% reduce 0%
+2024-05-08 02:22:52,213 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 100% reduce 100%
+2024-05-08 02:22:52,216 INFO  [main][org.apache.hadoop.mapreduce.Job] Job job_1715148647425_0010 completed successfully
+2024-05-08 02:22:52,234 INFO  [main][org.apache.hadoop.mapreduce.Job] Counters: 56
+	File System Counters
+		FILE: Number of bytes read=18
+		FILE: Number of bytes written=1449635
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+		HDFS: Number of bytes read=1614
+		HDFS: Number of bytes written=282
+		HDFS: Number of read operations=23
+		HDFS: Number of large read operations=0
+		HDFS: Number of write operations=6
+		HDFS: Number of bytes read erasure-coded=0
+	Job Counters 
+		Launched map tasks=2
+		Launched reduce tasks=3
+		Data-local map tasks=2
+		Total time spent by all maps in occupied slots (ms)=9060
+		Total time spent by all reduces in occupied slots (ms)=17364
+		Total time spent by all map tasks (ms)=4530
+		Total time spent by all reduce tasks (ms)=5788
+		Total vcore-milliseconds taken by all map tasks=4530
+		Total vcore-milliseconds taken by all reduce tasks=5788
+		Total megabyte-milliseconds taken by all map tasks=9277440
+		Total megabyte-milliseconds taken by all reduce tasks=17780736
+	Map-Reduce Framework
+		Map input records=4
+		Map output records=0
+		Map output bytes=0
+		Map output materialized bytes=36
+		Input split bytes=234
+		Combine input records=0
+		Combine output records=0
+		Reduce input groups=0
+		Reduce shuffle bytes=36
+		Reduce input records=0
+		Reduce output records=0
+		Spilled Records=0
+		Shuffled Maps =6
+		Failed Shuffles=0
+		Merged Map outputs=6
+		GC time elapsed (ms)=54
+		CPU time spent (ms)=6830
+		Physical memory (bytes) snapshot=1949908992
+		Virtual memory (bytes) snapshot=21720125440
+		Total committed heap usage (bytes)=8589934592
+		Peak Map Physical memory (bytes)=436969472
+		Peak Map Virtual memory (bytes)=3651821568
+		Peak Reduce Physical memory (bytes)=363495424
+		Peak Reduce Virtual memory (bytes)=4810473472
+	Shuffle Errors
+		BAD_ID=0
+		CONNECTION=0
+		IO_ERROR=0
+		WRONG_LENGTH=0
+		WRONG_MAP=0
+		WRONG_REDUCE=0
+	File Input Format Counters 
+		Bytes Read=1380
+	File Output Format Counters 
+		Bytes Written=282
+	rhipeInternal
+		partialFlush=2
+	rhipe_timing
+		overall_mapper_ms=584
+2024-05-08 02:22:52,309 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] fs.default.name is deprecated. Instead, use fs.defaultFS
+2024-05-08 02:22:52,446 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache file:/tmp/rhipe-temp-params-55d0f4245152f2ceac2ad45506cf8c5b#rhipe-temp-params-55d0f4245152f2ceac2ad45506cf8c5b
+2024-05-08 02:22:52,446 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache archive:/user/wwtung/bin/R.Pkg.tar.gz#R.Pkg
+2024-05-08 02:22:52,446 DEBUG [main][org.godhuli.rhipe.RHMR] /user/wwtung/Otime/m5
+2024-05-08 02:22:52,456 INFO  [main][org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider] Connecting to ResourceManager at a206/172.18.104.246:8032
+2024-05-08 02:22:52,461 INFO  [main][org.apache.hadoop.mapreduce.JobResourceUploader] Disabling Erasure Coding for path: /tmp/wwtung/hadoop/magpietest/16411833/hadoop/scratch/yarn/wwtung/.staging/job_1715148647425_0011
+2024-05-08 02:22:52,477 INFO  [main][org.apache.hadoop.mapreduce.lib.input.FileInputFormat] Total input files to process : 2
+2024-05-08 02:22:52,491 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] number of splits:2
+2024-05-08 02:22:52,502 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Submitting tokens for job: job_1715148647425_0011
+2024-05-08 02:22:52,502 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Executing with tokens: []
+2024-05-08 02:22:52,512 INFO  [main][org.apache.hadoop.yarn.client.api.impl.YarnClientImpl] Submitted application application_1715148647425_0011
+2024-05-08 02:22:52,514 INFO  [main][org.apache.hadoop.mapreduce.Job] The url to track the job: http://a206:8088/proxy/application_1715148647425_0011/
+2024-05-08 02:22:52,514 INFO  [main][org.godhuli.rhipe.RHMR] Tracking URL ----> http://a206:8088/proxy/application_1715148647425_0011/
+2024-05-08 02:22:52,514 INFO  [main][org.apache.hadoop.mapreduce.Job] Running job: job_1715148647425_0011
+2024-05-08 02:22:57,564 INFO  [main][org.apache.hadoop.mapreduce.Job] Job job_1715148647425_0011 running in uber mode : false
+2024-05-08 02:22:57,564 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 0% reduce 0%
+2024-05-08 02:23:01,576 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 100% reduce 0%
+2024-05-08 02:23:06,587 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 100% reduce 100%
+2024-05-08 02:23:06,590 INFO  [main][org.apache.hadoop.mapreduce.Job] Job job_1715148647425_0011 completed successfully
+2024-05-08 02:23:06,609 INFO  [main][org.apache.hadoop.mapreduce.Job] Counters: 56
+	File System Counters
+		FILE: Number of bytes read=18
+		FILE: Number of bytes written=1449635
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+		HDFS: Number of bytes read=1530
+		HDFS: Number of bytes written=282
+		HDFS: Number of read operations=23
+		HDFS: Number of large read operations=0
+		HDFS: Number of write operations=6
+		HDFS: Number of bytes read erasure-coded=0
+	Job Counters 
+		Launched map tasks=2
+		Launched reduce tasks=3
+		Data-local map tasks=2
+		Total time spent by all maps in occupied slots (ms)=8562
+		Total time spent by all reduces in occupied slots (ms)=17712
+		Total time spent by all map tasks (ms)=4281
+		Total time spent by all reduce tasks (ms)=5904
+		Total vcore-milliseconds taken by all map tasks=4281
+		Total vcore-milliseconds taken by all reduce tasks=5904
+		Total megabyte-milliseconds taken by all map tasks=8767488
+		Total megabyte-milliseconds taken by all reduce tasks=18137088
+	Map-Reduce Framework
+		Map input records=2
+		Map output records=0
+		Map output bytes=0
+		Map output materialized bytes=36
+		Input split bytes=234
+		Combine input records=0
+		Combine output records=0
+		Reduce input groups=0
+		Reduce shuffle bytes=36
+		Reduce input records=0
+		Reduce output records=0
+		Spilled Records=0
+		Shuffled Maps =6
+		Failed Shuffles=0
+		Merged Map outputs=6
+		GC time elapsed (ms)=54
+		CPU time spent (ms)=6700
+		Physical memory (bytes) snapshot=1955508224
+		Virtual memory (bytes) snapshot=21740265472
+		Total committed heap usage (bytes)=8589934592
+		Peak Map Physical memory (bytes)=447410176
+		Peak Map Virtual memory (bytes)=3652988928
+		Peak Reduce Physical memory (bytes)=360202240
+		Peak Reduce Virtual memory (bytes)=4816183296
+	Shuffle Errors
+		BAD_ID=0
+		CONNECTION=0
+		IO_ERROR=0
+		WRONG_LENGTH=0
+		WRONG_MAP=0
+		WRONG_REDUCE=0
+	File Input Format Counters 
+		Bytes Read=1296
+	File Output Format Counters 
+		Bytes Written=282
+	rhipeInternal
+		partialFlush=2
+	rhipe_timing
+		overall_mapper_ms=600
+2024-05-08 02:23:07,684 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] fs.default.name is deprecated. Instead, use fs.defaultFS
+2024-05-08 02:23:07,820 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache file:/tmp/rhipe-temp-params-bcccf16d1b7770e2a31caf6ae3cab766#rhipe-temp-params-bcccf16d1b7770e2a31caf6ae3cab766
+2024-05-08 02:23:07,820 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache archive:/user/wwtung/bin/R.Pkg.tar.gz#R.Pkg
+2024-05-08 02:23:07,821 DEBUG [main][org.godhuli.rhipe.RHMR] /user/wwtung/Otime/m4
+2024-05-08 02:23:07,831 INFO  [main][org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider] Connecting to ResourceManager at a206/172.18.104.246:8032
+2024-05-08 02:23:07,835 INFO  [main][org.apache.hadoop.mapreduce.JobResourceUploader] Disabling Erasure Coding for path: /tmp/wwtung/hadoop/magpietest/16411833/hadoop/scratch/yarn/wwtung/.staging/job_1715148647425_0012
+2024-05-08 02:23:07,848 INFO  [main][org.apache.hadoop.mapreduce.lib.input.FileInputFormat] Total input files to process : 2
+2024-05-08 02:23:07,861 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] number of splits:2
+2024-05-08 02:23:07,870 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Submitting tokens for job: job_1715148647425_0012
+2024-05-08 02:23:07,870 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Executing with tokens: []
+2024-05-08 02:23:08,081 INFO  [main][org.apache.hadoop.yarn.client.api.impl.YarnClientImpl] Submitted application application_1715148647425_0012
+2024-05-08 02:23:08,083 INFO  [main][org.apache.hadoop.mapreduce.Job] The url to track the job: http://a206:8088/proxy/application_1715148647425_0012/
+2024-05-08 02:23:08,083 INFO  [main][org.godhuli.rhipe.RHMR] Tracking URL ----> http://a206:8088/proxy/application_1715148647425_0012/
+2024-05-08 02:23:08,083 INFO  [main][org.apache.hadoop.mapreduce.Job] Running job: job_1715148647425_0012
+2024-05-08 02:23:12,118 INFO  [main][org.apache.hadoop.mapreduce.Job] Job job_1715148647425_0012 running in uber mode : false
+2024-05-08 02:23:12,118 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 0% reduce 0%
+2024-05-08 02:23:16,130 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 100% reduce 0%
+2024-05-08 02:23:21,141 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 100% reduce 100%
+2024-05-08 02:23:21,143 INFO  [main][org.apache.hadoop.mapreduce.Job] Job job_1715148647425_0012 completed successfully
+2024-05-08 02:23:21,162 INFO  [main][org.apache.hadoop.mapreduce.Job] Counters: 56
+	File System Counters
+		FILE: Number of bytes read=18
+		FILE: Number of bytes written=1449635
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+		HDFS: Number of bytes read=1614
+		HDFS: Number of bytes written=282
+		HDFS: Number of read operations=23
+		HDFS: Number of large read operations=0
+		HDFS: Number of write operations=6
+		HDFS: Number of bytes read erasure-coded=0
+	Job Counters 
+		Launched map tasks=2
+		Launched reduce tasks=3
+		Data-local map tasks=2
+		Total time spent by all maps in occupied slots (ms)=8910
+		Total time spent by all reduces in occupied slots (ms)=17238
+		Total time spent by all map tasks (ms)=4455
+		Total time spent by all reduce tasks (ms)=5746
+		Total vcore-milliseconds taken by all map tasks=4455
+		Total vcore-milliseconds taken by all reduce tasks=5746
+		Total megabyte-milliseconds taken by all map tasks=9123840
+		Total megabyte-milliseconds taken by all reduce tasks=17651712
+	Map-Reduce Framework
+		Map input records=4
+		Map output records=0
+		Map output bytes=0
+		Map output materialized bytes=36
+		Input split bytes=234
+		Combine input records=0
+		Combine output records=0
+		Reduce input groups=0
+		Reduce shuffle bytes=36
+		Reduce input records=0
+		Reduce output records=0
+		Spilled Records=0
+		Shuffled Maps =6
+		Failed Shuffles=0
+		Merged Map outputs=6
+		GC time elapsed (ms)=61
+		CPU time spent (ms)=6960
+		Physical memory (bytes) snapshot=1943318528
+		Virtual memory (bytes) snapshot=21729763328
+		Total committed heap usage (bytes)=8589934592
+		Peak Map Physical memory (bytes)=440410112
+		Peak Map Virtual memory (bytes)=3655352320
+		Peak Reduce Physical memory (bytes)=356794368
+		Peak Reduce Virtual memory (bytes)=4811448320
+	Shuffle Errors
+		BAD_ID=0
+		CONNECTION=0
+		IO_ERROR=0
+		WRONG_LENGTH=0
+		WRONG_MAP=0
+		WRONG_REDUCE=0
+	File Input Format Counters 
+		Bytes Read=1380
+	File Output Format Counters 
+		Bytes Written=282
+	rhipeInternal
+		partialFlush=2
+	rhipe_timing
+		overall_mapper_ms=592
+2024-05-08 02:23:22,242 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] fs.default.name is deprecated. Instead, use fs.defaultFS
+2024-05-08 02:23:22,374 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache file:/tmp/rhipe-temp-params-bcccf16d1b7770e2a31caf6ae3cab766#rhipe-temp-params-bcccf16d1b7770e2a31caf6ae3cab766
+2024-05-08 02:23:22,374 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache archive:/user/wwtung/bin/R.Pkg.tar.gz#R.Pkg
+2024-05-08 02:23:22,374 DEBUG [main][org.godhuli.rhipe.RHMR] /user/wwtung/Otime/m4
+2024-05-08 02:23:22,384 INFO  [main][org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider] Connecting to ResourceManager at a206/172.18.104.246:8032
+2024-05-08 02:23:22,388 INFO  [main][org.apache.hadoop.mapreduce.JobResourceUploader] Disabling Erasure Coding for path: /tmp/wwtung/hadoop/magpietest/16411833/hadoop/scratch/yarn/wwtung/.staging/job_1715148647425_0013
+2024-05-08 02:23:22,402 INFO  [main][org.apache.hadoop.mapreduce.lib.input.FileInputFormat] Total input files to process : 2
+2024-05-08 02:23:22,415 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] number of splits:2
+2024-05-08 02:23:22,424 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Submitting tokens for job: job_1715148647425_0013
+2024-05-08 02:23:22,424 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Executing with tokens: []
+2024-05-08 02:23:22,434 INFO  [main][org.apache.hadoop.yarn.client.api.impl.YarnClientImpl] Submitted application application_1715148647425_0013
+2024-05-08 02:23:22,436 INFO  [main][org.apache.hadoop.mapreduce.Job] The url to track the job: http://a206:8088/proxy/application_1715148647425_0013/
+2024-05-08 02:23:22,437 INFO  [main][org.godhuli.rhipe.RHMR] Tracking URL ----> http://a206:8088/proxy/application_1715148647425_0013/
+2024-05-08 02:23:22,437 INFO  [main][org.apache.hadoop.mapreduce.Job] Running job: job_1715148647425_0013
+2024-05-08 02:23:27,491 INFO  [main][org.apache.hadoop.mapreduce.Job] Job job_1715148647425_0013 running in uber mode : false
+2024-05-08 02:23:27,491 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 0% reduce 0%
+2024-05-08 02:23:31,505 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 100% reduce 0%
+2024-05-08 02:23:36,517 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 100% reduce 100%
+2024-05-08 02:23:36,519 INFO  [main][org.apache.hadoop.mapreduce.Job] Job job_1715148647425_0013 completed successfully
+2024-05-08 02:23:36,538 INFO  [main][org.apache.hadoop.mapreduce.Job] Counters: 56
+	File System Counters
+		FILE: Number of bytes read=18
+		FILE: Number of bytes written=1449635
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+		HDFS: Number of bytes read=1614
+		HDFS: Number of bytes written=282
+		HDFS: Number of read operations=23
+		HDFS: Number of large read operations=0
+		HDFS: Number of write operations=6
+		HDFS: Number of bytes read erasure-coded=0
+	Job Counters 
+		Launched map tasks=2
+		Launched reduce tasks=3
+		Data-local map tasks=2
+		Total time spent by all maps in occupied slots (ms)=8634
+		Total time spent by all reduces in occupied slots (ms)=17694
+		Total time spent by all map tasks (ms)=4317
+		Total time spent by all reduce tasks (ms)=5898
+		Total vcore-milliseconds taken by all map tasks=4317
+		Total vcore-milliseconds taken by all reduce tasks=5898
+		Total megabyte-milliseconds taken by all map tasks=8841216
+		Total megabyte-milliseconds taken by all reduce tasks=18118656
+	Map-Reduce Framework
+		Map input records=4
+		Map output records=0
+		Map output bytes=0
+		Map output materialized bytes=36
+		Input split bytes=234
+		Combine input records=0
+		Combine output records=0
+		Reduce input groups=0
+		Reduce shuffle bytes=36
+		Reduce input records=0
+		Reduce output records=0
+		Spilled Records=0
+		Shuffled Maps =6
+		Failed Shuffles=0
+		Merged Map outputs=6
+		GC time elapsed (ms)=61
+		CPU time spent (ms)=6710
+		Physical memory (bytes) snapshot=1938452480
+		Virtual memory (bytes) snapshot=21730152448
+		Total committed heap usage (bytes)=8589934592
+		Peak Map Physical memory (bytes)=437501952
+		Peak Map Virtual memory (bytes)=3652112384
+		Peak Reduce Physical memory (bytes)=357380096
+		Peak Reduce Virtual memory (bytes)=4814585856
+	Shuffle Errors
+		BAD_ID=0
+		CONNECTION=0
+		IO_ERROR=0
+		WRONG_LENGTH=0
+		WRONG_MAP=0
+		WRONG_REDUCE=0
+	File Input Format Counters 
+		Bytes Read=1380
+	File Output Format Counters 
+		Bytes Written=282
+	rhipeInternal
+		partialFlush=2
+	rhipe_timing
+		overall_mapper_ms=609
+2024-05-08 02:23:36,615 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] fs.default.name is deprecated. Instead, use fs.defaultFS
+2024-05-08 02:23:36,761 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache file:/tmp/rhipe-temp-params-bcccf16d1b7770e2a31caf6ae3cab766#rhipe-temp-params-bcccf16d1b7770e2a31caf6ae3cab766
+2024-05-08 02:23:36,761 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache archive:/user/wwtung/bin/R.Pkg.tar.gz#R.Pkg
+2024-05-08 02:23:36,761 DEBUG [main][org.godhuli.rhipe.RHMR] /user/wwtung/Otime/m4
+2024-05-08 02:23:36,771 INFO  [main][org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider] Connecting to ResourceManager at a206/172.18.104.246:8032
+2024-05-08 02:23:36,776 INFO  [main][org.apache.hadoop.mapreduce.JobResourceUploader] Disabling Erasure Coding for path: /tmp/wwtung/hadoop/magpietest/16411833/hadoop/scratch/yarn/wwtung/.staging/job_1715148647425_0014
+2024-05-08 02:23:36,792 INFO  [main][org.apache.hadoop.mapreduce.lib.input.FileInputFormat] Total input files to process : 2
+2024-05-08 02:23:36,806 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] number of splits:2
+2024-05-08 02:23:36,829 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Submitting tokens for job: job_1715148647425_0014
+2024-05-08 02:23:36,829 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Executing with tokens: []
+2024-05-08 02:23:36,839 INFO  [main][org.apache.hadoop.yarn.client.api.impl.YarnClientImpl] Submitted application application_1715148647425_0014
+2024-05-08 02:23:36,841 INFO  [main][org.apache.hadoop.mapreduce.Job] The url to track the job: http://a206:8088/proxy/application_1715148647425_0014/
+2024-05-08 02:23:36,841 INFO  [main][org.godhuli.rhipe.RHMR] Tracking URL ----> http://a206:8088/proxy/application_1715148647425_0014/
+2024-05-08 02:23:36,841 INFO  [main][org.apache.hadoop.mapreduce.Job] Running job: job_1715148647425_0014
+2024-05-08 02:23:40,883 INFO  [main][org.apache.hadoop.mapreduce.Job] Job job_1715148647425_0014 running in uber mode : false
+2024-05-08 02:23:40,883 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 0% reduce 0%
+2024-05-08 02:23:45,915 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 100% reduce 0%
+2024-05-08 02:23:50,925 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 100% reduce 100%
+2024-05-08 02:23:50,928 INFO  [main][org.apache.hadoop.mapreduce.Job] Job job_1715148647425_0014 completed successfully
+2024-05-08 02:23:50,948 INFO  [main][org.apache.hadoop.mapreduce.Job] Counters: 56
+	File System Counters
+		FILE: Number of bytes read=18
+		FILE: Number of bytes written=1449635
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+		HDFS: Number of bytes read=1614
+		HDFS: Number of bytes written=282
+		HDFS: Number of read operations=23
+		HDFS: Number of large read operations=0
+		HDFS: Number of write operations=6
+		HDFS: Number of bytes read erasure-coded=0
+	Job Counters 
+		Launched map tasks=2
+		Launched reduce tasks=3
+		Data-local map tasks=2
+		Total time spent by all maps in occupied slots (ms)=8566
+		Total time spent by all reduces in occupied slots (ms)=19806
+		Total time spent by all map tasks (ms)=4283
+		Total time spent by all reduce tasks (ms)=6602
+		Total vcore-milliseconds taken by all map tasks=4283
+		Total vcore-milliseconds taken by all reduce tasks=6602
+		Total megabyte-milliseconds taken by all map tasks=8771584
+		Total megabyte-milliseconds taken by all reduce tasks=20281344
+	Map-Reduce Framework
+		Map input records=4
+		Map output records=0
+		Map output bytes=0
+		Map output materialized bytes=36
+		Input split bytes=234
+		Combine input records=0
+		Combine output records=0
+		Reduce input groups=0
+		Reduce shuffle bytes=36
+		Reduce input records=0
+		Reduce output records=0
+		Spilled Records=0
+		Shuffled Maps =6
+		Failed Shuffles=0
+		Merged Map outputs=6
+		GC time elapsed (ms)=57
+		CPU time spent (ms)=6990
+		Physical memory (bytes) snapshot=1947156480
+		Virtual memory (bytes) snapshot=21746364416
+		Total committed heap usage (bytes)=8589934592
+		Peak Map Physical memory (bytes)=442605568
+		Peak Map Virtual memory (bytes)=3654082560
+		Peak Reduce Physical memory (bytes)=358035456
+		Peak Reduce Virtual memory (bytes)=4815626240
+	Shuffle Errors
+		BAD_ID=0
+		CONNECTION=0
+		IO_ERROR=0
+		WRONG_LENGTH=0
+		WRONG_MAP=0
+		WRONG_REDUCE=0
+	File Input Format Counters 
+		Bytes Read=1380
+	File Output Format Counters 
+		Bytes Written=282
+	rhipeInternal
+		partialFlush=2
+	rhipe_timing
+		overall_mapper_ms=624
+2024-05-08 02:23:51,025 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] fs.default.name is deprecated. Instead, use fs.defaultFS
+2024-05-08 02:23:51,129 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache file:/tmp/rhipe-temp-params-024f7b780012b7905b7128264aed957c#rhipe-temp-params-024f7b780012b7905b7128264aed957c
+2024-05-08 02:23:51,129 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache archive:/user/wwtung/bin/R.Pkg.tar.gz#R.Pkg
+2024-05-08 02:23:51,130 DEBUG [main][org.godhuli.rhipe.RHMR] /user/wwtung/results/m5
+2024-05-08 02:23:51,139 INFO  [main][org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider] Connecting to ResourceManager at a206/172.18.104.246:8032
+2024-05-08 02:23:51,144 INFO  [main][org.apache.hadoop.mapreduce.JobResourceUploader] Disabling Erasure Coding for path: /tmp/wwtung/hadoop/magpietest/16411833/hadoop/scratch/yarn/wwtung/.staging/job_1715148647425_0015
+2024-05-08 02:23:51,172 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] number of splits:2
+2024-05-08 02:23:51,182 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Submitting tokens for job: job_1715148647425_0015
+2024-05-08 02:23:51,182 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Executing with tokens: []
+2024-05-08 02:23:51,192 INFO  [main][org.apache.hadoop.yarn.client.api.impl.YarnClientImpl] Submitted application application_1715148647425_0015
+2024-05-08 02:23:51,194 INFO  [main][org.apache.hadoop.mapreduce.Job] The url to track the job: http://a206:8088/proxy/application_1715148647425_0015/
+2024-05-08 02:24:01,469 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] fs.default.name is deprecated. Instead, use fs.defaultFS
+2024-05-08 02:24:01,570 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache file:/tmp/rhipe-temp-params-44357d832e5f34b7eac9724760488fa2#rhipe-temp-params-44357d832e5f34b7eac9724760488fa2
+2024-05-08 02:24:01,570 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache archive:/user/wwtung/bin/R.Pkg.tar.gz#R.Pkg
+2024-05-08 02:24:01,570 DEBUG [main][org.godhuli.rhipe.RHMR] /user/wwtung/results/m4
+2024-05-08 02:24:01,580 INFO  [main][org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider] Connecting to ResourceManager at a206/172.18.104.246:8032
+2024-05-08 02:24:01,584 INFO  [main][org.apache.hadoop.mapreduce.JobResourceUploader] Disabling Erasure Coding for path: /tmp/wwtung/hadoop/magpietest/16411833/hadoop/scratch/yarn/wwtung/.staging/job_1715148647425_0016
+2024-05-08 02:24:01,609 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] number of splits:2
+2024-05-08 02:24:01,618 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Submitting tokens for job: job_1715148647425_0016
+2024-05-08 02:24:01,618 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Executing with tokens: []
+2024-05-08 02:24:01,631 INFO  [main][org.apache.hadoop.yarn.client.api.impl.YarnClientImpl] Submitted application application_1715148647425_0016
+2024-05-08 02:24:01,632 INFO  [main][org.apache.hadoop.mapreduce.Job] The url to track the job: http://a206:8088/proxy/application_1715148647425_0016/
+2024-05-08 02:24:11,890 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] fs.default.name is deprecated. Instead, use fs.defaultFS
+2024-05-08 02:24:12,028 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache file:/tmp/rhipe-temp-params-49de9f3486996a4e8d0c568fd7183d7a#rhipe-temp-params-49de9f3486996a4e8d0c568fd7183d7a
+2024-05-08 02:24:12,028 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache archive:/user/wwtung/bin/R.Pkg.tar.gz#R.Pkg
+2024-05-08 02:24:12,028 DEBUG [main][org.godhuli.rhipe.RHMR] /user/wwtung/Otime/m5
+2024-05-08 02:24:12,038 INFO  [main][org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider] Connecting to ResourceManager at a206/172.18.104.246:8032
+2024-05-08 02:24:12,041 INFO  [main][org.apache.hadoop.mapreduce.JobResourceUploader] Disabling Erasure Coding for path: /tmp/wwtung/hadoop/magpietest/16411833/hadoop/scratch/yarn/wwtung/.staging/job_1715148647425_0017
+2024-05-08 02:24:12,055 INFO  [main][org.apache.hadoop.mapreduce.lib.input.FileInputFormat] Total input files to process : 2
+2024-05-08 02:24:12,069 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] number of splits:2
+2024-05-08 02:24:12,079 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Submitting tokens for job: job_1715148647425_0017
+2024-05-08 02:24:12,079 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Executing with tokens: []
+2024-05-08 02:24:12,289 INFO  [main][org.apache.hadoop.yarn.client.api.impl.YarnClientImpl] Submitted application application_1715148647425_0017
+2024-05-08 02:24:12,290 INFO  [main][org.apache.hadoop.mapreduce.Job] The url to track the job: http://a206:8088/proxy/application_1715148647425_0017/
+2024-05-08 02:24:12,290 INFO  [main][org.godhuli.rhipe.RHMR] Tracking URL ----> http://a206:8088/proxy/application_1715148647425_0017/
+2024-05-08 02:24:12,290 INFO  [main][org.apache.hadoop.mapreduce.Job] Running job: job_1715148647425_0017
+2024-05-08 02:24:16,349 INFO  [main][org.apache.hadoop.mapreduce.Job] Job job_1715148647425_0017 running in uber mode : false
+2024-05-08 02:24:16,349 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 0% reduce 0%
+2024-05-08 02:24:21,365 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 100% reduce 0%
+2024-05-08 02:24:25,373 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 100% reduce 100%
+2024-05-08 02:24:25,376 INFO  [main][org.apache.hadoop.mapreduce.Job] Job job_1715148647425_0017 completed successfully
+2024-05-08 02:24:25,396 INFO  [main][org.apache.hadoop.mapreduce.Job] Counters: 56
+	File System Counters
+		FILE: Number of bytes read=18
+		FILE: Number of bytes written=1449640
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+		HDFS: Number of bytes read=1530
+		HDFS: Number of bytes written=282
+		HDFS: Number of read operations=23
+		HDFS: Number of large read operations=0
+		HDFS: Number of write operations=6
+		HDFS: Number of bytes read erasure-coded=0
+	Job Counters 
+		Launched map tasks=2
+		Launched reduce tasks=3
+		Data-local map tasks=2
+		Total time spent by all maps in occupied slots (ms)=8544
+		Total time spent by all reduces in occupied slots (ms)=17736
+		Total time spent by all map tasks (ms)=4272
+		Total time spent by all reduce tasks (ms)=5912
+		Total vcore-milliseconds taken by all map tasks=4272
+		Total vcore-milliseconds taken by all reduce tasks=5912
+		Total megabyte-milliseconds taken by all map tasks=8749056
+		Total megabyte-milliseconds taken by all reduce tasks=18161664
+	Map-Reduce Framework
+		Map input records=2
+		Map output records=0
+		Map output bytes=0
+		Map output materialized bytes=36
+		Input split bytes=234
+		Combine input records=0
+		Combine output records=0
+		Reduce input groups=0
+		Reduce shuffle bytes=36
+		Reduce input records=0
+		Reduce output records=0
+		Spilled Records=0
+		Shuffled Maps =6
+		Failed Shuffles=0
+		Merged Map outputs=6
+		GC time elapsed (ms)=64
+		CPU time spent (ms)=6820
+		Physical memory (bytes) snapshot=1941815296
+		Virtual memory (bytes) snapshot=21730996224
+		Total committed heap usage (bytes)=8589934592
+		Peak Map Physical memory (bytes)=438317056
+		Peak Map Virtual memory (bytes)=3653206016
+		Peak Reduce Physical memory (bytes)=357949440
+		Peak Reduce Virtual memory (bytes)=4814331904
+	Shuffle Errors
+		BAD_ID=0
+		CONNECTION=0
+		IO_ERROR=0
+		WRONG_LENGTH=0
+		WRONG_MAP=0
+		WRONG_REDUCE=0
+	File Input Format Counters 
+		Bytes Read=1296
+	File Output Format Counters 
+		Bytes Written=282
+	rhipeInternal
+		partialFlush=2
+	rhipe_timing
+		overall_mapper_ms=576
+2024-05-08 02:24:26,475 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] fs.default.name is deprecated. Instead, use fs.defaultFS
+2024-05-08 02:24:26,611 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache file:/tmp/rhipe-temp-params-48b1e749ebfce70c091ef3467083e54d#rhipe-temp-params-48b1e749ebfce70c091ef3467083e54d
+2024-05-08 02:24:26,611 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache archive:/user/wwtung/bin/R.Pkg.tar.gz#R.Pkg
+2024-05-08 02:24:26,612 DEBUG [main][org.godhuli.rhipe.RHMR] /user/wwtung/Otime/m4
+2024-05-08 02:24:26,621 INFO  [main][org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider] Connecting to ResourceManager at a206/172.18.104.246:8032
+2024-05-08 02:24:26,625 INFO  [main][org.apache.hadoop.mapreduce.JobResourceUploader] Disabling Erasure Coding for path: /tmp/wwtung/hadoop/magpietest/16411833/hadoop/scratch/yarn/wwtung/.staging/job_1715148647425_0018
+2024-05-08 02:24:26,644 INFO  [main][org.apache.hadoop.mapreduce.lib.input.FileInputFormat] Total input files to process : 2
+2024-05-08 02:24:26,662 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] number of splits:2
+2024-05-08 02:24:26,674 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Submitting tokens for job: job_1715148647425_0018
+2024-05-08 02:24:26,674 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Executing with tokens: []
+2024-05-08 02:24:26,885 INFO  [main][org.apache.hadoop.yarn.client.api.impl.YarnClientImpl] Submitted application application_1715148647425_0018
+2024-05-08 02:24:26,886 INFO  [main][org.apache.hadoop.mapreduce.Job] The url to track the job: http://a206:8088/proxy/application_1715148647425_0018/
+2024-05-08 02:24:26,886 INFO  [main][org.godhuli.rhipe.RHMR] Tracking URL ----> http://a206:8088/proxy/application_1715148647425_0018/
+2024-05-08 02:24:26,886 INFO  [main][org.apache.hadoop.mapreduce.Job] Running job: job_1715148647425_0018
+2024-05-08 02:24:31,923 INFO  [main][org.apache.hadoop.mapreduce.Job] Job job_1715148647425_0018 running in uber mode : false
+2024-05-08 02:24:31,923 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 0% reduce 0%
+2024-05-08 02:24:35,936 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 100% reduce 0%
+2024-05-08 02:24:40,948 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 100% reduce 100%
+2024-05-08 02:24:40,951 INFO  [main][org.apache.hadoop.mapreduce.Job] Job job_1715148647425_0018 completed successfully
+2024-05-08 02:24:40,970 INFO  [main][org.apache.hadoop.mapreduce.Job] Counters: 56
+	File System Counters
+		FILE: Number of bytes read=18
+		FILE: Number of bytes written=1449640
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+		HDFS: Number of bytes read=1614
+		HDFS: Number of bytes written=282
+		HDFS: Number of read operations=23
+		HDFS: Number of large read operations=0
+		HDFS: Number of write operations=6
+		HDFS: Number of bytes read erasure-coded=0
+	Job Counters 
+		Launched map tasks=2
+		Launched reduce tasks=3
+		Data-local map tasks=2
+		Total time spent by all maps in occupied slots (ms)=8444
+		Total time spent by all reduces in occupied slots (ms)=17538
+		Total time spent by all map tasks (ms)=4222
+		Total time spent by all reduce tasks (ms)=5846
+		Total vcore-milliseconds taken by all map tasks=4222
+		Total vcore-milliseconds taken by all reduce tasks=5846
+		Total megabyte-milliseconds taken by all map tasks=8646656
+		Total megabyte-milliseconds taken by all reduce tasks=17958912
+	Map-Reduce Framework
+		Map input records=4
+		Map output records=0
+		Map output bytes=0
+		Map output materialized bytes=36
+		Input split bytes=234
+		Combine input records=0
+		Combine output records=0
+		Reduce input groups=0
+		Reduce shuffle bytes=36
+		Reduce input records=0
+		Reduce output records=0
+		Spilled Records=0
+		Shuffled Maps =6
+		Failed Shuffles=0
+		Merged Map outputs=6
+		GC time elapsed (ms)=61
+		CPU time spent (ms)=6780
+		Physical memory (bytes) snapshot=1955368960
+		Virtual memory (bytes) snapshot=21726130176
+		Total committed heap usage (bytes)=8589934592
+		Peak Map Physical memory (bytes)=442392576
+		Peak Map Virtual memory (bytes)=3654172672
+		Peak Reduce Physical memory (bytes)=361758720
+		Peak Reduce Virtual memory (bytes)=4814614528
+	Shuffle Errors
+		BAD_ID=0
+		CONNECTION=0
+		IO_ERROR=0
+		WRONG_LENGTH=0
+		WRONG_MAP=0
+		WRONG_REDUCE=0
+	File Input Format Counters 
+		Bytes Read=1380
+	File Output Format Counters 
+		Bytes Written=282
+	rhipeInternal
+		partialFlush=2
+	rhipe_timing
+		overall_mapper_ms=579
+2024-05-08 02:24:42,049 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] fs.default.name is deprecated. Instead, use fs.defaultFS
+2024-05-08 02:24:42,181 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache file:/tmp/rhipe-temp-params-48b1e749ebfce70c091ef3467083e54d#rhipe-temp-params-48b1e749ebfce70c091ef3467083e54d
+2024-05-08 02:24:42,181 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache archive:/user/wwtung/bin/R.Pkg.tar.gz#R.Pkg
+2024-05-08 02:24:42,182 DEBUG [main][org.godhuli.rhipe.RHMR] /user/wwtung/Otime/m4
+2024-05-08 02:24:42,191 INFO  [main][org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider] Connecting to ResourceManager at a206/172.18.104.246:8032
+2024-05-08 02:24:42,195 INFO  [main][org.apache.hadoop.mapreduce.JobResourceUploader] Disabling Erasure Coding for path: /tmp/wwtung/hadoop/magpietest/16411833/hadoop/scratch/yarn/wwtung/.staging/job_1715148647425_0019
+2024-05-08 02:24:42,210 INFO  [main][org.apache.hadoop.mapreduce.lib.input.FileInputFormat] Total input files to process : 2
+2024-05-08 02:24:42,222 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] number of splits:2
+2024-05-08 02:24:42,231 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Submitting tokens for job: job_1715148647425_0019
+2024-05-08 02:24:42,231 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Executing with tokens: []
+2024-05-08 02:24:42,241 INFO  [main][org.apache.hadoop.yarn.client.api.impl.YarnClientImpl] Submitted application application_1715148647425_0019
+2024-05-08 02:24:42,243 INFO  [main][org.apache.hadoop.mapreduce.Job] The url to track the job: http://a206:8088/proxy/application_1715148647425_0019/
+2024-05-08 02:24:42,243 INFO  [main][org.godhuli.rhipe.RHMR] Tracking URL ----> http://a206:8088/proxy/application_1715148647425_0019/
+2024-05-08 02:24:42,243 INFO  [main][org.apache.hadoop.mapreduce.Job] Running job: job_1715148647425_0019
+2024-05-08 02:24:46,315 INFO  [main][org.apache.hadoop.mapreduce.Job] Job job_1715148647425_0019 running in uber mode : false
+2024-05-08 02:24:46,315 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 0% reduce 0%
+2024-05-08 02:24:51,369 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 100% reduce 0%
+2024-05-08 02:24:55,378 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 100% reduce 100%
+2024-05-08 02:24:56,383 INFO  [main][org.apache.hadoop.mapreduce.Job] Job job_1715148647425_0019 completed successfully
+2024-05-08 02:24:56,402 INFO  [main][org.apache.hadoop.mapreduce.Job] Counters: 56
+	File System Counters
+		FILE: Number of bytes read=18
+		FILE: Number of bytes written=1449640
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+		HDFS: Number of bytes read=1614
+		HDFS: Number of bytes written=282
+		HDFS: Number of read operations=23
+		HDFS: Number of large read operations=0
+		HDFS: Number of write operations=6
+		HDFS: Number of bytes read erasure-coded=0
+	Job Counters 
+		Launched map tasks=2
+		Launched reduce tasks=3
+		Data-local map tasks=2
+		Total time spent by all maps in occupied slots (ms)=8966
+		Total time spent by all reduces in occupied slots (ms)=17082
+		Total time spent by all map tasks (ms)=4483
+		Total time spent by all reduce tasks (ms)=5694
+		Total vcore-milliseconds taken by all map tasks=4483
+		Total vcore-milliseconds taken by all reduce tasks=5694
+		Total megabyte-milliseconds taken by all map tasks=9181184
+		Total megabyte-milliseconds taken by all reduce tasks=17491968
+	Map-Reduce Framework
+		Map input records=4
+		Map output records=0
+		Map output bytes=0
+		Map output materialized bytes=36
+		Input split bytes=234
+		Combine input records=0
+		Combine output records=0
+		Reduce input groups=0
+		Reduce shuffle bytes=36
+		Reduce input records=0
+		Reduce output records=0
+		Spilled Records=0
+		Shuffled Maps =6
+		Failed Shuffles=0
+		Merged Map outputs=6
+		GC time elapsed (ms)=58
+		CPU time spent (ms)=6790
+		Physical memory (bytes) snapshot=1936056320
+		Virtual memory (bytes) snapshot=21733580800
+		Total committed heap usage (bytes)=8589934592
+		Peak Map Physical memory (bytes)=438824960
+		Peak Map Virtual memory (bytes)=3658936320
+		Peak Reduce Physical memory (bytes)=356425728
+		Peak Reduce Virtual memory (bytes)=4812525568
+	Shuffle Errors
+		BAD_ID=0
+		CONNECTION=0
+		IO_ERROR=0
+		WRONG_LENGTH=0
+		WRONG_MAP=0
+		WRONG_REDUCE=0
+	File Input Format Counters 
+		Bytes Read=1380
+	File Output Format Counters 
+		Bytes Written=282
+	rhipeInternal
+		partialFlush=2
+	rhipe_timing
+		overall_mapper_ms=616
+2024-05-08 02:24:56,486 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] fs.default.name is deprecated. Instead, use fs.defaultFS
+2024-05-08 02:24:56,624 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache file:/tmp/rhipe-temp-params-48b1e749ebfce70c091ef3467083e54d#rhipe-temp-params-48b1e749ebfce70c091ef3467083e54d
+2024-05-08 02:24:56,624 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache archive:/user/wwtung/bin/R.Pkg.tar.gz#R.Pkg
+2024-05-08 02:24:56,625 DEBUG [main][org.godhuli.rhipe.RHMR] /user/wwtung/Otime/m4
+2024-05-08 02:24:56,635 INFO  [main][org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider] Connecting to ResourceManager at a206/172.18.104.246:8032
+2024-05-08 02:24:56,638 INFO  [main][org.apache.hadoop.mapreduce.JobResourceUploader] Disabling Erasure Coding for path: /tmp/wwtung/hadoop/magpietest/16411833/hadoop/scratch/yarn/wwtung/.staging/job_1715148647425_0020
+2024-05-08 02:24:56,653 INFO  [main][org.apache.hadoop.mapreduce.lib.input.FileInputFormat] Total input files to process : 2
+2024-05-08 02:24:56,664 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] number of splits:2
+2024-05-08 02:24:56,674 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Submitting tokens for job: job_1715148647425_0020
+2024-05-08 02:24:56,674 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Executing with tokens: []
+2024-05-08 02:24:56,886 INFO  [main][org.apache.hadoop.yarn.client.api.impl.YarnClientImpl] Submitted application application_1715148647425_0020
+2024-05-08 02:24:56,888 INFO  [main][org.apache.hadoop.mapreduce.Job] The url to track the job: http://a206:8088/proxy/application_1715148647425_0020/
+2024-05-08 02:24:56,888 INFO  [main][org.godhuli.rhipe.RHMR] Tracking URL ----> http://a206:8088/proxy/application_1715148647425_0020/
+2024-05-08 02:24:56,888 INFO  [main][org.apache.hadoop.mapreduce.Job] Running job: job_1715148647425_0020
+2024-05-08 02:25:01,942 INFO  [main][org.apache.hadoop.mapreduce.Job] Job job_1715148647425_0020 running in uber mode : false
+2024-05-08 02:25:01,942 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 0% reduce 0%
+2024-05-08 02:25:05,956 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 100% reduce 0%
+2024-05-08 02:25:10,967 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 100% reduce 100%
+2024-05-08 02:25:10,970 INFO  [main][org.apache.hadoop.mapreduce.Job] Job job_1715148647425_0020 completed successfully
+2024-05-08 02:25:10,989 INFO  [main][org.apache.hadoop.mapreduce.Job] Counters: 56
+	File System Counters
+		FILE: Number of bytes read=18
+		FILE: Number of bytes written=1449640
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+		HDFS: Number of bytes read=1614
+		HDFS: Number of bytes written=282
+		HDFS: Number of read operations=23
+		HDFS: Number of large read operations=0
+		HDFS: Number of write operations=6
+		HDFS: Number of bytes read erasure-coded=0
+	Job Counters 
+		Launched map tasks=2
+		Launched reduce tasks=3
+		Data-local map tasks=2
+		Total time spent by all maps in occupied slots (ms)=8734
+		Total time spent by all reduces in occupied slots (ms)=17742
+		Total time spent by all map tasks (ms)=4367
+		Total time spent by all reduce tasks (ms)=5914
+		Total vcore-milliseconds taken by all map tasks=4367
+		Total vcore-milliseconds taken by all reduce tasks=5914
+		Total megabyte-milliseconds taken by all map tasks=8943616
+		Total megabyte-milliseconds taken by all reduce tasks=18167808
+	Map-Reduce Framework
+		Map input records=4
+		Map output records=0
+		Map output bytes=0
+		Map output materialized bytes=36
+		Input split bytes=234
+		Combine input records=0
+		Combine output records=0
+		Reduce input groups=0
+		Reduce shuffle bytes=36
+		Reduce input records=0
+		Reduce output records=0
+		Spilled Records=0
+		Shuffled Maps =6
+		Failed Shuffles=0
+		Merged Map outputs=6
+		GC time elapsed (ms)=66
+		CPU time spent (ms)=6720
+		Physical memory (bytes) snapshot=1949233152
+		Virtual memory (bytes) snapshot=21742211072
+		Total committed heap usage (bytes)=8589934592
+		Peak Map Physical memory (bytes)=440659968
+		Peak Map Virtual memory (bytes)=3660156928
+		Peak Reduce Physical memory (bytes)=358248448
+		Peak Reduce Virtual memory (bytes)=4814987264
+	Shuffle Errors
+		BAD_ID=0
+		CONNECTION=0
+		IO_ERROR=0
+		WRONG_LENGTH=0
+		WRONG_MAP=0
+		WRONG_REDUCE=0
+	File Input Format Counters 
+		Bytes Read=1380
+	File Output Format Counters 
+		Bytes Written=282
+	rhipeInternal
+		partialFlush=2
+	rhipe_timing
+		overall_mapper_ms=629
+2024-05-08 02:25:11,065 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] fs.default.name is deprecated. Instead, use fs.defaultFS
+2024-05-08 02:25:11,196 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache file:/tmp/rhipe-temp-params-b3b5030f6f8c8ce814d6754687e5a1d1#rhipe-temp-params-b3b5030f6f8c8ce814d6754687e5a1d1
+2024-05-08 02:25:11,196 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache archive:/user/wwtung/bin/R.Pkg.tar.gz#R.Pkg
+2024-05-08 02:25:11,196 DEBUG [main][org.godhuli.rhipe.RHMR] /user/wwtung/Otime/m5
+2024-05-08 02:25:11,206 INFO  [main][org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider] Connecting to ResourceManager at a206/172.18.104.246:8032
+2024-05-08 02:25:11,209 INFO  [main][org.apache.hadoop.mapreduce.JobResourceUploader] Disabling Erasure Coding for path: /tmp/wwtung/hadoop/magpietest/16411833/hadoop/scratch/yarn/wwtung/.staging/job_1715148647425_0021
+2024-05-08 02:25:11,226 INFO  [main][org.apache.hadoop.mapreduce.lib.input.FileInputFormat] Total input files to process : 2
+2024-05-08 02:25:11,241 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] number of splits:2
+2024-05-08 02:25:11,253 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Submitting tokens for job: job_1715148647425_0021
+2024-05-08 02:25:11,253 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Executing with tokens: []
+2024-05-08 02:25:11,462 INFO  [main][org.apache.hadoop.yarn.client.api.impl.YarnClientImpl] Submitted application application_1715148647425_0021
+2024-05-08 02:25:11,463 INFO  [main][org.apache.hadoop.mapreduce.Job] The url to track the job: http://a206:8088/proxy/application_1715148647425_0021/
+2024-05-08 02:25:11,463 INFO  [main][org.godhuli.rhipe.RHMR] Tracking URL ----> http://a206:8088/proxy/application_1715148647425_0021/
+2024-05-08 02:25:11,463 INFO  [main][org.apache.hadoop.mapreduce.Job] Running job: job_1715148647425_0021
+2024-05-08 02:25:15,499 INFO  [main][org.apache.hadoop.mapreduce.Job] Job job_1715148647425_0021 running in uber mode : false
+2024-05-08 02:25:15,499 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 0% reduce 0%
+2024-05-08 02:25:20,515 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 100% reduce 0%
+2024-05-08 02:25:24,522 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 100% reduce 100%
+2024-05-08 02:25:25,526 INFO  [main][org.apache.hadoop.mapreduce.Job] Job job_1715148647425_0021 completed successfully
+2024-05-08 02:25:25,544 INFO  [main][org.apache.hadoop.mapreduce.Job] Counters: 56
+	File System Counters
+		FILE: Number of bytes read=18
+		FILE: Number of bytes written=1449640
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+		HDFS: Number of bytes read=1530
+		HDFS: Number of bytes written=282
+		HDFS: Number of read operations=23
+		HDFS: Number of large read operations=0
+		HDFS: Number of write operations=6
+		HDFS: Number of bytes read erasure-coded=0
+	Job Counters 
+		Launched map tasks=2
+		Launched reduce tasks=3
+		Data-local map tasks=2
+		Total time spent by all maps in occupied slots (ms)=8662
+		Total time spent by all reduces in occupied slots (ms)=17658
+		Total time spent by all map tasks (ms)=4331
+		Total time spent by all reduce tasks (ms)=5886
+		Total vcore-milliseconds taken by all map tasks=4331
+		Total vcore-milliseconds taken by all reduce tasks=5886
+		Total megabyte-milliseconds taken by all map tasks=8869888
+		Total megabyte-milliseconds taken by all reduce tasks=18081792
+	Map-Reduce Framework
+		Map input records=2
+		Map output records=0
+		Map output bytes=0
+		Map output materialized bytes=36
+		Input split bytes=234
+		Combine input records=0
+		Combine output records=0
+		Reduce input groups=0
+		Reduce shuffle bytes=36
+		Reduce input records=0
+		Reduce output records=0
+		Spilled Records=0
+		Shuffled Maps =6
+		Failed Shuffles=0
+		Merged Map outputs=6
+		GC time elapsed (ms)=70
+		CPU time spent (ms)=6610
+		Physical memory (bytes) snapshot=1936195584
+		Virtual memory (bytes) snapshot=21733859328
+		Total committed heap usage (bytes)=8589934592
+		Peak Map Physical memory (bytes)=434741248
+		Peak Map Virtual memory (bytes)=3653177344
+		Peak Reduce Physical memory (bytes)=358109184
+		Peak Reduce Virtual memory (bytes)=4813279232
+	Shuffle Errors
+		BAD_ID=0
+		CONNECTION=0
+		IO_ERROR=0
+		WRONG_LENGTH=0
+		WRONG_MAP=0
+		WRONG_REDUCE=0
+	File Input Format Counters 
+		Bytes Read=1296
+	File Output Format Counters 
+		Bytes Written=282
+	rhipeInternal
+		partialFlush=2
+	rhipe_timing
+		overall_mapper_ms=596
+2024-05-08 02:25:26,620 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] fs.default.name is deprecated. Instead, use fs.defaultFS
+2024-05-08 02:25:26,755 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache file:/tmp/rhipe-temp-params-8226a5181181f75cd1694edf879ec9fe#rhipe-temp-params-8226a5181181f75cd1694edf879ec9fe
+2024-05-08 02:25:26,755 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache archive:/user/wwtung/bin/R.Pkg.tar.gz#R.Pkg
+2024-05-08 02:25:26,756 DEBUG [main][org.godhuli.rhipe.RHMR] /user/wwtung/Otime/m4
+2024-05-08 02:25:26,766 INFO  [main][org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider] Connecting to ResourceManager at a206/172.18.104.246:8032
+2024-05-08 02:25:26,769 INFO  [main][org.apache.hadoop.mapreduce.JobResourceUploader] Disabling Erasure Coding for path: /tmp/wwtung/hadoop/magpietest/16411833/hadoop/scratch/yarn/wwtung/.staging/job_1715148647425_0022
+2024-05-08 02:25:26,789 INFO  [main][org.apache.hadoop.mapreduce.lib.input.FileInputFormat] Total input files to process : 2
+2024-05-08 02:25:26,802 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] number of splits:2
+2024-05-08 02:25:26,814 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Submitting tokens for job: job_1715148647425_0022
+2024-05-08 02:25:26,814 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Executing with tokens: []
+2024-05-08 02:25:27,025 INFO  [main][org.apache.hadoop.yarn.client.api.impl.YarnClientImpl] Submitted application application_1715148647425_0022
+2024-05-08 02:25:27,027 INFO  [main][org.apache.hadoop.mapreduce.Job] The url to track the job: http://a206:8088/proxy/application_1715148647425_0022/
+2024-05-08 02:25:27,027 INFO  [main][org.godhuli.rhipe.RHMR] Tracking URL ----> http://a206:8088/proxy/application_1715148647425_0022/
+2024-05-08 02:25:27,027 INFO  [main][org.apache.hadoop.mapreduce.Job] Running job: job_1715148647425_0022
+2024-05-08 02:25:32,064 INFO  [main][org.apache.hadoop.mapreduce.Job] Job job_1715148647425_0022 running in uber mode : false
+2024-05-08 02:25:32,064 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 0% reduce 0%
+2024-05-08 02:25:36,076 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 100% reduce 0%
+2024-05-08 02:25:41,086 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 100% reduce 100%
+2024-05-08 02:25:41,089 INFO  [main][org.apache.hadoop.mapreduce.Job] Job job_1715148647425_0022 completed successfully
+2024-05-08 02:25:41,106 INFO  [main][org.apache.hadoop.mapreduce.Job] Counters: 56
+	File System Counters
+		FILE: Number of bytes read=18
+		FILE: Number of bytes written=1449640
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+		HDFS: Number of bytes read=1614
+		HDFS: Number of bytes written=282
+		HDFS: Number of read operations=23
+		HDFS: Number of large read operations=0
+		HDFS: Number of write operations=6
+		HDFS: Number of bytes read erasure-coded=0
+	Job Counters 
+		Launched map tasks=2
+		Launched reduce tasks=3
+		Data-local map tasks=2
+		Total time spent by all maps in occupied slots (ms)=8938
+		Total time spent by all reduces in occupied slots (ms)=17265
+		Total time spent by all map tasks (ms)=4469
+		Total time spent by all reduce tasks (ms)=5755
+		Total vcore-milliseconds taken by all map tasks=4469
+		Total vcore-milliseconds taken by all reduce tasks=5755
+		Total megabyte-milliseconds taken by all map tasks=9152512
+		Total megabyte-milliseconds taken by all reduce tasks=17679360
+	Map-Reduce Framework
+		Map input records=4
+		Map output records=0
+		Map output bytes=0
+		Map output materialized bytes=36
+		Input split bytes=234
+		Combine input records=0
+		Combine output records=0
+		Reduce input groups=0
+		Reduce shuffle bytes=36
+		Reduce input records=0
+		Reduce output records=0
+		Spilled Records=0
+		Shuffled Maps =6
+		Failed Shuffles=0
+		Merged Map outputs=6
+		GC time elapsed (ms)=56
+		CPU time spent (ms)=6780
+		Physical memory (bytes) snapshot=1950965760
+		Virtual memory (bytes) snapshot=21745016832
+		Total committed heap usage (bytes)=8589934592
+		Peak Map Physical memory (bytes)=442863616
+		Peak Map Virtual memory (bytes)=3654889472
+		Peak Reduce Physical memory (bytes)=357588992
+		Peak Reduce Virtual memory (bytes)=4815458304
+	Shuffle Errors
+		BAD_ID=0
+		CONNECTION=0
+		IO_ERROR=0
+		WRONG_LENGTH=0
+		WRONG_MAP=0
+		WRONG_REDUCE=0
+	File Input Format Counters 
+		Bytes Read=1380
+	File Output Format Counters 
+		Bytes Written=282
+	rhipeInternal
+		partialFlush=2
+	rhipe_timing
+		overall_mapper_ms=587
+2024-05-08 02:25:42,185 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] fs.default.name is deprecated. Instead, use fs.defaultFS
+2024-05-08 02:25:42,317 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache file:/tmp/rhipe-temp-params-8226a5181181f75cd1694edf879ec9fe#rhipe-temp-params-8226a5181181f75cd1694edf879ec9fe
+2024-05-08 02:25:42,317 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache archive:/user/wwtung/bin/R.Pkg.tar.gz#R.Pkg
+2024-05-08 02:25:42,317 DEBUG [main][org.godhuli.rhipe.RHMR] /user/wwtung/Otime/m4
+2024-05-08 02:25:42,326 INFO  [main][org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider] Connecting to ResourceManager at a206/172.18.104.246:8032
+2024-05-08 02:25:42,330 INFO  [main][org.apache.hadoop.mapreduce.JobResourceUploader] Disabling Erasure Coding for path: /tmp/wwtung/hadoop/magpietest/16411833/hadoop/scratch/yarn/wwtung/.staging/job_1715148647425_0023
+2024-05-08 02:25:42,344 INFO  [main][org.apache.hadoop.mapreduce.lib.input.FileInputFormat] Total input files to process : 2
+2024-05-08 02:25:42,356 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] number of splits:2
+2024-05-08 02:25:42,365 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Submitting tokens for job: job_1715148647425_0023
+2024-05-08 02:25:42,365 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Executing with tokens: []
+2024-05-08 02:25:42,574 INFO  [main][org.apache.hadoop.yarn.client.api.impl.YarnClientImpl] Submitted application application_1715148647425_0023
+2024-05-08 02:25:42,575 INFO  [main][org.apache.hadoop.mapreduce.Job] The url to track the job: http://a206:8088/proxy/application_1715148647425_0023/
+2024-05-08 02:25:42,575 INFO  [main][org.godhuli.rhipe.RHMR] Tracking URL ----> http://a206:8088/proxy/application_1715148647425_0023/
+2024-05-08 02:25:42,575 INFO  [main][org.apache.hadoop.mapreduce.Job] Running job: job_1715148647425_0023
+2024-05-08 02:25:46,611 INFO  [main][org.apache.hadoop.mapreduce.Job] Job job_1715148647425_0023 running in uber mode : false
+2024-05-08 02:25:46,611 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 0% reduce 0%
+2024-05-08 02:25:51,627 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 100% reduce 0%
+2024-05-08 02:25:55,635 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 100% reduce 100%
+2024-05-08 02:25:55,638 INFO  [main][org.apache.hadoop.mapreduce.Job] Job job_1715148647425_0023 completed successfully
+2024-05-08 02:25:55,655 INFO  [main][org.apache.hadoop.mapreduce.Job] Counters: 56
+	File System Counters
+		FILE: Number of bytes read=18
+		FILE: Number of bytes written=1449640
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+		HDFS: Number of bytes read=1614
+		HDFS: Number of bytes written=282
+		HDFS: Number of read operations=23
+		HDFS: Number of large read operations=0
+		HDFS: Number of write operations=6
+		HDFS: Number of bytes read erasure-coded=0
+	Job Counters 
+		Launched map tasks=2
+		Launched reduce tasks=3
+		Data-local map tasks=2
+		Total time spent by all maps in occupied slots (ms)=8750
+		Total time spent by all reduces in occupied slots (ms)=17550
+		Total time spent by all map tasks (ms)=4375
+		Total time spent by all reduce tasks (ms)=5850
+		Total vcore-milliseconds taken by all map tasks=4375
+		Total vcore-milliseconds taken by all reduce tasks=5850
+		Total megabyte-milliseconds taken by all map tasks=8960000
+		Total megabyte-milliseconds taken by all reduce tasks=17971200
+	Map-Reduce Framework
+		Map input records=4
+		Map output records=0
+		Map output bytes=0
+		Map output materialized bytes=36
+		Input split bytes=234
+		Combine input records=0
+		Combine output records=0
+		Reduce input groups=0
+		Reduce shuffle bytes=36
+		Reduce input records=0
+		Reduce output records=0
+		Spilled Records=0
+		Shuffled Maps =6
+		Failed Shuffles=0
+		Merged Map outputs=6
+		GC time elapsed (ms)=68
+		CPU time spent (ms)=6880
+		Physical memory (bytes) snapshot=1947254784
+		Virtual memory (bytes) snapshot=21722923008
+		Total committed heap usage (bytes)=8589934592
+		Peak Map Physical memory (bytes)=439742464
+		Peak Map Virtual memory (bytes)=3652354048
+		Peak Reduce Physical memory (bytes)=358047744
+		Peak Reduce Virtual memory (bytes)=4812132352
+	Shuffle Errors
+		BAD_ID=0
+		CONNECTION=0
+		IO_ERROR=0
+		WRONG_LENGTH=0
+		WRONG_MAP=0
+		WRONG_REDUCE=0
+	File Input Format Counters 
+		Bytes Read=1380
+	File Output Format Counters 
+		Bytes Written=282
+	rhipeInternal
+		partialFlush=2
+	rhipe_timing
+		overall_mapper_ms=667
+2024-05-08 02:25:55,732 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] fs.default.name is deprecated. Instead, use fs.defaultFS
+2024-05-08 02:25:55,861 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache file:/tmp/rhipe-temp-params-8226a5181181f75cd1694edf879ec9fe#rhipe-temp-params-8226a5181181f75cd1694edf879ec9fe
+2024-05-08 02:25:55,861 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache archive:/user/wwtung/bin/R.Pkg.tar.gz#R.Pkg
+2024-05-08 02:25:55,862 DEBUG [main][org.godhuli.rhipe.RHMR] /user/wwtung/Otime/m4
+2024-05-08 02:25:55,870 INFO  [main][org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider] Connecting to ResourceManager at a206/172.18.104.246:8032
+2024-05-08 02:25:55,874 INFO  [main][org.apache.hadoop.mapreduce.JobResourceUploader] Disabling Erasure Coding for path: /tmp/wwtung/hadoop/magpietest/16411833/hadoop/scratch/yarn/wwtung/.staging/job_1715148647425_0024
+2024-05-08 02:25:55,894 INFO  [main][org.apache.hadoop.mapreduce.lib.input.FileInputFormat] Total input files to process : 2
+2024-05-08 02:25:55,907 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] number of splits:2
+2024-05-08 02:25:55,916 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Submitting tokens for job: job_1715148647425_0024
+2024-05-08 02:25:55,916 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Executing with tokens: []
+2024-05-08 02:25:56,125 INFO  [main][org.apache.hadoop.yarn.client.api.impl.YarnClientImpl] Submitted application application_1715148647425_0024
+2024-05-08 02:25:56,126 INFO  [main][org.apache.hadoop.mapreduce.Job] The url to track the job: http://a206:8088/proxy/application_1715148647425_0024/
+2024-05-08 02:25:56,126 INFO  [main][org.godhuli.rhipe.RHMR] Tracking URL ----> http://a206:8088/proxy/application_1715148647425_0024/
+2024-05-08 02:25:56,126 INFO  [main][org.apache.hadoop.mapreduce.Job] Running job: job_1715148647425_0024
+2024-05-08 02:26:01,177 INFO  [main][org.apache.hadoop.mapreduce.Job] Job job_1715148647425_0024 running in uber mode : false
+2024-05-08 02:26:01,177 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 0% reduce 0%
+2024-05-08 02:26:05,191 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 100% reduce 0%
+2024-05-08 02:26:10,201 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 100% reduce 100%
+2024-05-08 02:26:10,203 INFO  [main][org.apache.hadoop.mapreduce.Job] Job job_1715148647425_0024 completed successfully
+2024-05-08 02:26:10,221 INFO  [main][org.apache.hadoop.mapreduce.Job] Counters: 56
+	File System Counters
+		FILE: Number of bytes read=18
+		FILE: Number of bytes written=1449640
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+		HDFS: Number of bytes read=1614
+		HDFS: Number of bytes written=282
+		HDFS: Number of read operations=23
+		HDFS: Number of large read operations=0
+		HDFS: Number of write operations=6
+		HDFS: Number of bytes read erasure-coded=0
+	Job Counters 
+		Launched map tasks=2
+		Launched reduce tasks=3
+		Data-local map tasks=2
+		Total time spent by all maps in occupied slots (ms)=8640
+		Total time spent by all reduces in occupied slots (ms)=17589
+		Total time spent by all map tasks (ms)=4320
+		Total time spent by all reduce tasks (ms)=5863
+		Total vcore-milliseconds taken by all map tasks=4320
+		Total vcore-milliseconds taken by all reduce tasks=5863
+		Total megabyte-milliseconds taken by all map tasks=8847360
+		Total megabyte-milliseconds taken by all reduce tasks=18011136
+	Map-Reduce Framework
+		Map input records=4
+		Map output records=0
+		Map output bytes=0
+		Map output materialized bytes=36
+		Input split bytes=234
+		Combine input records=0
+		Combine output records=0
+		Reduce input groups=0
+		Reduce shuffle bytes=36
+		Reduce input records=0
+		Reduce output records=0
+		Spilled Records=0
+		Shuffled Maps =6
+		Failed Shuffles=0
+		Merged Map outputs=6
+		GC time elapsed (ms)=54
+		CPU time spent (ms)=6610
+		Physical memory (bytes) snapshot=1948123136
+		Virtual memory (bytes) snapshot=21728264192
+		Total committed heap usage (bytes)=8589934592
+		Peak Map Physical memory (bytes)=443703296
+		Peak Map Virtual memory (bytes)=3650064384
+		Peak Reduce Physical memory (bytes)=357429248
+		Peak Reduce Virtual memory (bytes)=4811964416
+	Shuffle Errors
+		BAD_ID=0
+		CONNECTION=0
+		IO_ERROR=0
+		WRONG_LENGTH=0
+		WRONG_MAP=0
+		WRONG_REDUCE=0
+	File Input Format Counters 
+		Bytes Read=1380
+	File Output Format Counters 
+		Bytes Written=282
+	rhipeInternal
+		partialFlush=2
+	rhipe_timing
+		overall_mapper_ms=580
+2024-05-08 02:26:10,296 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] fs.default.name is deprecated. Instead, use fs.defaultFS
+2024-05-08 02:26:10,433 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache file:/tmp/rhipe-temp-params-713e219bed29c7f8f9fba7b4c148f664#rhipe-temp-params-713e219bed29c7f8f9fba7b4c148f664
+2024-05-08 02:26:10,433 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache archive:/user/wwtung/bin/R.Pkg.tar.gz#R.Pkg
+2024-05-08 02:26:10,434 DEBUG [main][org.godhuli.rhipe.RHMR] /user/wwtung/Otime/m5
+2024-05-08 02:26:10,444 INFO  [main][org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider] Connecting to ResourceManager at a206/172.18.104.246:8032
+2024-05-08 02:26:10,447 INFO  [main][org.apache.hadoop.mapreduce.JobResourceUploader] Disabling Erasure Coding for path: /tmp/wwtung/hadoop/magpietest/16411833/hadoop/scratch/yarn/wwtung/.staging/job_1715148647425_0025
+2024-05-08 02:26:10,461 INFO  [main][org.apache.hadoop.mapreduce.lib.input.FileInputFormat] Total input files to process : 2
+2024-05-08 02:26:10,475 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] number of splits:2
+2024-05-08 02:26:10,486 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Submitting tokens for job: job_1715148647425_0025
+2024-05-08 02:26:10,486 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Executing with tokens: []
+2024-05-08 02:26:10,495 INFO  [main][org.apache.hadoop.yarn.client.api.impl.YarnClientImpl] Submitted application application_1715148647425_0025
+2024-05-08 02:26:10,497 INFO  [main][org.apache.hadoop.mapreduce.Job] The url to track the job: http://a206:8088/proxy/application_1715148647425_0025/
+2024-05-08 02:26:10,497 INFO  [main][org.godhuli.rhipe.RHMR] Tracking URL ----> http://a206:8088/proxy/application_1715148647425_0025/
+2024-05-08 02:26:10,497 INFO  [main][org.apache.hadoop.mapreduce.Job] Running job: job_1715148647425_0025
+2024-05-08 02:26:14,532 INFO  [main][org.apache.hadoop.mapreduce.Job] Job job_1715148647425_0025 running in uber mode : false
+2024-05-08 02:26:14,532 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 0% reduce 0%
+2024-05-08 02:26:19,552 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 100% reduce 0%
+2024-05-08 02:26:23,560 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 100% reduce 100%
+2024-05-08 02:26:23,568 INFO  [main][org.apache.hadoop.mapreduce.Job] Job job_1715148647425_0025 completed successfully
+2024-05-08 02:26:23,585 INFO  [main][org.apache.hadoop.mapreduce.Job] Counters: 56
+	File System Counters
+		FILE: Number of bytes read=18
+		FILE: Number of bytes written=1449640
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+		HDFS: Number of bytes read=1530
+		HDFS: Number of bytes written=282
+		HDFS: Number of read operations=23
+		HDFS: Number of large read operations=0
+		HDFS: Number of write operations=6
+		HDFS: Number of bytes read erasure-coded=0
+	Job Counters 
+		Launched map tasks=2
+		Launched reduce tasks=3
+		Data-local map tasks=2
+		Total time spent by all maps in occupied slots (ms)=8594
+		Total time spent by all reduces in occupied slots (ms)=17430
+		Total time spent by all map tasks (ms)=4297
+		Total time spent by all reduce tasks (ms)=5810
+		Total vcore-milliseconds taken by all map tasks=4297
+		Total vcore-milliseconds taken by all reduce tasks=5810
+		Total megabyte-milliseconds taken by all map tasks=8800256
+		Total megabyte-milliseconds taken by all reduce tasks=17848320
+	Map-Reduce Framework
+		Map input records=2
+		Map output records=0
+		Map output bytes=0
+		Map output materialized bytes=36
+		Input split bytes=234
+		Combine input records=0
+		Combine output records=0
+		Reduce input groups=0
+		Reduce shuffle bytes=36
+		Reduce input records=0
+		Reduce output records=0
+		Spilled Records=0
+		Shuffled Maps =6
+		Failed Shuffles=0
+		Merged Map outputs=6
+		GC time elapsed (ms)=66
+		CPU time spent (ms)=7200
+		Physical memory (bytes) snapshot=1946808320
+		Virtual memory (bytes) snapshot=21717618688
+		Total committed heap usage (bytes)=8589934592
+		Peak Map Physical memory (bytes)=440926208
+		Peak Map Virtual memory (bytes)=3653517312
+		Peak Reduce Physical memory (bytes)=358313984
+		Peak Reduce Virtual memory (bytes)=4808228864
+	Shuffle Errors
+		BAD_ID=0
+		CONNECTION=0
+		IO_ERROR=0
+		WRONG_LENGTH=0
+		WRONG_MAP=0
+		WRONG_REDUCE=0
+	File Input Format Counters 
+		Bytes Read=1296
+	File Output Format Counters 
+		Bytes Written=282
+	rhipeInternal
+		partialFlush=2
+	rhipe_timing
+		overall_mapper_ms=588
+2024-05-08 02:26:24,665 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] fs.default.name is deprecated. Instead, use fs.defaultFS
+2024-05-08 02:26:24,799 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache file:/tmp/rhipe-temp-params-493d08b93e89b6de332a4084510fb8c6#rhipe-temp-params-493d08b93e89b6de332a4084510fb8c6
+2024-05-08 02:26:24,799 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache archive:/user/wwtung/bin/R.Pkg.tar.gz#R.Pkg
+2024-05-08 02:26:24,799 DEBUG [main][org.godhuli.rhipe.RHMR] /user/wwtung/Otime/m4
+2024-05-08 02:26:24,809 INFO  [main][org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider] Connecting to ResourceManager at a206/172.18.104.246:8032
+2024-05-08 02:26:24,812 INFO  [main][org.apache.hadoop.mapreduce.JobResourceUploader] Disabling Erasure Coding for path: /tmp/wwtung/hadoop/magpietest/16411833/hadoop/scratch/yarn/wwtung/.staging/job_1715148647425_0026
+2024-05-08 02:26:24,826 INFO  [main][org.apache.hadoop.mapreduce.lib.input.FileInputFormat] Total input files to process : 2
+2024-05-08 02:26:24,839 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] number of splits:2
+2024-05-08 02:26:24,848 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Submitting tokens for job: job_1715148647425_0026
+2024-05-08 02:26:24,848 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Executing with tokens: []
+2024-05-08 02:26:24,857 INFO  [main][org.apache.hadoop.yarn.client.api.impl.YarnClientImpl] Submitted application application_1715148647425_0026
+2024-05-08 02:26:24,859 INFO  [main][org.apache.hadoop.mapreduce.Job] The url to track the job: http://a206:8088/proxy/application_1715148647425_0026/
+2024-05-08 02:26:24,859 INFO  [main][org.godhuli.rhipe.RHMR] Tracking URL ----> http://a206:8088/proxy/application_1715148647425_0026/
+2024-05-08 02:26:24,859 INFO  [main][org.apache.hadoop.mapreduce.Job] Running job: job_1715148647425_0026
+2024-05-08 02:26:29,911 INFO  [main][org.apache.hadoop.mapreduce.Job] Job job_1715148647425_0026 running in uber mode : false
+2024-05-08 02:26:29,911 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 0% reduce 0%
+2024-05-08 02:26:33,924 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 100% reduce 0%
+2024-05-08 02:26:38,936 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 100% reduce 100%
+2024-05-08 02:26:38,938 INFO  [main][org.apache.hadoop.mapreduce.Job] Job job_1715148647425_0026 completed successfully
+2024-05-08 02:26:38,957 INFO  [main][org.apache.hadoop.mapreduce.Job] Counters: 56
+	File System Counters
+		FILE: Number of bytes read=18
+		FILE: Number of bytes written=1449640
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+		HDFS: Number of bytes read=1614
+		HDFS: Number of bytes written=282
+		HDFS: Number of read operations=23
+		HDFS: Number of large read operations=0
+		HDFS: Number of write operations=6
+		HDFS: Number of bytes read erasure-coded=0
+	Job Counters 
+		Launched map tasks=2
+		Launched reduce tasks=3
+		Data-local map tasks=2
+		Total time spent by all maps in occupied slots (ms)=8538
+		Total time spent by all reduces in occupied slots (ms)=17793
+		Total time spent by all map tasks (ms)=4269
+		Total time spent by all reduce tasks (ms)=5931
+		Total vcore-milliseconds taken by all map tasks=4269
+		Total vcore-milliseconds taken by all reduce tasks=5931
+		Total megabyte-milliseconds taken by all map tasks=8742912
+		Total megabyte-milliseconds taken by all reduce tasks=18220032
+	Map-Reduce Framework
+		Map input records=4
+		Map output records=0
+		Map output bytes=0
+		Map output materialized bytes=36
+		Input split bytes=234
+		Combine input records=0
+		Combine output records=0
+		Reduce input groups=0
+		Reduce shuffle bytes=36
+		Reduce input records=0
+		Reduce output records=0
+		Spilled Records=0
+		Shuffled Maps =6
+		Failed Shuffles=0
+		Merged Map outputs=6
+		GC time elapsed (ms)=59
+		CPU time spent (ms)=6720
+		Physical memory (bytes) snapshot=1945063424
+		Virtual memory (bytes) snapshot=21740527616
+		Total committed heap usage (bytes)=8589934592
+		Peak Map Physical memory (bytes)=436772864
+		Peak Map Virtual memory (bytes)=3656507392
+		Peak Reduce Physical memory (bytes)=359628800
+		Peak Reduce Virtual memory (bytes)=4813266944
+	Shuffle Errors
+		BAD_ID=0
+		CONNECTION=0
+		IO_ERROR=0
+		WRONG_LENGTH=0
+		WRONG_MAP=0
+		WRONG_REDUCE=0
+	File Input Format Counters 
+		Bytes Read=1380
+	File Output Format Counters 
+		Bytes Written=282
+	rhipeInternal
+		partialFlush=2
+	rhipe_timing
+		overall_mapper_ms=604
+2024-05-08 02:26:40,037 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] fs.default.name is deprecated. Instead, use fs.defaultFS
+2024-05-08 02:26:40,170 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache file:/tmp/rhipe-temp-params-493d08b93e89b6de332a4084510fb8c6#rhipe-temp-params-493d08b93e89b6de332a4084510fb8c6
+2024-05-08 02:26:40,170 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache archive:/user/wwtung/bin/R.Pkg.tar.gz#R.Pkg
+2024-05-08 02:26:40,170 DEBUG [main][org.godhuli.rhipe.RHMR] /user/wwtung/Otime/m4
+2024-05-08 02:26:40,180 INFO  [main][org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider] Connecting to ResourceManager at a206/172.18.104.246:8032
+2024-05-08 02:26:40,184 INFO  [main][org.apache.hadoop.mapreduce.JobResourceUploader] Disabling Erasure Coding for path: /tmp/wwtung/hadoop/magpietest/16411833/hadoop/scratch/yarn/wwtung/.staging/job_1715148647425_0027
+2024-05-08 02:26:40,198 INFO  [main][org.apache.hadoop.mapreduce.lib.input.FileInputFormat] Total input files to process : 2
+2024-05-08 02:26:40,210 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] number of splits:2
+2024-05-08 02:26:40,218 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Submitting tokens for job: job_1715148647425_0027
+2024-05-08 02:26:40,218 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Executing with tokens: []
+2024-05-08 02:26:40,427 INFO  [main][org.apache.hadoop.yarn.client.api.impl.YarnClientImpl] Submitted application application_1715148647425_0027
+2024-05-08 02:26:40,428 INFO  [main][org.apache.hadoop.mapreduce.Job] The url to track the job: http://a206:8088/proxy/application_1715148647425_0027/
+2024-05-08 02:26:40,428 INFO  [main][org.godhuli.rhipe.RHMR] Tracking URL ----> http://a206:8088/proxy/application_1715148647425_0027/
+2024-05-08 02:26:40,428 INFO  [main][org.apache.hadoop.mapreduce.Job] Running job: job_1715148647425_0027
+2024-05-08 02:26:44,468 INFO  [main][org.apache.hadoop.mapreduce.Job] Job job_1715148647425_0027 running in uber mode : false
+2024-05-08 02:26:44,468 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 0% reduce 0%
+2024-05-08 02:26:49,501 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 100% reduce 0%
+2024-05-08 02:26:53,509 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 100% reduce 100%
+2024-05-08 02:26:54,514 INFO  [main][org.apache.hadoop.mapreduce.Job] Job job_1715148647425_0027 completed successfully
+2024-05-08 02:26:54,533 INFO  [main][org.apache.hadoop.mapreduce.Job] Counters: 56
+	File System Counters
+		FILE: Number of bytes read=18
+		FILE: Number of bytes written=1449640
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+		HDFS: Number of bytes read=1614
+		HDFS: Number of bytes written=282
+		HDFS: Number of read operations=23
+		HDFS: Number of large read operations=0
+		HDFS: Number of write operations=6
+		HDFS: Number of bytes read erasure-coded=0
+	Job Counters 
+		Launched map tasks=2
+		Launched reduce tasks=3
+		Data-local map tasks=2
+		Total time spent by all maps in occupied slots (ms)=8888
+		Total time spent by all reduces in occupied slots (ms)=17208
+		Total time spent by all map tasks (ms)=4444
+		Total time spent by all reduce tasks (ms)=5736
+		Total vcore-milliseconds taken by all map tasks=4444
+		Total vcore-milliseconds taken by all reduce tasks=5736
+		Total megabyte-milliseconds taken by all map tasks=9101312
+		Total megabyte-milliseconds taken by all reduce tasks=17620992
+	Map-Reduce Framework
+		Map input records=4
+		Map output records=0
+		Map output bytes=0
+		Map output materialized bytes=36
+		Input split bytes=234
+		Combine input records=0
+		Combine output records=0
+		Reduce input groups=0
+		Reduce shuffle bytes=36
+		Reduce input records=0
+		Reduce output records=0
+		Spilled Records=0
+		Shuffled Maps =6
+		Failed Shuffles=0
+		Merged Map outputs=6
+		GC time elapsed (ms)=58
+		CPU time spent (ms)=6800
+		Physical memory (bytes) snapshot=1939570688
+		Virtual memory (bytes) snapshot=21733109760
+		Total committed heap usage (bytes)=8589934592
+		Peak Map Physical memory (bytes)=438071296
+		Peak Map Virtual memory (bytes)=3657777152
+		Peak Reduce Physical memory (bytes)=357998592
+		Peak Reduce Virtual memory (bytes)=4812038144
+	Shuffle Errors
+		BAD_ID=0
+		CONNECTION=0
+		IO_ERROR=0
+		WRONG_LENGTH=0
+		WRONG_MAP=0
+		WRONG_REDUCE=0
+	File Input Format Counters 
+		Bytes Read=1380
+	File Output Format Counters 
+		Bytes Written=282
+	rhipeInternal
+		partialFlush=2
+	rhipe_timing
+		overall_mapper_ms=586
+2024-05-08 02:26:54,614 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] fs.default.name is deprecated. Instead, use fs.defaultFS
+2024-05-08 02:26:54,748 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache file:/tmp/rhipe-temp-params-493d08b93e89b6de332a4084510fb8c6#rhipe-temp-params-493d08b93e89b6de332a4084510fb8c6
+2024-05-08 02:26:54,749 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache archive:/user/wwtung/bin/R.Pkg.tar.gz#R.Pkg
+2024-05-08 02:26:54,749 DEBUG [main][org.godhuli.rhipe.RHMR] /user/wwtung/Otime/m4
+2024-05-08 02:26:54,759 INFO  [main][org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider] Connecting to ResourceManager at a206/172.18.104.246:8032
+2024-05-08 02:26:54,762 INFO  [main][org.apache.hadoop.mapreduce.JobResourceUploader] Disabling Erasure Coding for path: /tmp/wwtung/hadoop/magpietest/16411833/hadoop/scratch/yarn/wwtung/.staging/job_1715148647425_0028
+2024-05-08 02:26:54,776 INFO  [main][org.apache.hadoop.mapreduce.lib.input.FileInputFormat] Total input files to process : 2
+2024-05-08 02:26:54,788 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] number of splits:2
+2024-05-08 02:26:54,797 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Submitting tokens for job: job_1715148647425_0028
+2024-05-08 02:26:54,797 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Executing with tokens: []
+2024-05-08 02:26:55,005 INFO  [main][org.apache.hadoop.yarn.client.api.impl.YarnClientImpl] Submitted application application_1715148647425_0028
+2024-05-08 02:26:55,006 INFO  [main][org.apache.hadoop.mapreduce.Job] The url to track the job: http://a206:8088/proxy/application_1715148647425_0028/
+2024-05-08 02:26:55,006 INFO  [main][org.godhuli.rhipe.RHMR] Tracking URL ----> http://a206:8088/proxy/application_1715148647425_0028/
+2024-05-08 02:26:55,006 INFO  [main][org.apache.hadoop.mapreduce.Job] Running job: job_1715148647425_0028
+2024-05-08 02:27:00,043 INFO  [main][org.apache.hadoop.mapreduce.Job] Job job_1715148647425_0028 running in uber mode : false
+2024-05-08 02:27:00,043 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 0% reduce 0%
+2024-05-08 02:27:04,056 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 100% reduce 0%
+2024-05-08 02:27:09,067 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 100% reduce 100%
+2024-05-08 02:27:09,070 INFO  [main][org.apache.hadoop.mapreduce.Job] Job job_1715148647425_0028 completed successfully
+2024-05-08 02:27:09,089 INFO  [main][org.apache.hadoop.mapreduce.Job] Counters: 56
+	File System Counters
+		FILE: Number of bytes read=18
+		FILE: Number of bytes written=1449640
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+		HDFS: Number of bytes read=1614
+		HDFS: Number of bytes written=282
+		HDFS: Number of read operations=23
+		HDFS: Number of large read operations=0
+		HDFS: Number of write operations=6
+		HDFS: Number of bytes read erasure-coded=0
+	Job Counters 
+		Launched map tasks=2
+		Launched reduce tasks=3
+		Data-local map tasks=2
+		Total time spent by all maps in occupied slots (ms)=8582
+		Total time spent by all reduces in occupied slots (ms)=17454
+		Total time spent by all map tasks (ms)=4291
+		Total time spent by all reduce tasks (ms)=5818
+		Total vcore-milliseconds taken by all map tasks=4291
+		Total vcore-milliseconds taken by all reduce tasks=5818
+		Total megabyte-milliseconds taken by all map tasks=8787968
+		Total megabyte-milliseconds taken by all reduce tasks=17872896
+	Map-Reduce Framework
+		Map input records=4
+		Map output records=0
+		Map output bytes=0
+		Map output materialized bytes=36
+		Input split bytes=234
+		Combine input records=0
+		Combine output records=0
+		Reduce input groups=0
+		Reduce shuffle bytes=36
+		Reduce input records=0
+		Reduce output records=0
+		Spilled Records=0
+		Shuffled Maps =6
+		Failed Shuffles=0
+		Merged Map outputs=6
+		GC time elapsed (ms)=58
+		CPU time spent (ms)=6940
+		Physical memory (bytes) snapshot=1954611200
+		Virtual memory (bytes) snapshot=21724307456
+		Total committed heap usage (bytes)=8589934592
+		Peak Map Physical memory (bytes)=438972416
+		Peak Map Virtual memory (bytes)=3650912256
+		Peak Reduce Physical memory (bytes)=367079424
+		Peak Reduce Virtual memory (bytes)=4813312000
+	Shuffle Errors
+		BAD_ID=0
+		CONNECTION=0
+		IO_ERROR=0
+		WRONG_LENGTH=0
+		WRONG_MAP=0
+		WRONG_REDUCE=0
+	File Input Format Counters 
+		Bytes Read=1380
+	File Output Format Counters 
+		Bytes Written=282
+	rhipeInternal
+		partialFlush=2
+	rhipe_timing
+		overall_mapper_ms=629
+2024-05-08 02:27:09,164 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] fs.default.name is deprecated. Instead, use fs.defaultFS
+2024-05-08 02:27:09,272 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache file:/tmp/rhipe-temp-params-b206071042b2b5f30ba95cdc7f83b4cb#rhipe-temp-params-b206071042b2b5f30ba95cdc7f83b4cb
+2024-05-08 02:27:09,272 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache archive:/user/wwtung/bin/R.Pkg.tar.gz#R.Pkg
+2024-05-08 02:27:09,272 DEBUG [main][org.godhuli.rhipe.RHMR] /user/wwtung/results/m5
+2024-05-08 02:27:09,281 INFO  [main][org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider] Connecting to ResourceManager at a206/172.18.104.246:8032
+2024-05-08 02:27:09,284 INFO  [main][org.apache.hadoop.mapreduce.JobResourceUploader] Disabling Erasure Coding for path: /tmp/wwtung/hadoop/magpietest/16411833/hadoop/scratch/yarn/wwtung/.staging/job_1715148647425_0029
+2024-05-08 02:27:09,307 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] number of splits:2
+2024-05-08 02:27:09,316 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Submitting tokens for job: job_1715148647425_0029
+2024-05-08 02:27:09,316 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Executing with tokens: []
+2024-05-08 02:27:09,527 INFO  [main][org.apache.hadoop.yarn.client.api.impl.YarnClientImpl] Submitted application application_1715148647425_0029
+2024-05-08 02:27:09,528 INFO  [main][org.apache.hadoop.mapreduce.Job] The url to track the job: http://a206:8088/proxy/application_1715148647425_0029/
+2024-05-08 02:27:19,797 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] fs.default.name is deprecated. Instead, use fs.defaultFS
+2024-05-08 02:27:19,900 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache file:/tmp/rhipe-temp-params-4598f8c02223c110143afd92ab08fb45#rhipe-temp-params-4598f8c02223c110143afd92ab08fb45
+2024-05-08 02:27:19,900 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache archive:/user/wwtung/bin/R.Pkg.tar.gz#R.Pkg
+2024-05-08 02:27:19,900 DEBUG [main][org.godhuli.rhipe.RHMR] /user/wwtung/results/m4
+2024-05-08 02:27:19,909 INFO  [main][org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider] Connecting to ResourceManager at a206/172.18.104.246:8032
+2024-05-08 02:27:19,912 INFO  [main][org.apache.hadoop.mapreduce.JobResourceUploader] Disabling Erasure Coding for path: /tmp/wwtung/hadoop/magpietest/16411833/hadoop/scratch/yarn/wwtung/.staging/job_1715148647425_0030
+2024-05-08 02:27:19,931 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] number of splits:2
+2024-05-08 02:27:19,940 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Submitting tokens for job: job_1715148647425_0030
+2024-05-08 02:27:19,940 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Executing with tokens: []
+2024-05-08 02:27:20,147 INFO  [main][org.apache.hadoop.yarn.client.api.impl.YarnClientImpl] Submitted application application_1715148647425_0030
+2024-05-08 02:27:20,149 INFO  [main][org.apache.hadoop.mapreduce.Job] The url to track the job: http://a206:8088/proxy/application_1715148647425_0030/
+2024-05-08 02:27:30,403 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] fs.default.name is deprecated. Instead, use fs.defaultFS
+2024-05-08 02:27:30,534 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache file:/tmp/rhipe-temp-params-65361153017e34ffec250cc087bbbc3f#rhipe-temp-params-65361153017e34ffec250cc087bbbc3f
+2024-05-08 02:27:30,534 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache archive:/user/wwtung/bin/R.Pkg.tar.gz#R.Pkg
+2024-05-08 02:27:30,534 DEBUG [main][org.godhuli.rhipe.RHMR] /user/wwtung/Otime/m5
+2024-05-08 02:27:30,544 INFO  [main][org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider] Connecting to ResourceManager at a206/172.18.104.246:8032
+2024-05-08 02:27:30,546 INFO  [main][org.apache.hadoop.mapreduce.JobResourceUploader] Disabling Erasure Coding for path: /tmp/wwtung/hadoop/magpietest/16411833/hadoop/scratch/yarn/wwtung/.staging/job_1715148647425_0031
+2024-05-08 02:27:30,558 INFO  [main][org.apache.hadoop.mapreduce.lib.input.FileInputFormat] Total input files to process : 2
+2024-05-08 02:27:30,567 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] number of splits:2
+2024-05-08 02:27:30,575 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Submitting tokens for job: job_1715148647425_0031
+2024-05-08 02:27:30,575 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Executing with tokens: []
+2024-05-08 02:27:30,783 INFO  [main][org.apache.hadoop.yarn.client.api.impl.YarnClientImpl] Submitted application application_1715148647425_0031
+2024-05-08 02:27:30,784 INFO  [main][org.apache.hadoop.mapreduce.Job] The url to track the job: http://a206:8088/proxy/application_1715148647425_0031/
+2024-05-08 02:27:30,784 INFO  [main][org.godhuli.rhipe.RHMR] Tracking URL ----> http://a206:8088/proxy/application_1715148647425_0031/
+2024-05-08 02:27:30,784 INFO  [main][org.apache.hadoop.mapreduce.Job] Running job: job_1715148647425_0031
+2024-05-08 02:27:34,828 INFO  [main][org.apache.hadoop.mapreduce.Job] Job job_1715148647425_0031 running in uber mode : false
+2024-05-08 02:27:34,828 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 0% reduce 0%
+2024-05-08 02:27:38,841 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 100% reduce 0%
+2024-05-08 02:27:43,851 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 100% reduce 100%
+2024-05-08 02:27:43,854 INFO  [main][org.apache.hadoop.mapreduce.Job] Job job_1715148647425_0031 completed successfully
+2024-05-08 02:27:43,873 INFO  [main][org.apache.hadoop.mapreduce.Job] Counters: 56
+	File System Counters
+		FILE: Number of bytes read=18
+		FILE: Number of bytes written=1449640
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+		HDFS: Number of bytes read=1530
+		HDFS: Number of bytes written=282
+		HDFS: Number of read operations=23
+		HDFS: Number of large read operations=0
+		HDFS: Number of write operations=6
+		HDFS: Number of bytes read erasure-coded=0
+	Job Counters 
+		Launched map tasks=2
+		Launched reduce tasks=3
+		Data-local map tasks=2
+		Total time spent by all maps in occupied slots (ms)=8780
+		Total time spent by all reduces in occupied slots (ms)=17670
+		Total time spent by all map tasks (ms)=4390
+		Total time spent by all reduce tasks (ms)=5890
+		Total vcore-milliseconds taken by all map tasks=4390
+		Total vcore-milliseconds taken by all reduce tasks=5890
+		Total megabyte-milliseconds taken by all map tasks=8990720
+		Total megabyte-milliseconds taken by all reduce tasks=18094080
+	Map-Reduce Framework
+		Map input records=2
+		Map output records=0
+		Map output bytes=0
+		Map output materialized bytes=36
+		Input split bytes=234
+		Combine input records=0
+		Combine output records=0
+		Reduce input groups=0
+		Reduce shuffle bytes=36
+		Reduce input records=0
+		Reduce output records=0
+		Spilled Records=0
+		Shuffled Maps =6
+		Failed Shuffles=0
+		Merged Map outputs=6
+		GC time elapsed (ms)=73
+		CPU time spent (ms)=6520
+		Physical memory (bytes) snapshot=1950674944
+		Virtual memory (bytes) snapshot=21723684864
+		Total committed heap usage (bytes)=8589934592
+		Peak Map Physical memory (bytes)=439869440
+		Peak Map Virtual memory (bytes)=3651219456
+		Peak Reduce Physical memory (bytes)=360243200
+		Peak Reduce Virtual memory (bytes)=4811382784
+	Shuffle Errors
+		BAD_ID=0
+		CONNECTION=0
+		IO_ERROR=0
+		WRONG_LENGTH=0
+		WRONG_MAP=0
+		WRONG_REDUCE=0
+	File Input Format Counters 
+		Bytes Read=1296
+	File Output Format Counters 
+		Bytes Written=282
+	rhipeInternal
+		partialFlush=2
+	rhipe_timing
+		overall_mapper_ms=716
+2024-05-08 02:27:44,949 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] fs.default.name is deprecated. Instead, use fs.defaultFS
+2024-05-08 02:27:45,087 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache file:/tmp/rhipe-temp-params-682fbe178bc7fc819b330fac1c91653a#rhipe-temp-params-682fbe178bc7fc819b330fac1c91653a
+2024-05-08 02:27:45,087 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache archive:/user/wwtung/bin/R.Pkg.tar.gz#R.Pkg
+2024-05-08 02:27:45,088 DEBUG [main][org.godhuli.rhipe.RHMR] /user/wwtung/Otime/m4
+2024-05-08 02:27:45,098 INFO  [main][org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider] Connecting to ResourceManager at a206/172.18.104.246:8032
+2024-05-08 02:27:45,102 INFO  [main][org.apache.hadoop.mapreduce.JobResourceUploader] Disabling Erasure Coding for path: /tmp/wwtung/hadoop/magpietest/16411833/hadoop/scratch/yarn/wwtung/.staging/job_1715148647425_0032
+2024-05-08 02:27:45,117 INFO  [main][org.apache.hadoop.mapreduce.lib.input.FileInputFormat] Total input files to process : 2
+2024-05-08 02:27:45,129 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] number of splits:2
+2024-05-08 02:27:45,138 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Submitting tokens for job: job_1715148647425_0032
+2024-05-08 02:27:45,138 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Executing with tokens: []
+2024-05-08 02:27:45,147 INFO  [main][org.apache.hadoop.yarn.client.api.impl.YarnClientImpl] Submitted application application_1715148647425_0032
+2024-05-08 02:27:45,148 INFO  [main][org.apache.hadoop.mapreduce.Job] The url to track the job: http://a206:8088/proxy/application_1715148647425_0032/
+2024-05-08 02:27:45,148 INFO  [main][org.godhuli.rhipe.RHMR] Tracking URL ----> http://a206:8088/proxy/application_1715148647425_0032/
+2024-05-08 02:27:45,148 INFO  [main][org.apache.hadoop.mapreduce.Job] Running job: job_1715148647425_0032
+2024-05-08 02:27:50,183 INFO  [main][org.apache.hadoop.mapreduce.Job] Job job_1715148647425_0032 running in uber mode : false
+2024-05-08 02:27:50,183 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 0% reduce 0%
+2024-05-08 02:27:54,196 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 100% reduce 0%
+2024-05-08 02:27:59,207 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 100% reduce 100%
+2024-05-08 02:27:59,209 INFO  [main][org.apache.hadoop.mapreduce.Job] Job job_1715148647425_0032 completed successfully
+2024-05-08 02:27:59,228 INFO  [main][org.apache.hadoop.mapreduce.Job] Counters: 56
+	File System Counters
+		FILE: Number of bytes read=18
+		FILE: Number of bytes written=1449640
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+		HDFS: Number of bytes read=1614
+		HDFS: Number of bytes written=282
+		HDFS: Number of read operations=23
+		HDFS: Number of large read operations=0
+		HDFS: Number of write operations=6
+		HDFS: Number of bytes read erasure-coded=0
+	Job Counters 
+		Launched map tasks=2
+		Launched reduce tasks=3
+		Data-local map tasks=2
+		Total time spent by all maps in occupied slots (ms)=8584
+		Total time spent by all reduces in occupied slots (ms)=17493
+		Total time spent by all map tasks (ms)=4292
+		Total time spent by all reduce tasks (ms)=5831
+		Total vcore-milliseconds taken by all map tasks=4292
+		Total vcore-milliseconds taken by all reduce tasks=5831
+		Total megabyte-milliseconds taken by all map tasks=8790016
+		Total megabyte-milliseconds taken by all reduce tasks=17912832
+	Map-Reduce Framework
+		Map input records=4
+		Map output records=0
+		Map output bytes=0
+		Map output materialized bytes=36
+		Input split bytes=234
+		Combine input records=0
+		Combine output records=0
+		Reduce input groups=0
+		Reduce shuffle bytes=36
+		Reduce input records=0
+		Reduce output records=0
+		Spilled Records=0
+		Shuffled Maps =6
+		Failed Shuffles=0
+		Merged Map outputs=6
+		GC time elapsed (ms)=58
+		CPU time spent (ms)=6670
+		Physical memory (bytes) snapshot=1959288832
+		Virtual memory (bytes) snapshot=21724676096
+		Total committed heap usage (bytes)=8589934592
+		Peak Map Physical memory (bytes)=441942016
+		Peak Map Virtual memory (bytes)=3652317184
+		Peak Reduce Physical memory (bytes)=361431040
+		Peak Reduce Virtual memory (bytes)=4812238848
+	Shuffle Errors
+		BAD_ID=0
+		CONNECTION=0
+		IO_ERROR=0
+		WRONG_LENGTH=0
+		WRONG_MAP=0
+		WRONG_REDUCE=0
+	File Input Format Counters 
+		Bytes Read=1380
+	File Output Format Counters 
+		Bytes Written=282
+	rhipeInternal
+		partialFlush=2
+	rhipe_timing
+		overall_mapper_ms=617
+2024-05-08 02:28:00,307 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] fs.default.name is deprecated. Instead, use fs.defaultFS
+2024-05-08 02:28:00,437 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache file:/tmp/rhipe-temp-params-682fbe178bc7fc819b330fac1c91653a#rhipe-temp-params-682fbe178bc7fc819b330fac1c91653a
+2024-05-08 02:28:00,437 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache archive:/user/wwtung/bin/R.Pkg.tar.gz#R.Pkg
+2024-05-08 02:28:00,437 DEBUG [main][org.godhuli.rhipe.RHMR] /user/wwtung/Otime/m4
+2024-05-08 02:28:00,446 INFO  [main][org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider] Connecting to ResourceManager at a206/172.18.104.246:8032
+2024-05-08 02:28:00,450 INFO  [main][org.apache.hadoop.mapreduce.JobResourceUploader] Disabling Erasure Coding for path: /tmp/wwtung/hadoop/magpietest/16411833/hadoop/scratch/yarn/wwtung/.staging/job_1715148647425_0033
+2024-05-08 02:28:00,463 INFO  [main][org.apache.hadoop.mapreduce.lib.input.FileInputFormat] Total input files to process : 2
+2024-05-08 02:28:00,475 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] number of splits:2
+2024-05-08 02:28:00,484 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Submitting tokens for job: job_1715148647425_0033
+2024-05-08 02:28:00,484 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Executing with tokens: []
+2024-05-08 02:28:00,494 INFO  [main][org.apache.hadoop.yarn.client.api.impl.YarnClientImpl] Submitted application application_1715148647425_0033
+2024-05-08 02:28:00,495 INFO  [main][org.apache.hadoop.mapreduce.Job] The url to track the job: http://a206:8088/proxy/application_1715148647425_0033/
+2024-05-08 02:28:00,495 INFO  [main][org.godhuli.rhipe.RHMR] Tracking URL ----> http://a206:8088/proxy/application_1715148647425_0033/
+2024-05-08 02:28:00,495 INFO  [main][org.apache.hadoop.mapreduce.Job] Running job: job_1715148647425_0033
+2024-05-08 02:28:04,535 INFO  [main][org.apache.hadoop.mapreduce.Job] Job job_1715148647425_0033 running in uber mode : false
+2024-05-08 02:28:04,535 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 0% reduce 0%
+2024-05-08 02:28:09,555 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 100% reduce 0%
+2024-05-08 02:28:13,563 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 100% reduce 100%
+2024-05-08 02:28:14,568 INFO  [main][org.apache.hadoop.mapreduce.Job] Job job_1715148647425_0033 completed successfully
+2024-05-08 02:28:14,588 INFO  [main][org.apache.hadoop.mapreduce.Job] Counters: 56
+	File System Counters
+		FILE: Number of bytes read=18
+		FILE: Number of bytes written=1449640
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+		HDFS: Number of bytes read=1614
+		HDFS: Number of bytes written=282
+		HDFS: Number of read operations=23
+		HDFS: Number of large read operations=0
+		HDFS: Number of write operations=6
+		HDFS: Number of bytes read erasure-coded=0
+	Job Counters 
+		Launched map tasks=2
+		Launched reduce tasks=3
+		Data-local map tasks=2
+		Total time spent by all maps in occupied slots (ms)=8732
+		Total time spent by all reduces in occupied slots (ms)=17559
+		Total time spent by all map tasks (ms)=4366
+		Total time spent by all reduce tasks (ms)=5853
+		Total vcore-milliseconds taken by all map tasks=4366
+		Total vcore-milliseconds taken by all reduce tasks=5853
+		Total megabyte-milliseconds taken by all map tasks=8941568
+		Total megabyte-milliseconds taken by all reduce tasks=17980416
+	Map-Reduce Framework
+		Map input records=4
+		Map output records=0
+		Map output bytes=0
+		Map output materialized bytes=36
+		Input split bytes=234
+		Combine input records=0
+		Combine output records=0
+		Reduce input groups=0
+		Reduce shuffle bytes=36
+		Reduce input records=0
+		Reduce output records=0
+		Spilled Records=0
+		Shuffled Maps =6
+		Failed Shuffles=0
+		Merged Map outputs=6
+		GC time elapsed (ms)=55
+		CPU time spent (ms)=7120
+		Physical memory (bytes) snapshot=1938313216
+		Virtual memory (bytes) snapshot=21723037696
+		Total committed heap usage (bytes)=8589934592
+		Peak Map Physical memory (bytes)=437755904
+		Peak Map Virtual memory (bytes)=3652603904
+		Peak Reduce Physical memory (bytes)=358682624
+		Peak Reduce Virtual memory (bytes)=4811022336
+	Shuffle Errors
+		BAD_ID=0
+		CONNECTION=0
+		IO_ERROR=0
+		WRONG_LENGTH=0
+		WRONG_MAP=0
+		WRONG_REDUCE=0
+	File Input Format Counters 
+		Bytes Read=1380
+	File Output Format Counters 
+		Bytes Written=282
+	rhipeInternal
+		partialFlush=2
+	rhipe_timing
+		overall_mapper_ms=594
+2024-05-08 02:28:14,667 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] fs.default.name is deprecated. Instead, use fs.defaultFS
+2024-05-08 02:28:14,795 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache file:/tmp/rhipe-temp-params-682fbe178bc7fc819b330fac1c91653a#rhipe-temp-params-682fbe178bc7fc819b330fac1c91653a
+2024-05-08 02:28:14,795 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache archive:/user/wwtung/bin/R.Pkg.tar.gz#R.Pkg
+2024-05-08 02:28:14,796 DEBUG [main][org.godhuli.rhipe.RHMR] /user/wwtung/Otime/m4
+2024-05-08 02:28:14,805 INFO  [main][org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider] Connecting to ResourceManager at a206/172.18.104.246:8032
+2024-05-08 02:28:14,808 INFO  [main][org.apache.hadoop.mapreduce.JobResourceUploader] Disabling Erasure Coding for path: /tmp/wwtung/hadoop/magpietest/16411833/hadoop/scratch/yarn/wwtung/.staging/job_1715148647425_0034
+2024-05-08 02:28:14,821 INFO  [main][org.apache.hadoop.mapreduce.lib.input.FileInputFormat] Total input files to process : 2
+2024-05-08 02:28:14,832 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] number of splits:2
+2024-05-08 02:28:14,841 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Submitting tokens for job: job_1715148647425_0034
+2024-05-08 02:28:14,841 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Executing with tokens: []
+2024-05-08 02:28:14,848 INFO  [main][org.apache.hadoop.yarn.client.api.impl.YarnClientImpl] Submitted application application_1715148647425_0034
+2024-05-08 02:28:14,851 INFO  [main][org.apache.hadoop.mapreduce.Job] The url to track the job: http://a206:8088/proxy/application_1715148647425_0034/
+2024-05-08 02:28:14,851 INFO  [main][org.godhuli.rhipe.RHMR] Tracking URL ----> http://a206:8088/proxy/application_1715148647425_0034/
+2024-05-08 02:28:14,851 INFO  [main][org.apache.hadoop.mapreduce.Job] Running job: job_1715148647425_0034
+2024-05-08 02:28:19,902 INFO  [main][org.apache.hadoop.mapreduce.Job] Job job_1715148647425_0034 running in uber mode : false
+2024-05-08 02:28:19,902 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 0% reduce 0%
+2024-05-08 02:28:23,914 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 100% reduce 0%
+2024-05-08 02:28:28,924 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 100% reduce 100%
+2024-05-08 02:28:28,926 INFO  [main][org.apache.hadoop.mapreduce.Job] Job job_1715148647425_0034 completed successfully
+2024-05-08 02:28:28,945 INFO  [main][org.apache.hadoop.mapreduce.Job] Counters: 56
+	File System Counters
+		FILE: Number of bytes read=18
+		FILE: Number of bytes written=1449640
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+		HDFS: Number of bytes read=1614
+		HDFS: Number of bytes written=282
+		HDFS: Number of read operations=23
+		HDFS: Number of large read operations=0
+		HDFS: Number of write operations=6
+		HDFS: Number of bytes read erasure-coded=0
+	Job Counters 
+		Launched map tasks=2
+		Launched reduce tasks=3
+		Data-local map tasks=2
+		Total time spent by all maps in occupied slots (ms)=8732
+		Total time spent by all reduces in occupied slots (ms)=17505
+		Total time spent by all map tasks (ms)=4366
+		Total time spent by all reduce tasks (ms)=5835
+		Total vcore-milliseconds taken by all map tasks=4366
+		Total vcore-milliseconds taken by all reduce tasks=5835
+		Total megabyte-milliseconds taken by all map tasks=8941568
+		Total megabyte-milliseconds taken by all reduce tasks=17925120
+	Map-Reduce Framework
+		Map input records=4
+		Map output records=0
+		Map output bytes=0
+		Map output materialized bytes=36
+		Input split bytes=234
+		Combine input records=0
+		Combine output records=0
+		Reduce input groups=0
+		Reduce shuffle bytes=36
+		Reduce input records=0
+		Reduce output records=0
+		Spilled Records=0
+		Shuffled Maps =6
+		Failed Shuffles=0
+		Merged Map outputs=6
+		GC time elapsed (ms)=54
+		CPU time spent (ms)=6750
+		Physical memory (bytes) snapshot=1953845248
+		Virtual memory (bytes) snapshot=21732347904
+		Total committed heap usage (bytes)=8589934592
+		Peak Map Physical memory (bytes)=443265024
+		Peak Map Virtual memory (bytes)=3652116480
+		Peak Reduce Physical memory (bytes)=357650432
+		Peak Reduce Virtual memory (bytes)=4815450112
+	Shuffle Errors
+		BAD_ID=0
+		CONNECTION=0
+		IO_ERROR=0
+		WRONG_LENGTH=0
+		WRONG_MAP=0
+		WRONG_REDUCE=0
+	File Input Format Counters 
+		Bytes Read=1380
+	File Output Format Counters 
+		Bytes Written=282
+	rhipeInternal
+		partialFlush=2
+	rhipe_timing
+		overall_mapper_ms=625
+2024-05-08 02:28:29,020 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] fs.default.name is deprecated. Instead, use fs.defaultFS
+2024-05-08 02:28:29,162 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache file:/tmp/rhipe-temp-params-2deeb39aeb0c8168e81609433c6dcdf7#rhipe-temp-params-2deeb39aeb0c8168e81609433c6dcdf7
+2024-05-08 02:28:29,162 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache archive:/user/wwtung/bin/R.Pkg.tar.gz#R.Pkg
+2024-05-08 02:28:29,162 DEBUG [main][org.godhuli.rhipe.RHMR] /user/wwtung/Otime/m5
+2024-05-08 02:28:29,171 INFO  [main][org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider] Connecting to ResourceManager at a206/172.18.104.246:8032
+2024-05-08 02:28:29,174 INFO  [main][org.apache.hadoop.mapreduce.JobResourceUploader] Disabling Erasure Coding for path: /tmp/wwtung/hadoop/magpietest/16411833/hadoop/scratch/yarn/wwtung/.staging/job_1715148647425_0035
+2024-05-08 02:28:29,187 INFO  [main][org.apache.hadoop.mapreduce.lib.input.FileInputFormat] Total input files to process : 2
+2024-05-08 02:28:29,198 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] number of splits:2
+2024-05-08 02:28:29,206 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Submitting tokens for job: job_1715148647425_0035
+2024-05-08 02:28:29,206 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Executing with tokens: []
+2024-05-08 02:28:29,216 INFO  [main][org.apache.hadoop.yarn.client.api.impl.YarnClientImpl] Submitted application application_1715148647425_0035
+2024-05-08 02:28:29,217 INFO  [main][org.apache.hadoop.mapreduce.Job] The url to track the job: http://a206:8088/proxy/application_1715148647425_0035/
+2024-05-08 02:28:29,217 INFO  [main][org.godhuli.rhipe.RHMR] Tracking URL ----> http://a206:8088/proxy/application_1715148647425_0035/
+2024-05-08 02:28:29,217 INFO  [main][org.apache.hadoop.mapreduce.Job] Running job: job_1715148647425_0035
+2024-05-08 02:28:34,267 INFO  [main][org.apache.hadoop.mapreduce.Job] Job job_1715148647425_0035 running in uber mode : false
+2024-05-08 02:28:34,267 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 0% reduce 0%
+2024-05-08 02:28:38,279 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 100% reduce 0%
+2024-05-08 02:28:43,288 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 100% reduce 100%
+2024-05-08 02:28:43,291 INFO  [main][org.apache.hadoop.mapreduce.Job] Job job_1715148647425_0035 completed successfully
+2024-05-08 02:28:43,308 INFO  [main][org.apache.hadoop.mapreduce.Job] Counters: 56
+	File System Counters
+		FILE: Number of bytes read=18
+		FILE: Number of bytes written=1449640
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+		HDFS: Number of bytes read=1530
+		HDFS: Number of bytes written=282
+		HDFS: Number of read operations=23
+		HDFS: Number of large read operations=0
+		HDFS: Number of write operations=6
+		HDFS: Number of bytes read erasure-coded=0
+	Job Counters 
+		Launched map tasks=2
+		Launched reduce tasks=3
+		Data-local map tasks=2
+		Total time spent by all maps in occupied slots (ms)=8420
+		Total time spent by all reduces in occupied slots (ms)=17376
+		Total time spent by all map tasks (ms)=4210
+		Total time spent by all reduce tasks (ms)=5792
+		Total vcore-milliseconds taken by all map tasks=4210
+		Total vcore-milliseconds taken by all reduce tasks=5792
+		Total megabyte-milliseconds taken by all map tasks=8622080
+		Total megabyte-milliseconds taken by all reduce tasks=17793024
+	Map-Reduce Framework
+		Map input records=2
+		Map output records=0
+		Map output bytes=0
+		Map output materialized bytes=36
+		Input split bytes=234
+		Combine input records=0
+		Combine output records=0
+		Reduce input groups=0
+		Reduce shuffle bytes=36
+		Reduce input records=0
+		Reduce output records=0
+		Spilled Records=0
+		Shuffled Maps =6
+		Failed Shuffles=0
+		Merged Map outputs=6
+		GC time elapsed (ms)=55
+		CPU time spent (ms)=6770
+		Physical memory (bytes) snapshot=1955344384
+		Virtual memory (bytes) snapshot=21737922560
+		Total committed heap usage (bytes)=8589934592
+		Peak Map Physical memory (bytes)=445849600
+		Peak Map Virtual memory (bytes)=3654549504
+		Peak Reduce Physical memory (bytes)=358957056
+		Peak Reduce Virtual memory (bytes)=4813946880
+	Shuffle Errors
+		BAD_ID=0
+		CONNECTION=0
+		IO_ERROR=0
+		WRONG_LENGTH=0
+		WRONG_MAP=0
+		WRONG_REDUCE=0
+	File Input Format Counters 
+		Bytes Read=1296
+	File Output Format Counters 
+		Bytes Written=282
+	rhipeInternal
+		partialFlush=2
+	rhipe_timing
+		overall_mapper_ms=577
+2024-05-08 02:28:44,384 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] fs.default.name is deprecated. Instead, use fs.defaultFS
+2024-05-08 02:28:44,514 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache file:/tmp/rhipe-temp-params-cb4f52c48882d93175844f6c352f6036#rhipe-temp-params-cb4f52c48882d93175844f6c352f6036
+2024-05-08 02:28:44,514 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache archive:/user/wwtung/bin/R.Pkg.tar.gz#R.Pkg
+2024-05-08 02:28:44,514 DEBUG [main][org.godhuli.rhipe.RHMR] /user/wwtung/Otime/m4
+2024-05-08 02:28:44,523 INFO  [main][org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider] Connecting to ResourceManager at a206/172.18.104.246:8032
+2024-05-08 02:28:44,526 INFO  [main][org.apache.hadoop.mapreduce.JobResourceUploader] Disabling Erasure Coding for path: /tmp/wwtung/hadoop/magpietest/16411833/hadoop/scratch/yarn/wwtung/.staging/job_1715148647425_0036
+2024-05-08 02:28:44,539 INFO  [main][org.apache.hadoop.mapreduce.lib.input.FileInputFormat] Total input files to process : 2
+2024-05-08 02:28:44,550 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] number of splits:2
+2024-05-08 02:28:44,559 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Submitting tokens for job: job_1715148647425_0036
+2024-05-08 02:28:44,559 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Executing with tokens: []
+2024-05-08 02:28:44,768 INFO  [main][org.apache.hadoop.yarn.client.api.impl.YarnClientImpl] Submitted application application_1715148647425_0036
+2024-05-08 02:28:44,769 INFO  [main][org.apache.hadoop.mapreduce.Job] The url to track the job: http://a206:8088/proxy/application_1715148647425_0036/
+2024-05-08 02:28:44,769 INFO  [main][org.godhuli.rhipe.RHMR] Tracking URL ----> http://a206:8088/proxy/application_1715148647425_0036/
+2024-05-08 02:28:44,769 INFO  [main][org.apache.hadoop.mapreduce.Job] Running job: job_1715148647425_0036
+2024-05-08 02:28:48,801 INFO  [main][org.apache.hadoop.mapreduce.Job] Job job_1715148647425_0036 running in uber mode : false
+2024-05-08 02:28:48,801 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 0% reduce 0%
+2024-05-08 02:28:52,814 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 100% reduce 0%
+2024-05-08 02:28:57,824 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 100% reduce 100%
+2024-05-08 02:28:57,826 INFO  [main][org.apache.hadoop.mapreduce.Job] Job job_1715148647425_0036 completed successfully
+2024-05-08 02:28:57,844 INFO  [main][org.apache.hadoop.mapreduce.Job] Counters: 56
+	File System Counters
+		FILE: Number of bytes read=18
+		FILE: Number of bytes written=1449640
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+		HDFS: Number of bytes read=1614
+		HDFS: Number of bytes written=282
+		HDFS: Number of read operations=23
+		HDFS: Number of large read operations=0
+		HDFS: Number of write operations=6
+		HDFS: Number of bytes read erasure-coded=0
+	Job Counters 
+		Launched map tasks=2
+		Launched reduce tasks=3
+		Data-local map tasks=2
+		Total time spent by all maps in occupied slots (ms)=8842
+		Total time spent by all reduces in occupied slots (ms)=17277
+		Total time spent by all map tasks (ms)=4421
+		Total time spent by all reduce tasks (ms)=5759
+		Total vcore-milliseconds taken by all map tasks=4421
+		Total vcore-milliseconds taken by all reduce tasks=5759
+		Total megabyte-milliseconds taken by all map tasks=9054208
+		Total megabyte-milliseconds taken by all reduce tasks=17691648
+	Map-Reduce Framework
+		Map input records=4
+		Map output records=0
+		Map output bytes=0
+		Map output materialized bytes=36
+		Input split bytes=234
+		Combine input records=0
+		Combine output records=0
+		Reduce input groups=0
+		Reduce shuffle bytes=36
+		Reduce input records=0
+		Reduce output records=0
+		Spilled Records=0
+		Shuffled Maps =6
+		Failed Shuffles=0
+		Merged Map outputs=6
+		GC time elapsed (ms)=62
+		CPU time spent (ms)=6650
+		Physical memory (bytes) snapshot=1936814080
+		Virtual memory (bytes) snapshot=21719347200
+		Total committed heap usage (bytes)=8589934592
+		Peak Map Physical memory (bytes)=438149120
+		Peak Map Virtual memory (bytes)=3652354048
+		Peak Reduce Physical memory (bytes)=358686720
+		Peak Reduce Virtual memory (bytes)=4808581120
+	Shuffle Errors
+		BAD_ID=0
+		CONNECTION=0
+		IO_ERROR=0
+		WRONG_LENGTH=0
+		WRONG_MAP=0
+		WRONG_REDUCE=0
+	File Input Format Counters 
+		Bytes Read=1380
+	File Output Format Counters 
+		Bytes Written=282
+	rhipeInternal
+		partialFlush=2
+	rhipe_timing
+		overall_mapper_ms=593
+2024-05-08 02:28:58,923 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] fs.default.name is deprecated. Instead, use fs.defaultFS
+2024-05-08 02:28:59,055 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache file:/tmp/rhipe-temp-params-cb4f52c48882d93175844f6c352f6036#rhipe-temp-params-cb4f52c48882d93175844f6c352f6036
+2024-05-08 02:28:59,055 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache archive:/user/wwtung/bin/R.Pkg.tar.gz#R.Pkg
+2024-05-08 02:28:59,055 DEBUG [main][org.godhuli.rhipe.RHMR] /user/wwtung/Otime/m4
+2024-05-08 02:28:59,065 INFO  [main][org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider] Connecting to ResourceManager at a206/172.18.104.246:8032
+2024-05-08 02:28:59,068 INFO  [main][org.apache.hadoop.mapreduce.JobResourceUploader] Disabling Erasure Coding for path: /tmp/wwtung/hadoop/magpietest/16411833/hadoop/scratch/yarn/wwtung/.staging/job_1715148647425_0037
+2024-05-08 02:28:59,080 INFO  [main][org.apache.hadoop.mapreduce.lib.input.FileInputFormat] Total input files to process : 2
+2024-05-08 02:28:59,090 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] number of splits:2
+2024-05-08 02:28:59,099 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Submitting tokens for job: job_1715148647425_0037
+2024-05-08 02:28:59,099 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Executing with tokens: []
+2024-05-08 02:28:59,308 INFO  [main][org.apache.hadoop.yarn.client.api.impl.YarnClientImpl] Submitted application application_1715148647425_0037
+2024-05-08 02:28:59,310 INFO  [main][org.apache.hadoop.mapreduce.Job] The url to track the job: http://a206:8088/proxy/application_1715148647425_0037/
+2024-05-08 02:28:59,310 INFO  [main][org.godhuli.rhipe.RHMR] Tracking URL ----> http://a206:8088/proxy/application_1715148647425_0037/
+2024-05-08 02:28:59,310 INFO  [main][org.apache.hadoop.mapreduce.Job] Running job: job_1715148647425_0037
+2024-05-08 02:29:04,346 INFO  [main][org.apache.hadoop.mapreduce.Job] Job job_1715148647425_0037 running in uber mode : false
+2024-05-08 02:29:04,346 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 0% reduce 0%
+2024-05-08 02:29:08,361 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 100% reduce 0%
+2024-05-08 02:29:12,371 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 100% reduce 33%
+2024-05-08 02:29:13,373 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 100% reduce 100%
+2024-05-08 02:29:13,375 INFO  [main][org.apache.hadoop.mapreduce.Job] Job job_1715148647425_0037 completed successfully
+2024-05-08 02:29:13,395 INFO  [main][org.apache.hadoop.mapreduce.Job] Counters: 56
+	File System Counters
+		FILE: Number of bytes read=18
+		FILE: Number of bytes written=1449640
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+		HDFS: Number of bytes read=1614
+		HDFS: Number of bytes written=282
+		HDFS: Number of read operations=23
+		HDFS: Number of large read operations=0
+		HDFS: Number of write operations=6
+		HDFS: Number of bytes read erasure-coded=0
+	Job Counters 
+		Launched map tasks=2
+		Launched reduce tasks=3
+		Data-local map tasks=2
+		Total time spent by all maps in occupied slots (ms)=8524
+		Total time spent by all reduces in occupied slots (ms)=17673
+		Total time spent by all map tasks (ms)=4262
+		Total time spent by all reduce tasks (ms)=5891
+		Total vcore-milliseconds taken by all map tasks=4262
+		Total vcore-milliseconds taken by all reduce tasks=5891
+		Total megabyte-milliseconds taken by all map tasks=8728576
+		Total megabyte-milliseconds taken by all reduce tasks=18097152
+	Map-Reduce Framework
+		Map input records=4
+		Map output records=0
+		Map output bytes=0
+		Map output materialized bytes=36
+		Input split bytes=234
+		Combine input records=0
+		Combine output records=0
+		Reduce input groups=0
+		Reduce shuffle bytes=36
+		Reduce input records=0
+		Reduce output records=0
+		Spilled Records=0
+		Shuffled Maps =6
+		Failed Shuffles=0
+		Merged Map outputs=6
+		GC time elapsed (ms)=59
+		CPU time spent (ms)=6860
+		Physical memory (bytes) snapshot=1934938112
+		Virtual memory (bytes) snapshot=21729726464
+		Total committed heap usage (bytes)=8589934592
+		Peak Map Physical memory (bytes)=435245056
+		Peak Map Virtual memory (bytes)=3651674112
+		Peak Reduce Physical memory (bytes)=358703104
+		Peak Reduce Virtual memory (bytes)=4814073856
+	Shuffle Errors
+		BAD_ID=0
+		CONNECTION=0
+		IO_ERROR=0
+		WRONG_LENGTH=0
+		WRONG_MAP=0
+		WRONG_REDUCE=0
+	File Input Format Counters 
+		Bytes Read=1380
+	File Output Format Counters 
+		Bytes Written=282
+	rhipeInternal
+		partialFlush=2
+	rhipe_timing
+		overall_mapper_ms=584
+2024-05-08 02:29:13,472 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] fs.default.name is deprecated. Instead, use fs.defaultFS
+2024-05-08 02:29:13,599 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache file:/tmp/rhipe-temp-params-cb4f52c48882d93175844f6c352f6036#rhipe-temp-params-cb4f52c48882d93175844f6c352f6036
+2024-05-08 02:29:13,599 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache archive:/user/wwtung/bin/R.Pkg.tar.gz#R.Pkg
+2024-05-08 02:29:13,600 DEBUG [main][org.godhuli.rhipe.RHMR] /user/wwtung/Otime/m4
+2024-05-08 02:29:13,608 INFO  [main][org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider] Connecting to ResourceManager at a206/172.18.104.246:8032
+2024-05-08 02:29:13,611 INFO  [main][org.apache.hadoop.mapreduce.JobResourceUploader] Disabling Erasure Coding for path: /tmp/wwtung/hadoop/magpietest/16411833/hadoop/scratch/yarn/wwtung/.staging/job_1715148647425_0038
+2024-05-08 02:29:13,623 INFO  [main][org.apache.hadoop.mapreduce.lib.input.FileInputFormat] Total input files to process : 2
+2024-05-08 02:29:13,633 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] number of splits:2
+2024-05-08 02:29:13,642 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Submitting tokens for job: job_1715148647425_0038
+2024-05-08 02:29:13,642 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Executing with tokens: []
+2024-05-08 02:29:13,852 INFO  [main][org.apache.hadoop.yarn.client.api.impl.YarnClientImpl] Submitted application application_1715148647425_0038
+2024-05-08 02:29:13,853 INFO  [main][org.apache.hadoop.mapreduce.Job] The url to track the job: http://a206:8088/proxy/application_1715148647425_0038/
+2024-05-08 02:29:13,853 INFO  [main][org.godhuli.rhipe.RHMR] Tracking URL ----> http://a206:8088/proxy/application_1715148647425_0038/
+2024-05-08 02:29:13,853 INFO  [main][org.apache.hadoop.mapreduce.Job] Running job: job_1715148647425_0038
+2024-05-08 02:29:18,887 INFO  [main][org.apache.hadoop.mapreduce.Job] Job job_1715148647425_0038 running in uber mode : false
+2024-05-08 02:29:18,887 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 0% reduce 0%
+2024-05-08 02:29:22,899 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 100% reduce 0%
+2024-05-08 02:29:27,909 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 100% reduce 100%
+2024-05-08 02:29:27,911 INFO  [main][org.apache.hadoop.mapreduce.Job] Job job_1715148647425_0038 completed successfully
+2024-05-08 02:29:27,929 INFO  [main][org.apache.hadoop.mapreduce.Job] Counters: 56
+	File System Counters
+		FILE: Number of bytes read=18
+		FILE: Number of bytes written=1449640
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+		HDFS: Number of bytes read=1614
+		HDFS: Number of bytes written=282
+		HDFS: Number of read operations=23
+		HDFS: Number of large read operations=0
+		HDFS: Number of write operations=6
+		HDFS: Number of bytes read erasure-coded=0
+	Job Counters 
+		Launched map tasks=2
+		Launched reduce tasks=3
+		Data-local map tasks=2
+		Total time spent by all maps in occupied slots (ms)=8702
+		Total time spent by all reduces in occupied slots (ms)=17622
+		Total time spent by all map tasks (ms)=4351
+		Total time spent by all reduce tasks (ms)=5874
+		Total vcore-milliseconds taken by all map tasks=4351
+		Total vcore-milliseconds taken by all reduce tasks=5874
+		Total megabyte-milliseconds taken by all map tasks=8910848
+		Total megabyte-milliseconds taken by all reduce tasks=18044928
+	Map-Reduce Framework
+		Map input records=4
+		Map output records=0
+		Map output bytes=0
+		Map output materialized bytes=36
+		Input split bytes=234
+		Combine input records=0
+		Combine output records=0
+		Reduce input groups=0
+		Reduce shuffle bytes=36
+		Reduce input records=0
+		Reduce output records=0
+		Spilled Records=0
+		Shuffled Maps =6
+		Failed Shuffles=0
+		Merged Map outputs=6
+		GC time elapsed (ms)=61
+		CPU time spent (ms)=6970
+		Physical memory (bytes) snapshot=1963216896
+		Virtual memory (bytes) snapshot=21732196352
+		Total committed heap usage (bytes)=8589934592
+		Peak Map Physical memory (bytes)=443179008
+		Peak Map Virtual memory (bytes)=3652558848
+		Peak Reduce Physical memory (bytes)=359514112
+		Peak Reduce Virtual memory (bytes)=4812877824
+	Shuffle Errors
+		BAD_ID=0
+		CONNECTION=0
+		IO_ERROR=0
+		WRONG_LENGTH=0
+		WRONG_MAP=0
+		WRONG_REDUCE=0
+	File Input Format Counters 
+		Bytes Read=1380
+	File Output Format Counters 
+		Bytes Written=282
+	rhipeInternal
+		partialFlush=2
+	rhipe_timing
+		overall_mapper_ms=647
+2024-05-08 02:29:28,004 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] fs.default.name is deprecated. Instead, use fs.defaultFS
+2024-05-08 02:29:28,134 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache file:/tmp/rhipe-temp-params-71df13153e07bf3d503c9c2b96a025f5#rhipe-temp-params-71df13153e07bf3d503c9c2b96a025f5
+2024-05-08 02:29:28,134 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache archive:/user/wwtung/bin/R.Pkg.tar.gz#R.Pkg
+2024-05-08 02:29:28,135 DEBUG [main][org.godhuli.rhipe.RHMR] /user/wwtung/Otime/m5
+2024-05-08 02:29:28,144 INFO  [main][org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider] Connecting to ResourceManager at a206/172.18.104.246:8032
+2024-05-08 02:29:28,147 INFO  [main][org.apache.hadoop.mapreduce.JobResourceUploader] Disabling Erasure Coding for path: /tmp/wwtung/hadoop/magpietest/16411833/hadoop/scratch/yarn/wwtung/.staging/job_1715148647425_0039
+2024-05-08 02:29:28,159 INFO  [main][org.apache.hadoop.mapreduce.lib.input.FileInputFormat] Total input files to process : 2
+2024-05-08 02:29:28,170 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] number of splits:2
+2024-05-08 02:29:28,179 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Submitting tokens for job: job_1715148647425_0039
+2024-05-08 02:29:28,179 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Executing with tokens: []
+2024-05-08 02:29:28,187 INFO  [main][org.apache.hadoop.yarn.client.api.impl.YarnClientImpl] Submitted application application_1715148647425_0039
+2024-05-08 02:29:28,188 INFO  [main][org.apache.hadoop.mapreduce.Job] The url to track the job: http://a206:8088/proxy/application_1715148647425_0039/
+2024-05-08 02:29:28,188 INFO  [main][org.godhuli.rhipe.RHMR] Tracking URL ----> http://a206:8088/proxy/application_1715148647425_0039/
+2024-05-08 02:29:28,188 INFO  [main][org.apache.hadoop.mapreduce.Job] Running job: job_1715148647425_0039
+2024-05-08 02:29:33,238 INFO  [main][org.apache.hadoop.mapreduce.Job] Job job_1715148647425_0039 running in uber mode : false
+2024-05-08 02:29:33,238 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 0% reduce 0%
+2024-05-08 02:29:37,252 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 100% reduce 0%
+2024-05-08 02:29:42,262 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 100% reduce 67%
+2024-05-08 02:29:43,264 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 100% reduce 100%
+2024-05-08 02:29:43,267 INFO  [main][org.apache.hadoop.mapreduce.Job] Job job_1715148647425_0039 completed successfully
+2024-05-08 02:29:43,286 INFO  [main][org.apache.hadoop.mapreduce.Job] Counters: 56
+	File System Counters
+		FILE: Number of bytes read=18
+		FILE: Number of bytes written=1449640
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+		HDFS: Number of bytes read=1530
+		HDFS: Number of bytes written=282
+		HDFS: Number of read operations=23
+		HDFS: Number of large read operations=0
+		HDFS: Number of write operations=6
+		HDFS: Number of bytes read erasure-coded=0
+	Job Counters 
+		Launched map tasks=2
+		Launched reduce tasks=3
+		Data-local map tasks=2
+		Total time spent by all maps in occupied slots (ms)=8428
+		Total time spent by all reduces in occupied slots (ms)=20619
+		Total time spent by all map tasks (ms)=4214
+		Total time spent by all reduce tasks (ms)=6873
+		Total vcore-milliseconds taken by all map tasks=4214
+		Total vcore-milliseconds taken by all reduce tasks=6873
+		Total megabyte-milliseconds taken by all map tasks=8630272
+		Total megabyte-milliseconds taken by all reduce tasks=21113856
+	Map-Reduce Framework
+		Map input records=2
+		Map output records=0
+		Map output bytes=0
+		Map output materialized bytes=36
+		Input split bytes=234
+		Combine input records=0
+		Combine output records=0
+		Reduce input groups=0
+		Reduce shuffle bytes=36
+		Reduce input records=0
+		Reduce output records=0
+		Spilled Records=0
+		Shuffled Maps =6
+		Failed Shuffles=0
+		Merged Map outputs=6
+		GC time elapsed (ms)=65
+		CPU time spent (ms)=6580
+		Physical memory (bytes) snapshot=1947574272
+		Virtual memory (bytes) snapshot=21743673344
+		Total committed heap usage (bytes)=8589934592
+		Peak Map Physical memory (bytes)=443785216
+		Peak Map Virtual memory (bytes)=3655172096
+		Peak Reduce Physical memory (bytes)=357564416
+		Peak Reduce Virtual memory (bytes)=4816838656
+	Shuffle Errors
+		BAD_ID=0
+		CONNECTION=0
+		IO_ERROR=0
+		WRONG_LENGTH=0
+		WRONG_MAP=0
+		WRONG_REDUCE=0
+	File Input Format Counters 
+		Bytes Read=1296
+	File Output Format Counters 
+		Bytes Written=282
+	rhipeInternal
+		partialFlush=2
+	rhipe_timing
+		overall_mapper_ms=589
+2024-05-08 02:29:44,365 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] fs.default.name is deprecated. Instead, use fs.defaultFS
+2024-05-08 02:29:44,502 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache file:/tmp/rhipe-temp-params-c7034233054870193041a85c6dd152c4#rhipe-temp-params-c7034233054870193041a85c6dd152c4
+2024-05-08 02:29:44,502 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache archive:/user/wwtung/bin/R.Pkg.tar.gz#R.Pkg
+2024-05-08 02:29:44,503 DEBUG [main][org.godhuli.rhipe.RHMR] /user/wwtung/Otime/m4
+2024-05-08 02:29:44,512 INFO  [main][org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider] Connecting to ResourceManager at a206/172.18.104.246:8032
+2024-05-08 02:29:44,515 INFO  [main][org.apache.hadoop.mapreduce.JobResourceUploader] Disabling Erasure Coding for path: /tmp/wwtung/hadoop/magpietest/16411833/hadoop/scratch/yarn/wwtung/.staging/job_1715148647425_0040
+2024-05-08 02:29:44,527 INFO  [main][org.apache.hadoop.mapreduce.lib.input.FileInputFormat] Total input files to process : 2
+2024-05-08 02:29:44,536 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] number of splits:2
+2024-05-08 02:29:44,543 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Submitting tokens for job: job_1715148647425_0040
+2024-05-08 02:29:44,543 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Executing with tokens: []
+2024-05-08 02:29:44,751 INFO  [main][org.apache.hadoop.yarn.client.api.impl.YarnClientImpl] Submitted application application_1715148647425_0040
+2024-05-08 02:29:44,752 INFO  [main][org.apache.hadoop.mapreduce.Job] The url to track the job: http://a206:8088/proxy/application_1715148647425_0040/
+2024-05-08 02:29:44,752 INFO  [main][org.godhuli.rhipe.RHMR] Tracking URL ----> http://a206:8088/proxy/application_1715148647425_0040/
+2024-05-08 02:29:44,752 INFO  [main][org.apache.hadoop.mapreduce.Job] Running job: job_1715148647425_0040
+2024-05-08 02:29:48,785 INFO  [main][org.apache.hadoop.mapreduce.Job] Job job_1715148647425_0040 running in uber mode : false
+2024-05-08 02:29:48,785 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 0% reduce 0%
+2024-05-08 02:29:53,800 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 100% reduce 0%
+2024-05-08 02:29:57,807 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 100% reduce 100%
+2024-05-08 02:29:57,810 INFO  [main][org.apache.hadoop.mapreduce.Job] Job job_1715148647425_0040 completed successfully
+2024-05-08 02:29:57,828 INFO  [main][org.apache.hadoop.mapreduce.Job] Counters: 56
+	File System Counters
+		FILE: Number of bytes read=18
+		FILE: Number of bytes written=1449640
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+		HDFS: Number of bytes read=1614
+		HDFS: Number of bytes written=282
+		HDFS: Number of read operations=23
+		HDFS: Number of large read operations=0
+		HDFS: Number of write operations=6
+		HDFS: Number of bytes read erasure-coded=0
+	Job Counters 
+		Launched map tasks=2
+		Launched reduce tasks=3
+		Data-local map tasks=2
+		Total time spent by all maps in occupied slots (ms)=8974
+		Total time spent by all reduces in occupied slots (ms)=17118
+		Total time spent by all map tasks (ms)=4487
+		Total time spent by all reduce tasks (ms)=5706
+		Total vcore-milliseconds taken by all map tasks=4487
+		Total vcore-milliseconds taken by all reduce tasks=5706
+		Total megabyte-milliseconds taken by all map tasks=9189376
+		Total megabyte-milliseconds taken by all reduce tasks=17528832
+	Map-Reduce Framework
+		Map input records=4
+		Map output records=0
+		Map output bytes=0
+		Map output materialized bytes=36
+		Input split bytes=234
+		Combine input records=0
+		Combine output records=0
+		Reduce input groups=0
+		Reduce shuffle bytes=36
+		Reduce input records=0
+		Reduce output records=0
+		Spilled Records=0
+		Shuffled Maps =6
+		Failed Shuffles=0
+		Merged Map outputs=6
+		GC time elapsed (ms)=60
+		CPU time spent (ms)=6600
+		Physical memory (bytes) snapshot=1941708800
+		Virtual memory (bytes) snapshot=21734653952
+		Total committed heap usage (bytes)=8589934592
+		Peak Map Physical memory (bytes)=440733696
+		Peak Map Virtual memory (bytes)=3654656000
+		Peak Reduce Physical memory (bytes)=365219840
+		Peak Reduce Virtual memory (bytes)=4817874944
+	Shuffle Errors
+		BAD_ID=0
+		CONNECTION=0
+		IO_ERROR=0
+		WRONG_LENGTH=0
+		WRONG_MAP=0
+		WRONG_REDUCE=0
+	File Input Format Counters 
+		Bytes Read=1380
+	File Output Format Counters 
+		Bytes Written=282
+	rhipeInternal
+		partialFlush=2
+	rhipe_timing
+		overall_mapper_ms=583
+2024-05-08 02:29:58,907 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] fs.default.name is deprecated. Instead, use fs.defaultFS
+2024-05-08 02:29:59,036 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache file:/tmp/rhipe-temp-params-c7034233054870193041a85c6dd152c4#rhipe-temp-params-c7034233054870193041a85c6dd152c4
+2024-05-08 02:29:59,036 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache archive:/user/wwtung/bin/R.Pkg.tar.gz#R.Pkg
+2024-05-08 02:29:59,037 DEBUG [main][org.godhuli.rhipe.RHMR] /user/wwtung/Otime/m4
+2024-05-08 02:29:59,046 INFO  [main][org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider] Connecting to ResourceManager at a206/172.18.104.246:8032
+2024-05-08 02:29:59,049 INFO  [main][org.apache.hadoop.mapreduce.JobResourceUploader] Disabling Erasure Coding for path: /tmp/wwtung/hadoop/magpietest/16411833/hadoop/scratch/yarn/wwtung/.staging/job_1715148647425_0041
+2024-05-08 02:29:59,061 INFO  [main][org.apache.hadoop.mapreduce.lib.input.FileInputFormat] Total input files to process : 2
+2024-05-08 02:29:59,073 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] number of splits:2
+2024-05-08 02:29:59,081 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Submitting tokens for job: job_1715148647425_0041
+2024-05-08 02:29:59,081 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Executing with tokens: []
+2024-05-08 02:29:59,291 INFO  [main][org.apache.hadoop.yarn.client.api.impl.YarnClientImpl] Submitted application application_1715148647425_0041
+2024-05-08 02:29:59,292 INFO  [main][org.apache.hadoop.mapreduce.Job] The url to track the job: http://a206:8088/proxy/application_1715148647425_0041/
+2024-05-08 02:29:59,292 INFO  [main][org.godhuli.rhipe.RHMR] Tracking URL ----> http://a206:8088/proxy/application_1715148647425_0041/
+2024-05-08 02:29:59,292 INFO  [main][org.apache.hadoop.mapreduce.Job] Running job: job_1715148647425_0041
+2024-05-08 02:30:04,326 INFO  [main][org.apache.hadoop.mapreduce.Job] Job job_1715148647425_0041 running in uber mode : false
+2024-05-08 02:30:04,326 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 0% reduce 0%
+2024-05-08 02:30:08,339 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 100% reduce 0%
+2024-05-08 02:30:13,349 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 100% reduce 100%
+2024-05-08 02:30:13,352 INFO  [main][org.apache.hadoop.mapreduce.Job] Job job_1715148647425_0041 completed successfully
+2024-05-08 02:30:13,370 INFO  [main][org.apache.hadoop.mapreduce.Job] Counters: 56
+	File System Counters
+		FILE: Number of bytes read=18
+		FILE: Number of bytes written=1449640
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+		HDFS: Number of bytes read=1614
+		HDFS: Number of bytes written=282
+		HDFS: Number of read operations=23
+		HDFS: Number of large read operations=0
+		HDFS: Number of write operations=6
+		HDFS: Number of bytes read erasure-coded=0
+	Job Counters 
+		Launched map tasks=2
+		Launched reduce tasks=3
+		Data-local map tasks=2
+		Total time spent by all maps in occupied slots (ms)=8692
+		Total time spent by all reduces in occupied slots (ms)=17628
+		Total time spent by all map tasks (ms)=4346
+		Total time spent by all reduce tasks (ms)=5876
+		Total vcore-milliseconds taken by all map tasks=4346
+		Total vcore-milliseconds taken by all reduce tasks=5876
+		Total megabyte-milliseconds taken by all map tasks=8900608
+		Total megabyte-milliseconds taken by all reduce tasks=18051072
+	Map-Reduce Framework
+		Map input records=4
+		Map output records=0
+		Map output bytes=0
+		Map output materialized bytes=36
+		Input split bytes=234
+		Combine input records=0
+		Combine output records=0
+		Reduce input groups=0
+		Reduce shuffle bytes=36
+		Reduce input records=0
+		Reduce output records=0
+		Spilled Records=0
+		Shuffled Maps =6
+		Failed Shuffles=0
+		Merged Map outputs=6
+		GC time elapsed (ms)=56
+		CPU time spent (ms)=6890
+		Physical memory (bytes) snapshot=1952464896
+		Virtual memory (bytes) snapshot=21732851712
+		Total committed heap usage (bytes)=8589934592
+		Peak Map Physical memory (bytes)=442650624
+		Peak Map Virtual memory (bytes)=3650772992
+		Peak Reduce Physical memory (bytes)=358535168
+		Peak Reduce Virtual memory (bytes)=4813176832
+	Shuffle Errors
+		BAD_ID=0
+		CONNECTION=0
+		IO_ERROR=0
+		WRONG_LENGTH=0
+		WRONG_MAP=0
+		WRONG_REDUCE=0
+	File Input Format Counters 
+		Bytes Read=1380
+	File Output Format Counters 
+		Bytes Written=282
+	rhipeInternal
+		partialFlush=2
+	rhipe_timing
+		overall_mapper_ms=620
+2024-05-08 02:30:13,448 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] fs.default.name is deprecated. Instead, use fs.defaultFS
+2024-05-08 02:30:13,578 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache file:/tmp/rhipe-temp-params-c7034233054870193041a85c6dd152c4#rhipe-temp-params-c7034233054870193041a85c6dd152c4
+2024-05-08 02:30:13,578 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache archive:/user/wwtung/bin/R.Pkg.tar.gz#R.Pkg
+2024-05-08 02:30:13,578 DEBUG [main][org.godhuli.rhipe.RHMR] /user/wwtung/Otime/m4
+2024-05-08 02:30:13,587 INFO  [main][org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider] Connecting to ResourceManager at a206/172.18.104.246:8032
+2024-05-08 02:30:13,591 INFO  [main][org.apache.hadoop.mapreduce.JobResourceUploader] Disabling Erasure Coding for path: /tmp/wwtung/hadoop/magpietest/16411833/hadoop/scratch/yarn/wwtung/.staging/job_1715148647425_0042
+2024-05-08 02:30:13,603 INFO  [main][org.apache.hadoop.mapreduce.lib.input.FileInputFormat] Total input files to process : 2
+2024-05-08 02:30:13,613 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] number of splits:2
+2024-05-08 02:30:13,622 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Submitting tokens for job: job_1715148647425_0042
+2024-05-08 02:30:13,622 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Executing with tokens: []
+2024-05-08 02:30:13,830 INFO  [main][org.apache.hadoop.yarn.client.api.impl.YarnClientImpl] Submitted application application_1715148647425_0042
+2024-05-08 02:30:13,831 INFO  [main][org.apache.hadoop.mapreduce.Job] The url to track the job: http://a206:8088/proxy/application_1715148647425_0042/
+2024-05-08 02:30:13,831 INFO  [main][org.godhuli.rhipe.RHMR] Tracking URL ----> http://a206:8088/proxy/application_1715148647425_0042/
+2024-05-08 02:30:13,831 INFO  [main][org.apache.hadoop.mapreduce.Job] Running job: job_1715148647425_0042
+2024-05-08 02:30:17,876 INFO  [main][org.apache.hadoop.mapreduce.Job] Job job_1715148647425_0042 running in uber mode : false
+2024-05-08 02:30:17,876 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 0% reduce 0%
+2024-05-08 02:30:21,889 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 100% reduce 0%
+2024-05-08 02:30:26,900 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 100% reduce 100%
+2024-05-08 02:30:26,903 INFO  [main][org.apache.hadoop.mapreduce.Job] Job job_1715148647425_0042 completed successfully
+2024-05-08 02:30:26,921 INFO  [main][org.apache.hadoop.mapreduce.Job] Counters: 56
+	File System Counters
+		FILE: Number of bytes read=18
+		FILE: Number of bytes written=1449640
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+		HDFS: Number of bytes read=1614
+		HDFS: Number of bytes written=282
+		HDFS: Number of read operations=23
+		HDFS: Number of large read operations=0
+		HDFS: Number of write operations=6
+		HDFS: Number of bytes read erasure-coded=0
+	Job Counters 
+		Launched map tasks=2
+		Launched reduce tasks=3
+		Data-local map tasks=2
+		Total time spent by all maps in occupied slots (ms)=8634
+		Total time spent by all reduces in occupied slots (ms)=17595
+		Total time spent by all map tasks (ms)=4317
+		Total time spent by all reduce tasks (ms)=5865
+		Total vcore-milliseconds taken by all map tasks=4317
+		Total vcore-milliseconds taken by all reduce tasks=5865
+		Total megabyte-milliseconds taken by all map tasks=8841216
+		Total megabyte-milliseconds taken by all reduce tasks=18017280
+	Map-Reduce Framework
+		Map input records=4
+		Map output records=0
+		Map output bytes=0
+		Map output materialized bytes=36
+		Input split bytes=234
+		Combine input records=0
+		Combine output records=0
+		Reduce input groups=0
+		Reduce shuffle bytes=36
+		Reduce input records=0
+		Reduce output records=0
+		Spilled Records=0
+		Shuffled Maps =6
+		Failed Shuffles=0
+		Merged Map outputs=6
+		GC time elapsed (ms)=67
+		CPU time spent (ms)=6650
+		Physical memory (bytes) snapshot=1945575424
+		Virtual memory (bytes) snapshot=21724872704
+		Total committed heap usage (bytes)=8589934592
+		Peak Map Physical memory (bytes)=437559296
+		Peak Map Virtual memory (bytes)=3648069632
+		Peak Reduce Physical memory (bytes)=361263104
+		Peak Reduce Virtual memory (bytes)=4817522688
+	Shuffle Errors
+		BAD_ID=0
+		CONNECTION=0
+		IO_ERROR=0
+		WRONG_LENGTH=0
+		WRONG_MAP=0
+		WRONG_REDUCE=0
+	File Input Format Counters 
+		Bytes Read=1380
+	File Output Format Counters 
+		Bytes Written=282
+	rhipeInternal
+		partialFlush=2
+	rhipe_timing
+		overall_mapper_ms=624

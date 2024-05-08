@@ -1,0 +1,19 @@
+2024-01-15 02:24:00,024 INFO  [main][org.apache.hadoop.yarn.client.api.impl.TimelineClientImpl] Timeline service address: http://wceres-adm.rcac.purdue.edu:8188/ws/v1/timeline/
+2024-01-15 02:24:00,121 INFO  [main][org.apache.hadoop.yarn.client.RMProxy] Connecting to ResourceManager at wceres-adm.rcac.purdue.edu/172.18.13.13:8032
+2024-01-15 02:24:00,229 INFO  [main][org.apache.hadoop.yarn.client.AHSProxy] Connecting to Application History server at wceres-adm.rcac.purdue.edu/172.18.13.13:10200
+2024-01-15 02:24:00,904 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] fs.default.name is deprecated. Instead, use fs.defaultFS
+2024-01-15 02:24:01,407 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] mapred.output.compress is deprecated. Instead, use mapreduce.output.fileoutputformat.compress
+2024-01-15 02:24:01,408 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] mapred.map.tasks is deprecated. Instead, use mapreduce.job.maps
+2024-01-15 02:24:01,408 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] mapred.job.reuse.jvm.num.tasks is deprecated. Instead, use mapreduce.job.jvm.numtasks
+2024-01-15 02:24:01,409 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] mapred.compress.map.output is deprecated. Instead, use mapreduce.map.output.compress
+2024-01-15 02:24:01,410 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache file:/user/wwtung/tmp/rhipe-temp-params-77258328ed71f9bc1c011878bd42ea68#rhipe-temp-params-77258328ed71f9bc1c011878bd42ea68
+2024-01-15 02:24:01,411 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache archive:/user/wwtung/bin/R.Pkg.tar.gz#R.Pkg
+2024-01-15 02:24:01,414 DEBUG [main][org.godhuli.rhipe.RHMR] /wceres/wwtung/CEPH_Run/results/m5
+2024-01-15 02:24:01,510 INFO  [main][org.apache.hadoop.yarn.client.api.impl.TimelineClientImpl] Timeline service address: http://wceres-adm.rcac.purdue.edu:8188/ws/v1/timeline/
+2024-01-15 02:24:01,510 INFO  [main][org.apache.hadoop.yarn.client.RMProxy] Connecting to ResourceManager at wceres-adm.rcac.purdue.edu/172.18.13.13:8032
+2024-01-15 02:24:01,511 INFO  [main][org.apache.hadoop.yarn.client.AHSProxy] Connecting to Application History server at wceres-adm.rcac.purdue.edu/172.18.13.13:10200
+2024-01-15 02:24:02,212 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] number of splits:2
+2024-01-15 02:24:02,356 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Submitting tokens for job: job_1702931155918_0113
+2024-01-15 02:24:02,559 INFO  [main][org.apache.hadoop.yarn.client.api.impl.YarnClientImpl] Submitted application application_1702931155918_0113
+2024-01-15 02:24:02,587 INFO  [main][org.apache.hadoop.mapreduce.Job] The url to track the job: http://wceres-adm.rcac.purdue.edu:8088/proxy/application_1702931155918_0113/
+2024-01-15 02:24:07,746 INFO  [main][org.apache.hadoop.mapred.ClientServiceDelegate] Application state is completed. FinalApplicationStatus=FAILED. Redirecting to job history server

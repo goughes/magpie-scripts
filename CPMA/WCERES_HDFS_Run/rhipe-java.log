@@ -1,0 +1,446 @@
+2024-05-08 01:09:56,781 INFO  [main][org.apache.hadoop.yarn.client.api.impl.TimelineClientImpl] Timeline service address: http://wceres-adm.rcac.purdue.edu:8188/ws/v1/timeline/
+2024-05-08 01:09:56,879 INFO  [main][org.apache.hadoop.yarn.client.RMProxy] Connecting to ResourceManager at wceres-adm.rcac.purdue.edu/172.18.13.13:8032
+2024-05-08 01:09:56,998 INFO  [main][org.apache.hadoop.yarn.client.AHSProxy] Connecting to Application History server at wceres-adm.rcac.purdue.edu/172.18.13.13:10200
+2024-05-08 01:09:57,742 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] fs.default.name is deprecated. Instead, use fs.defaultFS
+2024-05-08 01:09:58,230 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] mapred.output.compress is deprecated. Instead, use mapreduce.output.fileoutputformat.compress
+2024-05-08 01:09:58,231 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] mapred.map.tasks is deprecated. Instead, use mapreduce.job.maps
+2024-05-08 01:09:58,232 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] mapred.job.reuse.jvm.num.tasks is deprecated. Instead, use mapreduce.job.jvm.numtasks
+2024-05-08 01:09:58,232 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] mapred.compress.map.output is deprecated. Instead, use mapreduce.map.output.compress
+2024-05-08 01:09:58,234 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache file:/user/wwtung/tmp/rhipe-temp-params-8f66a81d757e348b103550aa63de0766#rhipe-temp-params-8f66a81d757e348b103550aa63de0766
+2024-05-08 01:09:58,235 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache archive:/user/wwtung/bin/R.Pkg.tar.gz#R.Pkg
+2024-05-08 01:09:58,238 DEBUG [main][org.godhuli.rhipe.RHMR] /user/wwtung/HDFS_Run/results/m5
+2024-05-08 01:09:58,340 INFO  [main][org.apache.hadoop.yarn.client.api.impl.TimelineClientImpl] Timeline service address: http://wceres-adm.rcac.purdue.edu:8188/ws/v1/timeline/
+2024-05-08 01:09:58,341 INFO  [main][org.apache.hadoop.yarn.client.RMProxy] Connecting to ResourceManager at wceres-adm.rcac.purdue.edu/172.18.13.13:8032
+2024-05-08 01:09:58,341 INFO  [main][org.apache.hadoop.yarn.client.AHSProxy] Connecting to Application History server at wceres-adm.rcac.purdue.edu/172.18.13.13:10200
+2024-05-08 01:09:58,847 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] number of splits:2
+2024-05-08 01:09:59,013 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Submitting tokens for job: job_1707140810941_0029
+2024-05-08 01:09:59,167 INFO  [main][org.apache.hadoop.yarn.client.api.impl.YarnClientImpl] Submitted application application_1707140810941_0029
+2024-05-08 01:09:59,191 INFO  [main][org.apache.hadoop.mapreduce.Job] The url to track the job: http://wceres-adm.rcac.purdue.edu:8088/proxy/application_1707140810941_0029/
+2024-05-08 01:10:15,117 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] fs.default.name is deprecated. Instead, use fs.defaultFS
+2024-05-08 01:10:15,303 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache file:/user/wwtung/tmp/rhipe-temp-params-7166cb460259eac87b6b32a10bc7e2b8#rhipe-temp-params-7166cb460259eac87b6b32a10bc7e2b8
+2024-05-08 01:10:15,303 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache archive:/user/wwtung/bin/R.Pkg.tar.gz#R.Pkg
+2024-05-08 01:10:15,304 DEBUG [main][org.godhuli.rhipe.RHMR] /user/wwtung/HDFS_Run/results/m4
+2024-05-08 01:10:15,408 INFO  [main][org.apache.hadoop.yarn.client.api.impl.TimelineClientImpl] Timeline service address: http://wceres-adm.rcac.purdue.edu:8188/ws/v1/timeline/
+2024-05-08 01:10:15,408 INFO  [main][org.apache.hadoop.yarn.client.RMProxy] Connecting to ResourceManager at wceres-adm.rcac.purdue.edu/172.18.13.13:8032
+2024-05-08 01:10:15,410 INFO  [main][org.apache.hadoop.yarn.client.AHSProxy] Connecting to Application History server at wceres-adm.rcac.purdue.edu/172.18.13.13:10200
+2024-05-08 01:10:15,906 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] number of splits:2
+2024-05-08 01:10:16,006 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Submitting tokens for job: job_1707140810941_0030
+2024-05-08 01:10:16,026 INFO  [main][org.apache.hadoop.yarn.client.api.impl.YarnClientImpl] Submitted application application_1707140810941_0030
+2024-05-08 01:10:16,030 INFO  [main][org.apache.hadoop.mapreduce.Job] The url to track the job: http://wceres-adm.rcac.purdue.edu:8088/proxy/application_1707140810941_0030/
+2024-05-08 01:10:31,807 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] fs.default.name is deprecated. Instead, use fs.defaultFS
+2024-05-08 01:10:32,103 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] mapred.reduce.tasks is deprecated. Instead, use mapreduce.job.reduces
+2024-05-08 01:10:32,105 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache file:/user/wwtung/tmp/rhipe-temp-params-a4ffeeebb3e0c31f77e7d16fbeb83425#rhipe-temp-params-a4ffeeebb3e0c31f77e7d16fbeb83425
+2024-05-08 01:10:32,105 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache archive:/user/wwtung/bin/R.Pkg.tar.gz#R.Pkg
+2024-05-08 01:10:32,110 DEBUG [main][org.godhuli.rhipe.RHMR] /user/wwtung/HDFS_Run/Otime/m5
+2024-05-08 01:10:32,208 INFO  [main][org.apache.hadoop.yarn.client.api.impl.TimelineClientImpl] Timeline service address: http://wceres-adm.rcac.purdue.edu:8188/ws/v1/timeline/
+2024-05-08 01:10:32,208 INFO  [main][org.apache.hadoop.yarn.client.RMProxy] Connecting to ResourceManager at wceres-adm.rcac.purdue.edu/172.18.13.13:8032
+2024-05-08 01:10:32,208 INFO  [main][org.apache.hadoop.yarn.client.AHSProxy] Connecting to Application History server at wceres-adm.rcac.purdue.edu/172.18.13.13:10200
+2024-05-08 01:10:32,408 INFO  [main][org.apache.hadoop.mapreduce.lib.input.FileInputFormat] Total input paths to process : 2
+2024-05-08 01:10:32,660 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] number of splits:2
+2024-05-08 01:10:32,748 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Submitting tokens for job: job_1707140810941_0031
+2024-05-08 01:10:32,765 INFO  [main][org.apache.hadoop.yarn.client.api.impl.YarnClientImpl] Submitted application application_1707140810941_0031
+2024-05-08 01:10:32,768 INFO  [main][org.apache.hadoop.mapreduce.Job] The url to track the job: http://wceres-adm.rcac.purdue.edu:8088/proxy/application_1707140810941_0031/
+2024-05-08 01:10:32,768 INFO  [main][org.godhuli.rhipe.RHMR] Tracking URL ----> http://wceres-adm.rcac.purdue.edu:8088/proxy/application_1707140810941_0031/
+2024-05-08 01:10:32,769 INFO  [main][org.apache.hadoop.mapreduce.Job] Running job: job_1707140810941_0031
+2024-05-08 01:10:37,907 INFO  [main][org.apache.hadoop.mapreduce.Job] Job job_1707140810941_0031 running in uber mode : false
+2024-05-08 01:10:37,909 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 0% reduce 0%
+2024-05-08 01:10:43,962 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 50% reduce 0%
+2024-05-08 01:10:44,969 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 100% reduce 0%
+2024-05-08 01:10:44,979 INFO  [main][org.apache.hadoop.mapreduce.Job] Job job_1707140810941_0031 completed successfully
+2024-05-08 01:10:45,028 INFO  [main][org.apache.hadoop.mapreduce.Job] Counters: 33
+	File System Counters
+		FILE: Number of bytes read=0
+		FILE: Number of bytes written=261546
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+		HDFS: Number of bytes read=1259
+		HDFS: Number of bytes written=274
+		HDFS: Number of read operations=12
+		HDFS: Number of large read operations=0
+		HDFS: Number of write operations=4
+	Job Counters 
+		Launched map tasks=2
+		Data-local map tasks=1
+		Rack-local map tasks=1
+		Total time spent by all maps in occupied slots (ms)=35232
+		Total time spent by all reduces in occupied slots (ms)=0
+		Total time spent by all map tasks (ms)=8808
+		Total vcore-milliseconds taken by all map tasks=8808
+		Total megabyte-milliseconds taken by all map tasks=36077568
+	Map-Reduce Framework
+		Map input records=2
+		Map output records=0
+		Input split bytes=296
+		Spilled Records=0
+		Failed Shuffles=0
+		Merged Map outputs=0
+		GC time elapsed (ms)=164
+		CPU time spent (ms)=2110
+		Physical memory (bytes) snapshot=603570176
+		Virtual memory (bytes) snapshot=11085938688
+		Total committed heap usage (bytes)=2871001088
+	File Input Format Counters 
+		Bytes Read=963
+	File Output Format Counters 
+		Bytes Written=274
+	rhipeInternal
+		partialFlush=2
+	rhipe_timing
+		overall_mapper_ms=3118
+2024-05-08 01:10:46,166 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] fs.default.name is deprecated. Instead, use fs.defaultFS
+2024-05-08 01:10:46,417 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache file:/user/wwtung/tmp/rhipe-temp-params-f937d4c43cac414ff0a79ccb951c6f41#rhipe-temp-params-f937d4c43cac414ff0a79ccb951c6f41
+2024-05-08 01:10:46,418 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache archive:/user/wwtung/bin/R.Pkg.tar.gz#R.Pkg
+2024-05-08 01:10:46,418 DEBUG [main][org.godhuli.rhipe.RHMR] /user/wwtung/HDFS_Run/Otime/m4
+2024-05-08 01:10:46,496 INFO  [main][org.apache.hadoop.yarn.client.api.impl.TimelineClientImpl] Timeline service address: http://wceres-adm.rcac.purdue.edu:8188/ws/v1/timeline/
+2024-05-08 01:10:46,496 INFO  [main][org.apache.hadoop.yarn.client.RMProxy] Connecting to ResourceManager at wceres-adm.rcac.purdue.edu/172.18.13.13:8032
+2024-05-08 01:10:46,497 INFO  [main][org.apache.hadoop.yarn.client.AHSProxy] Connecting to Application History server at wceres-adm.rcac.purdue.edu/172.18.13.13:10200
+2024-05-08 01:10:46,709 INFO  [main][org.apache.hadoop.mapreduce.lib.input.FileInputFormat] Total input paths to process : 2
+2024-05-08 01:10:46,902 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] number of splits:2
+2024-05-08 01:10:46,985 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Submitting tokens for job: job_1707140810941_0032
+2024-05-08 01:10:47,002 INFO  [main][org.apache.hadoop.yarn.client.api.impl.YarnClientImpl] Submitted application application_1707140810941_0032
+2024-05-08 01:10:47,005 INFO  [main][org.apache.hadoop.mapreduce.Job] The url to track the job: http://wceres-adm.rcac.purdue.edu:8088/proxy/application_1707140810941_0032/
+2024-05-08 01:10:47,005 INFO  [main][org.godhuli.rhipe.RHMR] Tracking URL ----> http://wceres-adm.rcac.purdue.edu:8088/proxy/application_1707140810941_0032/
+2024-05-08 01:10:47,005 INFO  [main][org.apache.hadoop.mapreduce.Job] Running job: job_1707140810941_0032
+2024-05-08 01:10:52,149 INFO  [main][org.apache.hadoop.mapreduce.Job] Job job_1707140810941_0032 running in uber mode : false
+2024-05-08 01:10:52,149 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 0% reduce 0%
+2024-05-08 01:10:57,195 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 50% reduce 0%
+2024-05-08 01:10:58,202 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 100% reduce 0%
+2024-05-08 01:10:59,217 INFO  [main][org.apache.hadoop.mapreduce.Job] Job job_1707140810941_0032 completed successfully
+2024-05-08 01:10:59,263 INFO  [main][org.apache.hadoop.mapreduce.Job] Counters: 33
+	File System Counters
+		FILE: Number of bytes read=0
+		FILE: Number of bytes written=261372
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+		HDFS: Number of bytes read=1375
+		HDFS: Number of bytes written=274
+		HDFS: Number of read operations=12
+		HDFS: Number of large read operations=0
+		HDFS: Number of write operations=4
+	Job Counters 
+		Launched map tasks=2
+		Data-local map tasks=1
+		Rack-local map tasks=1
+		Total time spent by all maps in occupied slots (ms)=28836
+		Total time spent by all reduces in occupied slots (ms)=0
+		Total time spent by all map tasks (ms)=7209
+		Total vcore-milliseconds taken by all map tasks=7209
+		Total megabyte-milliseconds taken by all map tasks=29528064
+	Map-Reduce Framework
+		Map input records=4
+		Map output records=0
+		Input split bytes=296
+		Spilled Records=0
+		Failed Shuffles=0
+		Merged Map outputs=0
+		GC time elapsed (ms)=143
+		CPU time spent (ms)=2070
+		Physical memory (bytes) snapshot=613310464
+		Virtual memory (bytes) snapshot=11082735616
+		Total committed heap usage (bytes)=2884108288
+	File Input Format Counters 
+		Bytes Read=1079
+	File Output Format Counters 
+		Bytes Written=274
+	rhipeInternal
+		partialFlush=2
+	rhipe_timing
+		overall_mapper_ms=2172
+2024-05-08 01:11:00,406 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] fs.default.name is deprecated. Instead, use fs.defaultFS
+2024-05-08 01:11:00,720 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache file:/user/wwtung/tmp/rhipe-temp-params-f937d4c43cac414ff0a79ccb951c6f41#rhipe-temp-params-f937d4c43cac414ff0a79ccb951c6f41
+2024-05-08 01:11:00,720 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache archive:/user/wwtung/bin/R.Pkg.tar.gz#R.Pkg
+2024-05-08 01:11:00,721 DEBUG [main][org.godhuli.rhipe.RHMR] /user/wwtung/HDFS_Run/Otime/m4
+2024-05-08 01:11:00,822 INFO  [main][org.apache.hadoop.yarn.client.api.impl.TimelineClientImpl] Timeline service address: http://wceres-adm.rcac.purdue.edu:8188/ws/v1/timeline/
+2024-05-08 01:11:00,822 INFO  [main][org.apache.hadoop.yarn.client.RMProxy] Connecting to ResourceManager at wceres-adm.rcac.purdue.edu/172.18.13.13:8032
+2024-05-08 01:11:00,822 INFO  [main][org.apache.hadoop.yarn.client.AHSProxy] Connecting to Application History server at wceres-adm.rcac.purdue.edu/172.18.13.13:10200
+2024-05-08 01:11:00,968 INFO  [main][org.apache.hadoop.mapreduce.lib.input.FileInputFormat] Total input paths to process : 2
+2024-05-08 01:11:01,227 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] number of splits:2
+2024-05-08 01:11:01,377 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Submitting tokens for job: job_1707140810941_0033
+2024-05-08 01:11:01,595 INFO  [main][org.apache.hadoop.yarn.client.api.impl.YarnClientImpl] Submitted application application_1707140810941_0033
+2024-05-08 01:11:01,598 INFO  [main][org.apache.hadoop.mapreduce.Job] The url to track the job: http://wceres-adm.rcac.purdue.edu:8088/proxy/application_1707140810941_0033/
+2024-05-08 01:11:01,598 INFO  [main][org.godhuli.rhipe.RHMR] Tracking URL ----> http://wceres-adm.rcac.purdue.edu:8088/proxy/application_1707140810941_0033/
+2024-05-08 01:11:01,598 INFO  [main][org.apache.hadoop.mapreduce.Job] Running job: job_1707140810941_0033
+2024-05-08 01:11:06,760 INFO  [main][org.apache.hadoop.mapreduce.Job] Job job_1707140810941_0033 running in uber mode : false
+2024-05-08 01:11:06,761 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 0% reduce 0%
+2024-05-08 01:11:11,807 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 100% reduce 0%
+2024-05-08 01:11:11,817 INFO  [main][org.apache.hadoop.mapreduce.Job] Job job_1707140810941_0033 completed successfully
+2024-05-08 01:11:11,863 INFO  [main][org.apache.hadoop.mapreduce.Job] Counters: 33
+	File System Counters
+		FILE: Number of bytes read=0
+		FILE: Number of bytes written=261372
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+		HDFS: Number of bytes read=1375
+		HDFS: Number of bytes written=274
+		HDFS: Number of read operations=12
+		HDFS: Number of large read operations=0
+		HDFS: Number of write operations=4
+	Job Counters 
+		Launched map tasks=2
+		Data-local map tasks=1
+		Rack-local map tasks=1
+		Total time spent by all maps in occupied slots (ms)=23648
+		Total time spent by all reduces in occupied slots (ms)=0
+		Total time spent by all map tasks (ms)=5912
+		Total vcore-milliseconds taken by all map tasks=5912
+		Total megabyte-milliseconds taken by all map tasks=24215552
+	Map-Reduce Framework
+		Map input records=4
+		Map output records=0
+		Input split bytes=296
+		Spilled Records=0
+		Failed Shuffles=0
+		Merged Map outputs=0
+		GC time elapsed (ms)=131
+		CPU time spent (ms)=2040
+		Physical memory (bytes) snapshot=605630464
+		Virtual memory (bytes) snapshot=11084279808
+		Total committed heap usage (bytes)=2912944128
+	File Input Format Counters 
+		Bytes Read=1079
+	File Output Format Counters 
+		Bytes Written=274
+	rhipeInternal
+		partialFlush=2
+	rhipe_timing
+		overall_mapper_ms=935
+2024-05-08 01:11:11,985 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] fs.default.name is deprecated. Instead, use fs.defaultFS
+2024-05-08 01:11:12,199 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache file:/user/wwtung/tmp/rhipe-temp-params-f937d4c43cac414ff0a79ccb951c6f41#rhipe-temp-params-f937d4c43cac414ff0a79ccb951c6f41
+2024-05-08 01:11:12,199 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache archive:/user/wwtung/bin/R.Pkg.tar.gz#R.Pkg
+2024-05-08 01:11:12,200 DEBUG [main][org.godhuli.rhipe.RHMR] /user/wwtung/HDFS_Run/Otime/m4
+2024-05-08 01:11:12,293 INFO  [main][org.apache.hadoop.yarn.client.api.impl.TimelineClientImpl] Timeline service address: http://wceres-adm.rcac.purdue.edu:8188/ws/v1/timeline/
+2024-05-08 01:11:12,293 INFO  [main][org.apache.hadoop.yarn.client.RMProxy] Connecting to ResourceManager at wceres-adm.rcac.purdue.edu/172.18.13.13:8032
+2024-05-08 01:11:12,294 INFO  [main][org.apache.hadoop.yarn.client.AHSProxy] Connecting to Application History server at wceres-adm.rcac.purdue.edu/172.18.13.13:10200
+2024-05-08 01:11:12,463 INFO  [main][org.apache.hadoop.mapreduce.lib.input.FileInputFormat] Total input paths to process : 2
+2024-05-08 01:11:12,701 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] number of splits:2
+2024-05-08 01:11:12,822 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Submitting tokens for job: job_1707140810941_0034
+2024-05-08 01:11:12,836 INFO  [main][org.apache.hadoop.yarn.client.api.impl.YarnClientImpl] Submitted application application_1707140810941_0034
+2024-05-08 01:11:12,839 INFO  [main][org.apache.hadoop.mapreduce.Job] The url to track the job: http://wceres-adm.rcac.purdue.edu:8088/proxy/application_1707140810941_0034/
+2024-05-08 01:11:12,839 INFO  [main][org.godhuli.rhipe.RHMR] Tracking URL ----> http://wceres-adm.rcac.purdue.edu:8088/proxy/application_1707140810941_0034/
+2024-05-08 01:11:12,839 INFO  [main][org.apache.hadoop.mapreduce.Job] Running job: job_1707140810941_0034
+2024-05-08 01:11:17,997 INFO  [main][org.apache.hadoop.mapreduce.Job] Job job_1707140810941_0034 running in uber mode : false
+2024-05-08 01:11:17,997 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 0% reduce 0%
+2024-05-08 01:11:23,043 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 50% reduce 0%
+2024-05-08 01:11:24,049 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 100% reduce 0%
+2024-05-08 01:11:25,063 INFO  [main][org.apache.hadoop.mapreduce.Job] Job job_1707140810941_0034 completed successfully
+2024-05-08 01:11:25,109 INFO  [main][org.apache.hadoop.mapreduce.Job] Counters: 33
+	File System Counters
+		FILE: Number of bytes read=0
+		FILE: Number of bytes written=262072
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+		HDFS: Number of bytes read=1375
+		HDFS: Number of bytes written=274
+		HDFS: Number of read operations=12
+		HDFS: Number of large read operations=0
+		HDFS: Number of write operations=4
+	Job Counters 
+		Launched map tasks=2
+		Data-local map tasks=1
+		Rack-local map tasks=1
+		Total time spent by all maps in occupied slots (ms)=29676
+		Total time spent by all reduces in occupied slots (ms)=0
+		Total time spent by all map tasks (ms)=7419
+		Total vcore-milliseconds taken by all map tasks=7419
+		Total megabyte-milliseconds taken by all map tasks=30388224
+	Map-Reduce Framework
+		Map input records=4
+		Map output records=0
+		Input split bytes=296
+		Spilled Records=0
+		Failed Shuffles=0
+		Merged Map outputs=0
+		GC time elapsed (ms)=178
+		CPU time spent (ms)=1980
+		Physical memory (bytes) snapshot=598265856
+		Virtual memory (bytes) snapshot=11076866048
+		Total committed heap usage (bytes)=2846883840
+	File Input Format Counters 
+		Bytes Read=1079
+	File Output Format Counters 
+		Bytes Written=274
+	rhipeInternal
+		partialFlush=2
+	rhipe_timing
+		overall_mapper_ms=2173
+2024-05-08 01:11:25,229 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] fs.default.name is deprecated. Instead, use fs.defaultFS
+2024-05-08 01:11:25,453 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache file:/user/wwtung/tmp/rhipe-temp-params-6493a0a785e44f484719106dbde2ccd8#rhipe-temp-params-6493a0a785e44f484719106dbde2ccd8
+2024-05-08 01:11:25,453 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache archive:/user/wwtung/bin/R.Pkg.tar.gz#R.Pkg
+2024-05-08 01:11:25,455 DEBUG [main][org.godhuli.rhipe.RHMR] /user/wwtung/HDFS_Run/Otime/m5
+2024-05-08 01:11:25,553 INFO  [main][org.apache.hadoop.yarn.client.api.impl.TimelineClientImpl] Timeline service address: http://wceres-adm.rcac.purdue.edu:8188/ws/v1/timeline/
+2024-05-08 01:11:25,553 INFO  [main][org.apache.hadoop.yarn.client.RMProxy] Connecting to ResourceManager at wceres-adm.rcac.purdue.edu/172.18.13.13:8032
+2024-05-08 01:11:25,554 INFO  [main][org.apache.hadoop.yarn.client.AHSProxy] Connecting to Application History server at wceres-adm.rcac.purdue.edu/172.18.13.13:10200
+2024-05-08 01:11:25,691 INFO  [main][org.apache.hadoop.mapreduce.lib.input.FileInputFormat] Total input paths to process : 2
+2024-05-08 01:11:25,876 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] number of splits:2
+2024-05-08 01:11:25,984 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Submitting tokens for job: job_1707140810941_0035
+2024-05-08 01:11:26,202 INFO  [main][org.apache.hadoop.yarn.client.api.impl.YarnClientImpl] Submitted application application_1707140810941_0035
+2024-05-08 01:11:26,204 INFO  [main][org.apache.hadoop.mapreduce.Job] The url to track the job: http://wceres-adm.rcac.purdue.edu:8088/proxy/application_1707140810941_0035/
+2024-05-08 01:11:26,204 INFO  [main][org.godhuli.rhipe.RHMR] Tracking URL ----> http://wceres-adm.rcac.purdue.edu:8088/proxy/application_1707140810941_0035/
+2024-05-08 01:11:26,204 INFO  [main][org.apache.hadoop.mapreduce.Job] Running job: job_1707140810941_0035
+2024-05-08 01:11:31,299 INFO  [main][org.apache.hadoop.mapreduce.Job] Job job_1707140810941_0035 running in uber mode : false
+2024-05-08 01:11:31,300 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 0% reduce 0%
+2024-05-08 01:11:36,347 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 100% reduce 0%
+2024-05-08 01:11:37,362 INFO  [main][org.apache.hadoop.mapreduce.Job] Job job_1707140810941_0035 completed successfully
+2024-05-08 01:11:37,407 INFO  [main][org.apache.hadoop.mapreduce.Job] Counters: 33
+	File System Counters
+		FILE: Number of bytes read=0
+		FILE: Number of bytes written=262072
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+		HDFS: Number of bytes read=1259
+		HDFS: Number of bytes written=274
+		HDFS: Number of read operations=12
+		HDFS: Number of large read operations=0
+		HDFS: Number of write operations=4
+	Job Counters 
+		Launched map tasks=2
+		Data-local map tasks=1
+		Rack-local map tasks=1
+		Total time spent by all maps in occupied slots (ms)=24824
+		Total time spent by all reduces in occupied slots (ms)=0
+		Total time spent by all map tasks (ms)=6206
+		Total vcore-milliseconds taken by all map tasks=6206
+		Total megabyte-milliseconds taken by all map tasks=25419776
+	Map-Reduce Framework
+		Map input records=2
+		Map output records=0
+		Input split bytes=296
+		Spilled Records=0
+		Failed Shuffles=0
+		Merged Map outputs=0
+		GC time elapsed (ms)=165
+		CPU time spent (ms)=2170
+		Physical memory (bytes) snapshot=629825536
+		Virtual memory (bytes) snapshot=11081150464
+		Total committed heap usage (bytes)=2866282496
+	File Input Format Counters 
+		Bytes Read=963
+	File Output Format Counters 
+		Bytes Written=274
+	rhipeInternal
+		partialFlush=2
+	rhipe_timing
+		overall_mapper_ms=1022
+2024-05-08 01:11:38,538 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] fs.default.name is deprecated. Instead, use fs.defaultFS
+2024-05-08 01:11:38,759 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache file:/user/wwtung/tmp/rhipe-temp-params-ece89a8953f62da34d592857b5bc02a7#rhipe-temp-params-ece89a8953f62da34d592857b5bc02a7
+2024-05-08 01:11:38,759 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache archive:/user/wwtung/bin/R.Pkg.tar.gz#R.Pkg
+2024-05-08 01:11:38,760 DEBUG [main][org.godhuli.rhipe.RHMR] /user/wwtung/HDFS_Run/Otime/m4
+2024-05-08 01:11:38,858 INFO  [main][org.apache.hadoop.yarn.client.api.impl.TimelineClientImpl] Timeline service address: http://wceres-adm.rcac.purdue.edu:8188/ws/v1/timeline/
+2024-05-08 01:11:38,858 INFO  [main][org.apache.hadoop.yarn.client.RMProxy] Connecting to ResourceManager at wceres-adm.rcac.purdue.edu/172.18.13.13:8032
+2024-05-08 01:11:38,858 INFO  [main][org.apache.hadoop.yarn.client.AHSProxy] Connecting to Application History server at wceres-adm.rcac.purdue.edu/172.18.13.13:10200
+2024-05-08 01:11:39,025 INFO  [main][org.apache.hadoop.mapreduce.lib.input.FileInputFormat] Total input paths to process : 2
+2024-05-08 01:11:39,252 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] number of splits:2
+2024-05-08 01:11:39,336 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Submitting tokens for job: job_1707140810941_0036
+2024-05-08 01:11:39,552 INFO  [main][org.apache.hadoop.yarn.client.api.impl.YarnClientImpl] Submitted application application_1707140810941_0036
+2024-05-08 01:11:39,554 INFO  [main][org.apache.hadoop.mapreduce.Job] The url to track the job: http://wceres-adm.rcac.purdue.edu:8088/proxy/application_1707140810941_0036/
+2024-05-08 01:11:39,554 INFO  [main][org.godhuli.rhipe.RHMR] Tracking URL ----> http://wceres-adm.rcac.purdue.edu:8088/proxy/application_1707140810941_0036/
+2024-05-08 01:11:39,554 INFO  [main][org.apache.hadoop.mapreduce.Job] Running job: job_1707140810941_0036
+2024-05-08 01:11:44,708 INFO  [main][org.apache.hadoop.mapreduce.Job] Job job_1707140810941_0036 running in uber mode : false
+2024-05-08 01:11:44,708 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 0% reduce 0%
+2024-05-08 01:11:49,760 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 100% reduce 0%
+2024-05-08 01:11:49,770 INFO  [main][org.apache.hadoop.mapreduce.Job] Job job_1707140810941_0036 completed successfully
+2024-05-08 01:11:49,816 INFO  [main][org.apache.hadoop.mapreduce.Job] Counters: 33
+	File System Counters
+		FILE: Number of bytes read=0
+		FILE: Number of bytes written=262072
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+		HDFS: Number of bytes read=1375
+		HDFS: Number of bytes written=274
+		HDFS: Number of read operations=12
+		HDFS: Number of large read operations=0
+		HDFS: Number of write operations=4
+	Job Counters 
+		Launched map tasks=2
+		Data-local map tasks=1
+		Rack-local map tasks=1
+		Total time spent by all maps in occupied slots (ms)=24084
+		Total time spent by all reduces in occupied slots (ms)=0
+		Total time spent by all map tasks (ms)=6021
+		Total vcore-milliseconds taken by all map tasks=6021
+		Total megabyte-milliseconds taken by all map tasks=24662016
+	Map-Reduce Framework
+		Map input records=4
+		Map output records=0
+		Input split bytes=296
+		Spilled Records=0
+		Failed Shuffles=0
+		Merged Map outputs=0
+		GC time elapsed (ms)=169
+		CPU time spent (ms)=2070
+		Physical memory (bytes) snapshot=602144768
+		Virtual memory (bytes) snapshot=11082633216
+		Total committed heap usage (bytes)=2841116672
+	File Input Format Counters 
+		Bytes Read=1079
+	File Output Format Counters 
+		Bytes Written=274
+	rhipeInternal
+		partialFlush=2
+	rhipe_timing
+		overall_mapper_ms=912
+2024-05-08 01:11:50,947 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] fs.default.name is deprecated. Instead, use fs.defaultFS
+2024-05-08 01:11:51,158 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache file:/user/wwtung/tmp/rhipe-temp-params-ece89a8953f62da34d592857b5bc02a7#rhipe-temp-params-ece89a8953f62da34d592857b5bc02a7
+2024-05-08 01:11:51,158 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache archive:/user/wwtung/bin/R.Pkg.tar.gz#R.Pkg
+2024-05-08 01:11:51,159 DEBUG [main][org.godhuli.rhipe.RHMR] /user/wwtung/HDFS_Run/Otime/m4
+2024-05-08 01:11:51,305 INFO  [main][org.apache.hadoop.yarn.client.api.impl.TimelineClientImpl] Timeline service address: http://wceres-adm.rcac.purdue.edu:8188/ws/v1/timeline/
+2024-05-08 01:11:51,305 INFO  [main][org.apache.hadoop.yarn.client.RMProxy] Connecting to ResourceManager at wceres-adm.rcac.purdue.edu/172.18.13.13:8032
+2024-05-08 01:11:51,306 INFO  [main][org.apache.hadoop.yarn.client.AHSProxy] Connecting to Application History server at wceres-adm.rcac.purdue.edu/172.18.13.13:10200
+2024-05-08 01:11:51,470 INFO  [main][org.apache.hadoop.mapreduce.lib.input.FileInputFormat] Total input paths to process : 2
+2024-05-08 01:11:51,755 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] number of splits:2
+2024-05-08 01:11:51,851 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Submitting tokens for job: job_1707140810941_0037
+2024-05-08 01:11:51,866 INFO  [main][org.apache.hadoop.yarn.client.api.impl.YarnClientImpl] Submitted application application_1707140810941_0037
+2024-05-08 01:11:51,868 INFO  [main][org.apache.hadoop.mapreduce.Job] The url to track the job: http://wceres-adm.rcac.purdue.edu:8088/proxy/application_1707140810941_0037/
+2024-05-08 01:11:51,868 INFO  [main][org.godhuli.rhipe.RHMR] Tracking URL ----> http://wceres-adm.rcac.purdue.edu:8088/proxy/application_1707140810941_0037/
+2024-05-08 01:11:51,868 INFO  [main][org.apache.hadoop.mapreduce.Job] Running job: job_1707140810941_0037
+2024-05-08 01:11:57,012 INFO  [main][org.apache.hadoop.mapreduce.Job] Job job_1707140810941_0037 running in uber mode : false
+2024-05-08 01:11:57,012 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 0% reduce 0%
+2024-05-08 01:12:02,057 INFO  [main][org.apache.hadoop.mapreduce.Job]  map 100% reduce 0%
+2024-05-08 01:12:03,072 INFO  [main][org.apache.hadoop.mapreduce.Job] Job job_1707140810941_0037 completed successfully
+2024-05-08 01:12:03,117 INFO  [main][org.apache.hadoop.mapreduce.Job] Counters: 32
+	File System Counters
+		FILE: Number of bytes read=0
+		FILE: Number of bytes written=261546
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+		HDFS: Number of bytes read=1375
+		HDFS: Number of bytes written=274
+		HDFS: Number of read operations=12
+		HDFS: Number of large read operations=0
+		HDFS: Number of write operations=4
+	Job Counters 
+		Launched map tasks=2
+		Rack-local map tasks=2
+		Total time spent by all maps in occupied slots (ms)=23956
+		Total time spent by all reduces in occupied slots (ms)=0
+		Total time spent by all map tasks (ms)=5989
+		Total vcore-milliseconds taken by all map tasks=5989
+		Total megabyte-milliseconds taken by all map tasks=24530944
+	Map-Reduce Framework
+		Map input records=4
+		Map output records=0
+		Input split bytes=296
+		Spilled Records=0
+		Failed Shuffles=0
+		Merged Map outputs=0
+		GC time elapsed (ms)=172
+		CPU time spent (ms)=2140
+		Physical memory (bytes) snapshot=605757440
+		Virtual memory (bytes) snapshot=11084275712
+		Total committed heap usage (bytes)=2847932416
+	File Input Format Counters 
+		Bytes Read=1079
+	File Output Format Counters 
+		Bytes Written=274
+	rhipeInternal
+		partialFlush=2
+	rhipe_timing
+		overall_mapper_ms=991
+2024-05-08 01:12:03,249 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] fs.default.name is deprecated. Instead, use fs.defaultFS
