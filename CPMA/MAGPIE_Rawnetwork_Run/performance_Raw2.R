@@ -1,16 +1,9 @@
 library(Rhipe)
 #N = number of observasation
 rawnetworkhome <- "/scratch/negishi/wwtung/rawnetworkfs/"
-rawnetworktmp <- paste0(rawnetworkhome,"tmp")
 rhinit()
 rhoptions(zips = paste0(rawnetworkhome,"bin/R.Pkg.tar.gz"))
 rhoptions(runner = "sh ./R.Pkg/library/Rhipe/bin/RhipeMapReduce.sh")
-rhoptions(HADOOP.TMP.FOLDER=rawnetworktmp)
-    if (!dir.exists(rawnetworktmp)) {
-         print("HADOOP.TMP.FOLDER does not exist")
-         tempdir<- dir.create(rawnetworktmp, recursive = TRUE)
-         print("HADOOP.TMP.FOLDER created")
-    }
 #----------------------------------------------------------------------
 n <- 6
 N <- 2^n

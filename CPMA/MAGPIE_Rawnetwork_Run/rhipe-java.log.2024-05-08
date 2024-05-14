@@ -1,0 +1,200 @@
+2024-05-08 00:46:28,165 WARN  [main][org.apache.hadoop.util.NativeCodeLoader] Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2024-05-08 00:46:28,273 INFO  [main][org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider] Connecting to ResourceManager at a279/172.18.105.63:8032
+2024-05-08 00:46:45,278 WARN  [main][org.apache.hadoop.util.NativeCodeLoader] Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2024-05-08 00:46:45,374 INFO  [main][org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider] Connecting to ResourceManager at a279/172.18.105.63:8032
+2024-05-08 00:47:27,804 WARN  [main][org.apache.hadoop.util.NativeCodeLoader] Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2024-05-08 00:47:27,897 INFO  [main][org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider] Connecting to ResourceManager at a279/172.18.105.63:8032
+2024-05-08 00:47:28,257 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] fs.default.name is deprecated. Instead, use fs.defaultFS
+2024-05-08 00:47:28,421 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] mapred.output.compress is deprecated. Instead, use mapreduce.output.fileoutputformat.compress
+2024-05-08 00:47:28,421 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] mapred.map.tasks is deprecated. Instead, use mapreduce.job.maps
+2024-05-08 00:47:28,435 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] mapred.job.reuse.jvm.num.tasks is deprecated. Instead, use mapreduce.job.jvm.numtasks
+2024-05-08 00:47:28,436 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] io.bytes.per.checksum is deprecated. Instead, use dfs.bytes-per-checksum
+2024-05-08 00:47:28,436 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] mapred.compress.map.output is deprecated. Instead, use mapreduce.map.output.compress
+2024-05-08 00:47:28,437 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache file:/tmp/rhipe-temp-params-44b4e93982747720d1787ca336f8ef69#rhipe-temp-params-44b4e93982747720d1787ca336f8ef69
+2024-05-08 00:47:28,437 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache archive:/scratch/negishi/wwtung/rawnetworkfs/ bin/R.Pkg.tar.gz#R.Pkg
+2024-05-08 00:48:11,820 WARN  [main][org.apache.hadoop.util.NativeCodeLoader] Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2024-05-08 00:48:11,914 INFO  [main][org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider] Connecting to ResourceManager at a279/172.18.105.63:8032
+2024-05-08 00:48:12,272 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] fs.default.name is deprecated. Instead, use fs.defaultFS
+2024-05-08 00:48:12,425 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] mapred.output.compress is deprecated. Instead, use mapreduce.output.fileoutputformat.compress
+2024-05-08 00:48:12,425 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] mapred.map.tasks is deprecated. Instead, use mapreduce.job.maps
+2024-05-08 00:48:12,425 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] mapred.job.reuse.jvm.num.tasks is deprecated. Instead, use mapreduce.job.jvm.numtasks
+2024-05-08 00:48:12,425 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] io.bytes.per.checksum is deprecated. Instead, use dfs.bytes-per-checksum
+2024-05-08 00:48:12,426 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] mapred.compress.map.output is deprecated. Instead, use mapreduce.map.output.compress
+2024-05-08 00:48:12,472 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache file:/tmp/rhipe-temp-params-02b31d7f159abe66cdd371b11bf101b4#rhipe-temp-params-02b31d7f159abe66cdd371b11bf101b4
+2024-05-08 00:48:12,472 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache archive:/scratch/negishi/wwtung/rawnetworkfs/bin/R.Pkg.tar.gz#R.Pkg
+2024-05-08 00:48:12,474 DEBUG [main][org.godhuli.rhipe.RHMR] /scratch/negishi/wwtung/rawnetworkfs/results/m5
+2024-05-08 00:48:12,489 INFO  [main][org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider] Connecting to ResourceManager at a279/172.18.105.63:8032
+2024-05-08 00:48:12,762 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] number of splits:2
+2024-05-08 00:48:12,844 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] io.bytes.per.checksum is deprecated. Instead, use dfs.bytes-per-checksum
+2024-05-08 00:48:12,915 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Submitting tokens for job: job_1715141525763_0001
+2024-05-08 00:48:12,915 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Executing with tokens: []
+2024-05-08 00:48:13,032 INFO  [main][org.apache.hadoop.conf.Configuration] resource-types.xml not found
+2024-05-08 00:48:13,033 INFO  [main][org.apache.hadoop.yarn.util.resource.ResourceUtils] Unable to find 'resource-types.xml'.
+2024-05-08 00:48:13,375 INFO  [main][org.apache.hadoop.yarn.client.api.impl.YarnClientImpl] Submitted application application_1715141525763_0001
+2024-05-08 00:48:13,400 INFO  [main][org.apache.hadoop.mapreduce.Job] The url to track the job: http://a279:8088/proxy/application_1715141525763_0001/
+2024-05-08 00:55:17,268 WARN  [main][org.apache.hadoop.util.NativeCodeLoader] Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2024-05-08 00:55:17,379 INFO  [main][org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider] Connecting to ResourceManager at a279/172.18.105.63:8032
+2024-05-08 00:55:17,743 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] fs.default.name is deprecated. Instead, use fs.defaultFS
+2024-05-08 00:55:17,931 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] mapred.output.compress is deprecated. Instead, use mapreduce.output.fileoutputformat.compress
+2024-05-08 00:55:17,931 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] mapred.map.tasks is deprecated. Instead, use mapreduce.job.maps
+2024-05-08 00:55:17,931 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] mapred.job.reuse.jvm.num.tasks is deprecated. Instead, use mapreduce.job.jvm.numtasks
+2024-05-08 00:55:17,932 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] io.bytes.per.checksum is deprecated. Instead, use dfs.bytes-per-checksum
+2024-05-08 00:55:17,932 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] mapred.compress.map.output is deprecated. Instead, use mapreduce.map.output.compress
+2024-05-08 00:55:17,932 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache file:/tmp/rhipe-temp-params-81f9fabe6e2c15063b26b54ea437e2b9#rhipe-temp-params-81f9fabe6e2c15063b26b54ea437e2b9
+2024-05-08 00:55:17,932 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache archive:/scratch/negishi/wwtung/rawnetworkfs/bin/R.Pkg.tar.gz#R.Pkg
+2024-05-08 00:55:17,934 DEBUG [main][org.godhuli.rhipe.RHMR] /scratch/negishi/wwtung/rawnetworkfs/results/m5
+2024-05-08 00:55:17,949 INFO  [main][org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider] Connecting to ResourceManager at a279/172.18.105.63:8032
+2024-05-08 00:55:18,165 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] number of splits:2
+2024-05-08 00:55:18,227 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] io.bytes.per.checksum is deprecated. Instead, use dfs.bytes-per-checksum
+2024-05-08 00:55:18,283 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Submitting tokens for job: job_1715141525763_0002
+2024-05-08 00:55:18,283 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Executing with tokens: []
+2024-05-08 00:55:18,396 INFO  [main][org.apache.hadoop.conf.Configuration] resource-types.xml not found
+2024-05-08 00:55:18,397 INFO  [main][org.apache.hadoop.yarn.util.resource.ResourceUtils] Unable to find 'resource-types.xml'.
+2024-05-08 00:55:18,439 INFO  [main][org.apache.hadoop.yarn.client.api.impl.YarnClientImpl] Submitted application application_1715141525763_0002
+2024-05-08 00:55:18,464 INFO  [main][org.apache.hadoop.mapreduce.Job] The url to track the job: http://a279:8088/proxy/application_1715141525763_0002/
+2024-05-08 01:03:07,364 WARN  [main][org.apache.hadoop.util.NativeCodeLoader] Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2024-05-08 01:03:07,460 INFO  [main][org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider] Connecting to ResourceManager at a279/172.18.105.63:8032
+2024-05-08 01:03:07,826 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] fs.default.name is deprecated. Instead, use fs.defaultFS
+2024-05-08 01:03:07,993 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] mapred.output.compress is deprecated. Instead, use mapreduce.output.fileoutputformat.compress
+2024-05-08 01:03:07,994 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] mapred.map.tasks is deprecated. Instead, use mapreduce.job.maps
+2024-05-08 01:03:07,994 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] mapred.job.reuse.jvm.num.tasks is deprecated. Instead, use mapreduce.job.jvm.numtasks
+2024-05-08 01:03:07,994 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] io.bytes.per.checksum is deprecated. Instead, use dfs.bytes-per-checksum
+2024-05-08 01:03:07,994 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] mapred.compress.map.output is deprecated. Instead, use mapreduce.map.output.compress
+2024-05-08 01:03:07,995 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache file:/tmp/rhipe-temp-params-87a1502804b943c5ff794195aa205ef8#rhipe-temp-params-87a1502804b943c5ff794195aa205ef8
+2024-05-08 01:03:07,995 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache archive:/scratch/negishi/wwtung/rawnetworkfs/bin/R.Pkg.tar.gz#R.Pkg
+2024-05-08 01:03:07,997 DEBUG [main][org.godhuli.rhipe.RHMR] /scratch/negishi/wwtung/rawnetworkfs/results/m5
+2024-05-08 01:03:08,032 INFO  [main][org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider] Connecting to ResourceManager at a279/172.18.105.63:8032
+2024-05-08 01:03:08,232 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] number of splits:2
+2024-05-08 01:03:08,353 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] io.bytes.per.checksum is deprecated. Instead, use dfs.bytes-per-checksum
+2024-05-08 01:03:08,418 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Submitting tokens for job: job_1715141525763_0003
+2024-05-08 01:03:08,418 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Executing with tokens: []
+2024-05-08 01:03:08,533 INFO  [main][org.apache.hadoop.conf.Configuration] resource-types.xml not found
+2024-05-08 01:03:08,533 INFO  [main][org.apache.hadoop.yarn.util.resource.ResourceUtils] Unable to find 'resource-types.xml'.
+2024-05-08 01:03:08,577 INFO  [main][org.apache.hadoop.yarn.client.api.impl.YarnClientImpl] Submitted application application_1715141525763_0003
+2024-05-08 01:03:08,602 INFO  [main][org.apache.hadoop.mapreduce.Job] The url to track the job: http://a279:8088/proxy/application_1715141525763_0003/
+2024-05-08 01:12:21,072 WARN  [main][org.apache.hadoop.util.NativeCodeLoader] Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2024-05-08 01:12:21,170 INFO  [main][org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider] Connecting to ResourceManager at a279/172.18.105.63:8032
+2024-05-08 01:14:13,006 WARN  [main][org.apache.hadoop.util.NativeCodeLoader] Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2024-05-08 01:14:13,100 INFO  [main][org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider] Connecting to ResourceManager at a279/172.18.105.63:8032
+2024-05-08 01:14:13,467 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] fs.default.name is deprecated. Instead, use fs.defaultFS
+2024-05-08 01:14:13,635 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] mapred.output.compress is deprecated. Instead, use mapreduce.output.fileoutputformat.compress
+2024-05-08 01:14:13,635 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] mapred.map.tasks is deprecated. Instead, use mapreduce.job.maps
+2024-05-08 01:14:13,655 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] mapred.job.reuse.jvm.num.tasks is deprecated. Instead, use mapreduce.job.jvm.numtasks
+2024-05-08 01:14:13,655 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] io.bytes.per.checksum is deprecated. Instead, use dfs.bytes-per-checksum
+2024-05-08 01:14:13,655 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] mapred.compress.map.output is deprecated. Instead, use mapreduce.map.output.compress
+2024-05-08 01:14:13,656 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache file:/tmp/rhipe-temp-params-f0bed2ee4f38be8295349019629a888f#rhipe-temp-params-f0bed2ee4f38be8295349019629a888f
+2024-05-08 01:14:13,656 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache archive:/scratch/negishi/wwtung/rawnetworkfs/bin/R.Pkg.tar.gz#R.Pkg
+2024-05-08 01:14:13,658 DEBUG [main][org.godhuli.rhipe.RHMR] /scratch/negishi/wwtung/rawnetworkfs/results/m5
+2024-05-08 01:14:13,672 INFO  [main][org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider] Connecting to ResourceManager at a279/172.18.105.63:8032
+2024-05-08 01:14:13,891 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] number of splits:2
+2024-05-08 01:14:13,951 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] io.bytes.per.checksum is deprecated. Instead, use dfs.bytes-per-checksum
+2024-05-08 01:14:14,017 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Submitting tokens for job: job_1715141525763_0004
+2024-05-08 01:14:14,017 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Executing with tokens: []
+2024-05-08 01:14:14,133 INFO  [main][org.apache.hadoop.conf.Configuration] resource-types.xml not found
+2024-05-08 01:14:14,133 INFO  [main][org.apache.hadoop.yarn.util.resource.ResourceUtils] Unable to find 'resource-types.xml'.
+2024-05-08 01:14:14,176 INFO  [main][org.apache.hadoop.yarn.client.api.impl.YarnClientImpl] Submitted application application_1715141525763_0004
+2024-05-08 01:14:14,200 INFO  [main][org.apache.hadoop.mapreduce.Job] The url to track the job: http://a279:8088/proxy/application_1715141525763_0004/
+2024-05-08 01:15:10,167 WARN  [main][org.apache.hadoop.util.NativeCodeLoader] Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2024-05-08 01:15:10,264 INFO  [main][org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider] Connecting to ResourceManager at a279/172.18.105.63:8032
+2024-05-08 01:15:10,648 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] fs.default.name is deprecated. Instead, use fs.defaultFS
+2024-05-08 01:15:10,851 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] mapred.output.compress is deprecated. Instead, use mapreduce.output.fileoutputformat.compress
+2024-05-08 01:15:10,852 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] mapred.map.tasks is deprecated. Instead, use mapreduce.job.maps
+2024-05-08 01:15:10,852 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] mapred.job.reuse.jvm.num.tasks is deprecated. Instead, use mapreduce.job.jvm.numtasks
+2024-05-08 01:15:10,852 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] io.bytes.per.checksum is deprecated. Instead, use dfs.bytes-per-checksum
+2024-05-08 01:15:10,852 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] mapred.compress.map.output is deprecated. Instead, use mapreduce.map.output.compress
+2024-05-08 01:15:10,853 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache file:/tmp/rhipe-temp-params-d56a8630192a9fd4aea533b4c293047c#rhipe-temp-params-d56a8630192a9fd4aea533b4c293047c
+2024-05-08 01:15:10,853 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache archive:/scratch/negishi/wwtung/rawnetworkfs/bin/R.Pkg.tar.gz#R.Pkg
+2024-05-08 01:15:10,855 DEBUG [main][org.godhuli.rhipe.RHMR] /scratch/negishi/wwtung/rawnetworkfs/results/m5
+2024-05-08 01:15:10,870 INFO  [main][org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider] Connecting to ResourceManager at a279/172.18.105.63:8032
+2024-05-08 01:15:11,092 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] number of splits:2
+2024-05-08 01:15:11,162 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] io.bytes.per.checksum is deprecated. Instead, use dfs.bytes-per-checksum
+2024-05-08 01:15:11,218 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Submitting tokens for job: job_1715141525763_0005
+2024-05-08 01:15:11,218 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Executing with tokens: []
+2024-05-08 01:15:11,331 INFO  [main][org.apache.hadoop.conf.Configuration] resource-types.xml not found
+2024-05-08 01:15:11,331 INFO  [main][org.apache.hadoop.yarn.util.resource.ResourceUtils] Unable to find 'resource-types.xml'.
+2024-05-08 01:15:11,373 INFO  [main][org.apache.hadoop.yarn.client.api.impl.YarnClientImpl] Submitted application application_1715141525763_0005
+2024-05-08 01:15:11,397 INFO  [main][org.apache.hadoop.mapreduce.Job] The url to track the job: http://a279:8088/proxy/application_1715141525763_0005/
+2024-05-08 01:19:02,177 WARN  [main][org.apache.hadoop.util.NativeCodeLoader] Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2024-05-08 01:19:02,272 INFO  [main][org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider] Connecting to ResourceManager at a279/172.18.105.63:8032
+2024-05-08 01:19:02,637 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] fs.default.name is deprecated. Instead, use fs.defaultFS
+2024-05-08 01:19:02,809 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] mapred.output.compress is deprecated. Instead, use mapreduce.output.fileoutputformat.compress
+2024-05-08 01:19:02,809 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] mapred.map.tasks is deprecated. Instead, use mapreduce.job.maps
+2024-05-08 01:19:02,829 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] mapred.job.reuse.jvm.num.tasks is deprecated. Instead, use mapreduce.job.jvm.numtasks
+2024-05-08 01:19:02,829 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] io.bytes.per.checksum is deprecated. Instead, use dfs.bytes-per-checksum
+2024-05-08 01:19:02,830 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] mapred.compress.map.output is deprecated. Instead, use mapreduce.map.output.compress
+2024-05-08 01:19:02,830 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache file:/tmp/rhipe-temp-params-4d3790a04ab04fdd55e69b545a7d2739#rhipe-temp-params-4d3790a04ab04fdd55e69b545a7d2739
+2024-05-08 01:19:02,830 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache archive:/scratch/negishi/wwtung/rawnetworkfs/bin/R.Pkg.tar.gz#R.Pkg
+2024-05-08 01:19:02,832 DEBUG [main][org.godhuli.rhipe.RHMR] /scratch/negishi/wwtung/rawnetworkfs/results/m5
+2024-05-08 01:19:02,847 INFO  [main][org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider] Connecting to ResourceManager at a279/172.18.105.63:8032
+2024-05-08 01:19:03,052 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] number of splits:2
+2024-05-08 01:19:03,141 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] io.bytes.per.checksum is deprecated. Instead, use dfs.bytes-per-checksum
+2024-05-08 01:19:03,188 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Submitting tokens for job: job_1715141525763_0006
+2024-05-08 01:19:03,188 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Executing with tokens: []
+2024-05-08 01:19:03,304 INFO  [main][org.apache.hadoop.conf.Configuration] resource-types.xml not found
+2024-05-08 01:19:03,304 INFO  [main][org.apache.hadoop.yarn.util.resource.ResourceUtils] Unable to find 'resource-types.xml'.
+2024-05-08 01:19:03,346 INFO  [main][org.apache.hadoop.yarn.client.api.impl.YarnClientImpl] Submitted application application_1715141525763_0006
+2024-05-08 01:19:03,371 INFO  [main][org.apache.hadoop.mapreduce.Job] The url to track the job: http://a279:8088/proxy/application_1715141525763_0006/
+2024-05-08 15:27:15,206 WARN  [main][org.apache.hadoop.util.NativeCodeLoader] Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2024-05-08 15:27:15,328 INFO  [main][org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider] Connecting to ResourceManager at a118/172.18.104.158:8032
+2024-05-08 15:27:15,723 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] fs.default.name is deprecated. Instead, use fs.defaultFS
+2024-05-08 15:27:15,929 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] mapred.output.compress is deprecated. Instead, use mapreduce.output.fileoutputformat.compress
+2024-05-08 15:27:15,929 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] mapred.map.tasks is deprecated. Instead, use mapreduce.job.maps
+2024-05-08 15:27:15,929 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] mapred.job.reuse.jvm.num.tasks is deprecated. Instead, use mapreduce.job.jvm.numtasks
+2024-05-08 15:27:15,930 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] io.bytes.per.checksum is deprecated. Instead, use dfs.bytes-per-checksum
+2024-05-08 15:27:15,930 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] mapred.compress.map.output is deprecated. Instead, use mapreduce.map.output.compress
+2024-05-08 15:27:15,930 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache file:/tmp/rhipe-temp-params-0e548fd8e03cb348266c8853792e699c#rhipe-temp-params-0e548fd8e03cb348266c8853792e699c
+2024-05-08 15:27:15,931 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache archive:/scratch/negishi/wwtung/rawnetworkfs/bin/R.Pkg.tar.gz#R.Pkg
+2024-05-08 15:27:15,952 DEBUG [main][org.godhuli.rhipe.RHMR] /scratch/negishi/wwtung/rawnetworkfs/results/m5
+2024-05-08 15:27:15,967 INFO  [main][org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider] Connecting to ResourceManager at a118/172.18.104.158:8032
+2024-05-08 15:27:16,245 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] number of splits:2
+2024-05-08 15:27:16,309 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] io.bytes.per.checksum is deprecated. Instead, use dfs.bytes-per-checksum
+2024-05-08 15:27:16,384 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Submitting tokens for job: job_1715194290969_0001
+2024-05-08 15:27:16,384 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Executing with tokens: []
+2024-05-08 15:27:16,502 INFO  [main][org.apache.hadoop.conf.Configuration] resource-types.xml not found
+2024-05-08 15:27:16,502 INFO  [main][org.apache.hadoop.yarn.util.resource.ResourceUtils] Unable to find 'resource-types.xml'.
+2024-05-08 15:27:16,859 INFO  [main][org.apache.hadoop.yarn.client.api.impl.YarnClientImpl] Submitted application application_1715194290969_0001
+2024-05-08 15:27:16,885 INFO  [main][org.apache.hadoop.mapreduce.Job] The url to track the job: http://a118:8088/proxy/application_1715194290969_0001/
+2024-05-08 15:29:51,451 WARN  [main][org.apache.hadoop.util.NativeCodeLoader] Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2024-05-08 15:29:51,548 INFO  [main][org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider] Connecting to ResourceManager at a118/172.18.104.158:8032
+2024-05-08 15:29:51,920 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] fs.default.name is deprecated. Instead, use fs.defaultFS
+2024-05-08 15:29:52,081 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] mapred.output.compress is deprecated. Instead, use mapreduce.output.fileoutputformat.compress
+2024-05-08 15:29:52,081 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] mapred.map.tasks is deprecated. Instead, use mapreduce.job.maps
+2024-05-08 15:29:52,082 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] mapred.job.reuse.jvm.num.tasks is deprecated. Instead, use mapreduce.job.jvm.numtasks
+2024-05-08 15:29:52,082 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] io.bytes.per.checksum is deprecated. Instead, use dfs.bytes-per-checksum
+2024-05-08 15:29:52,082 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] mapred.compress.map.output is deprecated. Instead, use mapreduce.map.output.compress
+2024-05-08 15:29:52,095 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache file:/tmp/rhipe-temp-params-707940a380ed424152e36eb3a0716286#rhipe-temp-params-707940a380ed424152e36eb3a0716286
+2024-05-08 15:29:52,095 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache archive:/scratch/negishi/wwtung/rawnetworkfs/bin/R.Pkg.tar.gz#R.Pkg
+2024-05-08 15:29:52,098 DEBUG [main][org.godhuli.rhipe.RHMR] /scratch/negishi/wwtung/rawnetworkfs/results/m5
+2024-05-08 15:29:52,113 INFO  [main][org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider] Connecting to ResourceManager at a118/172.18.104.158:8032
+2024-05-08 15:29:52,355 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] number of splits:2
+2024-05-08 15:29:52,425 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] io.bytes.per.checksum is deprecated. Instead, use dfs.bytes-per-checksum
+2024-05-08 15:29:52,474 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Submitting tokens for job: job_1715194290969_0002
+2024-05-08 15:29:52,474 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Executing with tokens: []
+2024-05-08 15:29:52,589 INFO  [main][org.apache.hadoop.conf.Configuration] resource-types.xml not found
+2024-05-08 15:29:52,589 INFO  [main][org.apache.hadoop.yarn.util.resource.ResourceUtils] Unable to find 'resource-types.xml'.
+2024-05-08 15:29:52,634 INFO  [main][org.apache.hadoop.yarn.client.api.impl.YarnClientImpl] Submitted application application_1715194290969_0002
+2024-05-08 15:29:52,659 INFO  [main][org.apache.hadoop.mapreduce.Job] The url to track the job: http://a118:8088/proxy/application_1715194290969_0002/
+2024-05-08 15:32:32,544 WARN  [main][org.apache.hadoop.util.NativeCodeLoader] Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2024-05-08 15:32:32,638 INFO  [main][org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider] Connecting to ResourceManager at a118/172.18.104.158:8032
+2024-05-08 15:34:42,741 WARN  [main][org.apache.hadoop.util.NativeCodeLoader] Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2024-05-08 15:34:42,834 INFO  [main][org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider] Connecting to ResourceManager at a118/172.18.104.158:8032
+2024-05-08 15:35:14,833 WARN  [main][org.apache.hadoop.util.NativeCodeLoader] Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2024-05-08 15:35:14,931 INFO  [main][org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider] Connecting to ResourceManager at a118/172.18.104.158:8032
+2024-05-08 15:35:15,308 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] fs.default.name is deprecated. Instead, use fs.defaultFS
+2024-05-08 15:35:15,499 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] mapred.output.compress is deprecated. Instead, use mapreduce.output.fileoutputformat.compress
+2024-05-08 15:35:15,499 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] mapred.map.tasks is deprecated. Instead, use mapreduce.job.maps
+2024-05-08 15:35:15,500 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] mapred.job.reuse.jvm.num.tasks is deprecated. Instead, use mapreduce.job.jvm.numtasks
+2024-05-08 15:35:15,500 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] io.bytes.per.checksum is deprecated. Instead, use dfs.bytes-per-checksum
+2024-05-08 15:35:15,500 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] mapred.compress.map.output is deprecated. Instead, use mapreduce.map.output.compress
+2024-05-08 15:35:15,501 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache file:/tmp/rhipe-temp-params-cf83424deaca1df86f65106ec0d553ed#rhipe-temp-params-cf83424deaca1df86f65106ec0d553ed
+2024-05-08 15:35:15,501 INFO  [main][org.godhuli.rhipe.RHMR] Adding to cache archive:/scratch/negishi/wwtung/rawnetworkfs/bin/R.Pkg.tar.gz#R.Pkg
+2024-05-08 15:35:15,503 DEBUG [main][org.godhuli.rhipe.RHMR] /scratch/negishi/wwtung/rawnetworkfs/results/m5
+2024-05-08 15:35:15,518 INFO  [main][org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider] Connecting to ResourceManager at a118/172.18.104.158:8032
+2024-05-08 15:35:15,746 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] number of splits:2
+2024-05-08 15:35:15,816 INFO  [main][org.apache.hadoop.conf.Configuration.deprecation] io.bytes.per.checksum is deprecated. Instead, use dfs.bytes-per-checksum
+2024-05-08 15:35:15,886 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Submitting tokens for job: job_1715194290969_0003
+2024-05-08 15:35:15,886 INFO  [main][org.apache.hadoop.mapreduce.JobSubmitter] Executing with tokens: []
+2024-05-08 15:35:15,999 INFO  [main][org.apache.hadoop.conf.Configuration] resource-types.xml not found
+2024-05-08 15:35:15,999 INFO  [main][org.apache.hadoop.yarn.util.resource.ResourceUtils] Unable to find 'resource-types.xml'.
+2024-05-08 15:35:16,042 INFO  [main][org.apache.hadoop.yarn.client.api.impl.YarnClientImpl] Submitted application application_1715194290969_0003
+2024-05-08 15:35:16,066 INFO  [main][org.apache.hadoop.mapreduce.Job] The url to track the job: http://a118:8088/proxy/application_1715194290969_0003/
