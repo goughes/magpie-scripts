@@ -53,7 +53,7 @@
 # Partition to launch job in
 #SBATCH --partition=a
 #SBATCH --account=smk-a
-#SBATCH --reservation=smk-a_57
+#SBATCH --reservation=smk-a_65
 
 ## SLURM Values
 # Generally speaking, don't touch the following, misc other configuration
@@ -825,7 +825,10 @@ export HADOOP_HDFSOVERNETWORKFS_PATH="/networkfs/${USER}/hdfsovernetworkfs/"
 #
 # This is used with HADOOP_FILESYSTEM_MODE="rawnetworkfs"
 #
-export HADOOP_RAWNETWORKFS_PATH="$CLUSTER_SCRATCH/rawnetworkfs"
+# export HADOOP_RAWNETWORKFS_PATH="$CLUSTER_SCRATCH/rawnetworkfs"
+export HADOOP_RAWNETWORKFS_PATH="/ceph/wceres/wwtung/rawnetworkfs"
+rawnetworkhome <- "/ceph/wceres/wwtung/rawnetworkfs/"
+rawnetworktmp <- paste0(rawnetworkhome,"tmp")
 
 # If you have a local SSD or NVRAM, performance may be better to store
 # intermediate data on it rather than Lustre or some other networked
