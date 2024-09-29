@@ -11,7 +11,8 @@ export HADOOP_HOME="/home/wwtung/hadoop-3.3.6"
 export HADOOP_CONF_DIR="/tmp/wwtung/hadoop/magpietest/15961698/hadoop/conf"
 ```
 3. Run these to further set HADOOP_LIBS for magpie
-`export HADOOP_LIBS=$HADOOP_HOME/etc/hadoop:$HADOOP_HOME/share/hadoop/common/lib/:$HADOOP_HOME/share/hadoop/common/:$HADOOP_HOME/share/hadoop/hdfs:$HADOOP_HOME/share/hadoop/hdfs/lib/:$HADOOP_HOME/share/hadoop/hdfs/:$HADOOP_HOME/share/hadoop/yarn/lib/:$HADOOP_HOME/share/hadoop/yarn/:$HADOOP_HOME/share/hadoop/mapreduce/lib/:$HADOOP_HOME/share/hadoop/mapreduce/:$HADOOP_HOME/contrib/capacity-scheduler/`
+```export HADOOP_LIBS=$HADOOP_HOME/etc/hadoop:$HADOOP_HOME/share/hadoop/common/lib/:$HADOOP_HOME/share/hadoop/common/:$HADOOP_HOME/share/hadoop/hdfs:$HADOOP_HOME/share/hadoop/hdfs/lib/:$HADOOP_HOME/share/hadoop/hdfs/:$HADOOP_HOME/share/hadoop/yarn/lib/:$HADOOP_HOME/share/hadoop/yarn/:$HADOOP_HOME/share/hadoop/mapreduce/lib/:$HADOOP_HOME/share/hadoop/mapreduce/:$HADOOP_HOME/contrib/capacity-scheduler/
+```
 4. Get this (just once):
 ```
 cp /depot/gdsp/data/CPMA/MAGPIE_Run/Rhipe_0.78.0_hadoop-2.tar.gz .
@@ -39,8 +40,16 @@ install.packages("testthat")
 install.packages("Rhipe_0.78.0_hadoop-2.tar.gz", repos=NULL, type="source")
 ```
 
-These can be done after quit and restart R:
+These can be done after quit and restart R, to quit: 
+```
+q()
+```
+To restart R:
+```
+R
+```
 
+R commands:
 ```
 library(Rhipe)
 rhinit()
@@ -58,11 +67,19 @@ rhoptions(runner="sh ./R.Pkg/library/Rhipe/bin/RhipeMapReduce.sh")
 ```
 
 7. CPMA script
+
+These are done in the shell environment. Copy the script from GDSP's Depot space to your own scratch disk to perform experiments. Swap `wwtung` with your own username:
+
 ```
 cd /depot/gdsp/data/CPMA/MAGPIE_Lustre_HDFS_Run
+cp performance.R /scratch/negishi/wwtung/CPMA/MAGPIE_Lustre_HDFS_Run
+```
+
+```
+cd /scratch/negishi/wwtung/CPMA/MAGPIE_Lustre_HDFS_Run
 Rscript performance.R
 ```
-8. Next time use magpie-hadoop-lustre-hdfs again, might need to remove the in_use lock file.
+8. Next time use magpie-hadoop-lustre-hdfs again, you might need to remove the in_use lock file.
 ```
 rm /scratch/negishi/wwtung/hdfsoverlustre//magpie.hdfs_in_use
 ```
