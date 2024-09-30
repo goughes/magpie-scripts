@@ -92,3 +92,20 @@ Note this version of `performance.R` has output pointed to the Ceph storage.
 cd /ceph/wceres/wwtung/CPMA/MAGPIE_CEPH_HDFS_Run
 Rscript performance.R
 ```
+
+#### Footnotes
+```
+wwtung@a283.negishi:[MAGPIE_CEPH_HDFS_Run] $ $HADOOP_HOME/bin/hadoop fs -ls /
+Found 3 items
+drwx------   - wwtung wwtung          0 2024-09-29 22:34 /ceph
+drwxrwx---   - wwtung wwtung          0 2024-09-29 22:46 /tmp
+drwx------   - wwtung wwtung          0 2024-09-29 22:05 /user
+
+wwtung@a283.negishi:[MAGPIE_CEPH_HDFS_Run] $ $HADOOP_HOME/bin/hadoop fs -ls /ceph
+Found 1 items
+drwx------   - wwtung wwtung          0 2024-09-29 22:34 /ceph/wceres
+wwtung@a283.negishi:[MAGPIE_CEPH_HDFS_Run] $ $HADOOP_HOME/bin/hadoop fs -ls /ceph/wceres
+Found 1 items
+drwx------   - wwtung wwtung          0 2024-09-29 22:34 /ceph/wceres/wwtung
+
+```
