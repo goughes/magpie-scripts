@@ -5,7 +5,7 @@ rhinit()
 rhoptions(zips = "/user/wwtung/bin/R.Pkg.tar.gz")
 rhoptions(runner = "sh ./R.Pkg/library/Rhipe/bin/RhipeMapReduce.sh")
 
-rawnetworkhome <- "/ceph/wceres/wwtung/rawnetworkfs/"
+rawnetworkhome <- "/ceph/wceres/wwtung/hdfsoverlustre/"
 rawnetworktmp <- paste0(rawnetworkhome,"tmp")
 
 #----------------------------------------------------------------------
