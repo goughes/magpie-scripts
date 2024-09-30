@@ -108,4 +108,6 @@ wwtung@a283.negishi:[MAGPIE_CEPH_HDFS_Run] $ $HADOOP_HOME/bin/hadoop fs -ls /cep
 Found 1 items
 drwx------   - wwtung wwtung          0 2024-09-29 22:34 /ceph/wceres/wwtung
 
+wwtung@a283.negishi:[MAGPIE_CEPH_HDFS_Run] $ cp performance.RData /depot/wwtung/data/performance.ceph.hdfs.RData
+
 ```
