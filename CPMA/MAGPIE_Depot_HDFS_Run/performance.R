@@ -1,8 +1,13 @@
+options(java.parameters = "-Xmx4000m") # use this line when you have >100M data
 library(Rhipe)
 #N = number of observasation
 rhinit()
 rhoptions(zips = "/user/wwtung/bin/R.Pkg.tar.gz")
 rhoptions(runner = "sh ./R.Pkg/library/Rhipe/bin/RhipeMapReduce.sh")
+
+rawnetworkhome <- "/depot/wwtung/data/hdfsoverlustre/"
+rawnetworktmp <- paste0(rawnetworkhome,"tmp")
+
 #----------------------------------------------------------------------
 n <- 6
 N <- 2^n
@@ -27,7 +32,7 @@ timing <- data.frame()
 for( blocksize in blocksize.c){
   ### 1. Simulate Data 
   for(m in m.c){
-    dir.dm  <- paste("/user/wwtung/results/","m",m,sep="")
+    dir.dm  <- paste0(rawnetworkhome,"CEPH_Run/results/","m",m,sep="")
     mr1 <- rhwatch(
       map      = map1,
       input    = c(2^(n-m),2),
@@ -49,8 +54,8 @@ for( blocksize in blocksize.c){
   map2 <- expression({})
   for( rep in rep.c ){
     for(m in m.c){
-      dir.dm  <- paste("/user/wwtung/results/","m",m,sep="")
-      dir.nf  <- paste("/user/wwtung/Otime/","m",m,sep="")
+      dir.dm  <- paste0(rawnetworkhome,"CEPH_Run/results/","m",m,sep="")
+      dir.nf  <- paste0(rawnetworkhome,"CEPH_Run/Otime/","m",m,sep="")
       mr2 <- rhwatch(
         map      = map2,
         input    = dir.dm,
@@ -95,8 +100,8 @@ for( blocksize in blocksize.c){
     )  
     type <- "T"
     for(m in m.c){
-      dir.dm  <- paste("/user/wwtung/results/","m",m,sep="")
-      dir.gf  <- paste("/user/wwtung/Ttime/","m",m,sep="")
+      dir.dm  <- paste0(rawnetworkhome,"CEPH_Run/results/","m",m,sep="")
+      dir.gf  <- paste0(rawnetworkhome,"CEPH_Run/Ttime/","m",m,sep="")
       mr3 <- rhwatch(
         map      = map3,
         reduce   = reduce3,

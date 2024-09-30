@@ -89,10 +89,6 @@ Note this version of `performance.R` has output pointed to the Ceph storage.
 
 
 ```
-cd /scratch/negishi/wwtung/CPMA/MAGPIE_Lustre_HDFS_Run
+cd /ceph/wceres/wwtung/CPMA/MAGPIE_CEPH_HDFS_Run
 Rscript performance.R
-```
-8. Next time use magpie-hadoop-lustre-hdfs again, you might need to remove the in_use lock file.
-```
-rm /scratch/negishi/wwtung/hdfsoverlustre//magpie.hdfs_in_use
 ```
