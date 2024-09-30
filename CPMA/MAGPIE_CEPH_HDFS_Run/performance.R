@@ -4,6 +4,10 @@ library(Rhipe)
 rhinit()
 rhoptions(zips = "/user/wwtung/bin/R.Pkg.tar.gz")
 rhoptions(runner = "sh ./R.Pkg/library/Rhipe/bin/RhipeMapReduce.sh")
+
+rawnetworkhome <- "/ceph/wceres/wwtung/rawnetworkfs/"
+rawnetworktmp <- paste0(rawnetworkhome,"tmp")
+
 #----------------------------------------------------------------------
 n <- 6
 N <- 2^n
@@ -28,7 +32,7 @@ timing <- data.frame()
 for( blocksize in blocksize.c){
   ### 1. Simulate Data 
   for(m in m.c){
-    dir.dm  <- paste("/wceres/wwtung/CEPH_Run/results/","m",m,sep="")
+    dir.dm  <- paste0(rawnetworkhome,"CEPH_Run/results/","m",m,sep="")
     mr1 <- rhwatch(
       map      = map1,
       input    = c(2^(n-m),2),
@@ -50,8 +54,8 @@ for( blocksize in blocksize.c){
   map2 <- expression({})
   for( rep in rep.c ){
     for(m in m.c){
-      dir.dm  <- paste("/wceres/wwtung/CEPH_Run/results/","m",m,sep="")
-      dir.nf  <- paste("/wceres/wwtung/CEPH_Run/Otime/","m",m,sep="")
+      dir.dm  <- paste0(rawnetworkhome,"CEPH_Run/results/","m",m,sep="")
+      dir.nf  <- paste0(rawnetworkhome,"CEPH_Run/Otime/","m",m,sep="")
       mr2 <- rhwatch(
         map      = map2,
         input    = dir.dm,
@@ -96,8 +100,8 @@ for( blocksize in blocksize.c){
     )  
     type <- "T"
     for(m in m.c){
-      dir.dm  <- paste("/wceres/wwtung/CEPH_Run/results/","m",m,sep="")
-      dir.gf  <- paste("/wceres/wwtung/CEPH_Run/Ttime/","m",m,sep="")
+      dir.dm  <- paste0(rawnetworkhome,"CEPH_Run/results/","m",m,sep="")
+      dir.gf  <- paste0(rawnetworkhome,"CEPH_Run/Ttime/","m",m,sep="")
       mr3 <- rhwatch(
         map      = map3,
         reduce   = reduce3,
